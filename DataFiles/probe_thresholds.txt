@@ -1,0 +1,133 @@
+probe	threshold
+gp-3	0.2
+40_f,g	0.2
+67_r	0.2
+190_g,p_g.p.s	0.25
+190_g,p_g.p.s	0.25
+82_1,2_1,5_1,2,7	0.25
+82_1,2_1,5_1,2,7	0.25
+82_1,2_1,5_1,2,7	0.25
+106_e,n,x-4	0.3
+39_f sub 1-2	0.35
+108_ e,n,x,z15	0.5
+114_l,w	0.6
+169_y-2	0.6
+170_y-3	0.6
+36_e,h	0.6
+71_z	0.65
+86_1,7	0.65
+73_z10	0.7
+74_z29	0.7
+87_1,6	0.7
+88_1,5_1,2,7	0.7
+88_1,5_1,2,7	0.7
+93_1,5	0.7
+107_e,n,z15 and e,n,x,z15	0.75
+107_e,n,z15 and e,n,x,z15	0.75
+223_Kottbus	0.75
+gmq-gq-5	0.75
+gmq-gq-5	0.75
+42_f,g,t-2	0.75
+44_f,g,s	0.75
+56_g,s,t or g,t	0.75
+56_g,s,t or g,t	0.75
+61_l,z13_l,v	0.75
+61_l,z13_l,v	0.75
+76_z4,z23	0.75
+83_1,7_Indiana	0.75
+154_m,t_mtpu_gmt-3	0.8
+154_m,t_mtpu_gmt-3	0.8
+154_m,t_mtpu_gmt-3	0.8
+173_g,m,s-4 (g,m[p]s)	0.8
+173_g,m,s-4 (g,m[p]s)	0.8
+183_g,m,q or g,q-2	0.8
+188_m,t_g,m,t	0.8
+183_g,m,q or g,q-2	0.8
+188_m,t_g,m,t	0.8
+224_O:61-k1	0.8
+gt-1	0.8
+r,[i]-4	0.8
+1,2,7-5	0
+152_m,t_mtpu_gmt	0
+152_m,t_mtpu_gmt	0
+152_m,t_mtpu_gmt	0
+153_m,t_mtpu_gmt-2	0
+153_m,t_mtpu_gmt-2	0
+153_m,t_mtpu_gmt-2	0
+157_fgt,fg,gmt	0
+157_fgt,fg,gmt	0
+157_fgt,fg,gmt	0
+161_a-3	0
+168_b-5	0
+gpu-gp-fg-gst	0
+gpu-gp-fg-gst	0
+gpu-gp-fg-gst	0
+gpu-gp-fg-gst	0
+179_l,z13,z28-2 (FliC)	0
+180_l,z13,z28-2 (FljB)	0
+180_l,z13,z28-2 (FljB)	0
+216_i-2	0
+219_gp-1	0
+d-4	0
+1,5,7	0
+pepT-3	0
+33_c	0
+35_d-2	0
+45_f,g,m,t	0
+46_f,g,m,t-2	0
+57_g,z51	0
+59_k	0
+64_l,z28	0
+gpu-2	0
+69_r,[i]	0
+75_z38	0
+78_z4,z24	0
+94_1,5-2	0
+96_1,5-4	0
+fgt-gmt-mptu-mt	0
+fgt-gmt-mptu-mt	0
+fgt-gmt-mptu-mt	0
+fgt-gmt-mptu-mt	0
+gp-2	0
+p	0
+139_1,2	0.35
+108_ e,n,x,z15	0.5
+116_z6 and z67 -2	0.6
+116_z6 and z67 -2	0.6
+107_e,n,z15 and e,n,x,z15	0.75
+107_e,n,z15 and e,n,x,z15	0.75
+61_l,z13_l,v	0.75
+61_l,z13_l,v	0.75
+179_l,z13,z28-2 (FliC)	0
+137_RHS-Gallinarum-2	0.2
+5_C2-C3	0.2
+1_A	0.3
+16_M	0.2
+19_0	0.55
+210_Pullorum-1	0.65
+140_B-3	0.7
+Dublin-nupC	0.7
+122_Vi	0.8
+122_Vi	0.8
+141_B-4	0.8
+224_O:61-k1	0.8
+26_Y	0.8
+29_O-61	0.8
+9_G	0.8
+10_H	0
+12_J	0
+13_K	0
+14_L	0
+142_D1/D2-3	0
+147_E1-2	0
+18_N	0
+21_P	0
+213_Enteritidis-1	0
+23_S	0
+D1/D2-5	0.5
+D1/D2-5	0.5
+24_V	0
+28_O-58	0
+Ent-rfbE	0
+Ent-rfbE	0
+4_C1	0

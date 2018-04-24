@@ -1,0 +1,2710 @@
+Serovar	Group	O Antigen	Serogroup	H Phase 1	H Phase 2	Serogroup Formula	Antigenic Formula	Subspecies
+Abortusequi	O:4 (B)	4,12	B	-	e,n,x	B:-:e,n,x	4,12:-:e,n,x	I
+Cotia	O:18 (K)	18	K	-	1,6	K:-:1,6	18:-:1,6	I
+Gallinarum	O:9 (D1)	1,9,12	D	-	-	D:-:-	1,9,12:-:-	I
+II 6,7:-:1,6	O:7 (C1)	6,7	C1	-	1,6	C1:-:1,6	6,7:-:1,6	II
+II 11:-:1,5	O:11 (F)	11	F	-	1,5	F:-:1,5	11:-:1,5	II
+II 1,13,23:-:1,[5],7	O:13 (G)	1,13,23	G	-	1,[5],7	G:-:1,[5],7	1,13,23:-:1,[5],7	II
+II 13,23:-:1,6	O:13 (G)	13,23	G	-	1,6	G:-:1,6	13,23:-:1,6	II
+II 51:-:1,7	O:51	51	O-51	-	1,7	O-51:-:1,7	51:-:1,7	II
+II 65:-:1,6	O:65	65	O-65	-	1,6	O-65:-:1,6	65:-:1,6	II
+II 39:-:1,7	O:39 (Q)	39	Q	-	1,7	Q:-:1,7	39:-:1,7	II
+II 1,40:-:1,(5),7	O:40 (R) 	1,40	R	-	1,(5),7	R:-:1,(5),7	1,40:-:1,(5),7	II
+II 1,40:-:1,(5),7	O:40 (R) 	1,40	R	-	1,(5),7	R:-:1,(5),7	1,40:-:1,(5),7	II
+II 41:-:1,6	O:41 (S)	41	S	-	1,6	S:-:1,6	41:-:1,6	II
+II 47:-:-	O:47 (X)	47	X	-	-	X:-:-	47:-:-	II
+II 47:-:e,n,x	O:47 (X)	47	X	-	e,n,x	X:-:e,n,x	47:-:e,n,x	II
+Leda	O:53	53	O-53	-	1,6	O-53:-:1,6	53:-:1,6	I
+II 6,7:(g),m,[s],t:1,5	O:7 (C1)	6,7	C1	(g),m,[s],t	1,5	C1:(g),m,[s],t:1,5	6,7:(g),m,[s],t:1,5	II
+II 6,7:(g),m,[s],t:1,5	O:7 (C1)	6,7	C1	(g),m,[s],t	1,5	C1:,m,t:1,5	6,7:(g),m,[s],t:1,5	II
+Berta	O:9 (D1)	1,9,12	D	[f],g,[t]	-	D:[f],g,[t]:-	1,9,12:[f],g,[t]:-	I
+Berta	O:9 (D1)	1,9,12	D	g,t	-	D:f,g:-	1,9,12:[f],g,[t]:-	I
+Berta	O:9 (D1)	1,9,12	D	f,g	-	D:g,t:-	1,9,12:[f],g,[t]:-	I
+Berta	O:9 (D1)	1,9,12	D	f,g,t	-	D:g,t:-	1,9,12:[f],g,[t]:-	I
+II 39:[g],m,t:-	O:39 (Q)	39	Q	[g],m,t	-	Q:[g],m,t:-	39:[g],m,t:-	II
+II 39:[g],m,t:e,n,x	O:39 (Q)	39	Q	[g],m,t	e,n,x	Q:[g],m,t:e,n,x	39:[g],m,t:e,n,x	II
+II 1,13,23:[z42]:1,[5],7	O:13 (G)	1,13,23	G	[z42]	1,[5],7	G:z42:1,[5],7	1,13,23:[z42]:1,[5],7	II
+Alkmaar	O:1,3,19 (E4)	1,3,19	E	a	l,w	E:a:l,w	1,3,19:a:l,w	I
+Aminatu	O:3,10 (E1)	3,10	E	a	1,2	E:a:1,2	3,10:a:1,2	I
+Amunigun	O:16 (l)	16	I	a	1,6	I:a:1,6	16:a:1,6	I
+Antonio	O:57	57	O-57	a	z6	O-57:a:z6	57:a:z6	I
+Arechavaleta	O:4 (B)	4,[5],12	B	a	1,7	B:a:1,7	4,[5],12:a:1,7	I
+Assen	O:21 (L)	21	L	a	-	L:a:-	21:a:-	I
+Assen	O:21 (L)	21	L	a	1,5	L:a:1,5	21:a:1,5	I
+Austin	O:7 (C1)	6,7	C1	a	1,7	C1:a:1,7	6,7:a:1,7	I
+Baildon	O:9,46 (D2)	9,46	D	a	e,n,x	D:a:e,n,x	9,46:a:e,n,x	I
+Bakau	O:28 (M)	28	M	a	1,7	M:a:1,7	28:a:1,7	I
+Banjul	O:6,14 (H)	1,6,14,25	H	a	e,n,z15	H:a:e,n,z15	1,6,14,25:a:e,n,z15	I
+Be	O:8 (C2-C3)	8,20	C2-C3	a	-	C2-C3:a:-	8,20:a:-	I
+Be	O:8 (C2-C3)	8,20	C2-C3	a	z6	C2-C3:a:z6	8,20:a:z6	I
+Berkeley	O:43 (U)	43	U	a	1,5	U:a:1,5	43:a:1,5	I
+Bispebjerg	O:4 (B)	1,4,[5],12	B	a	e,n,x	B:a:e,n,x	1,4,[5],12:a:e,n,x	I
+Bonames	O:17 (J)	17	J	a	1,2	J:a:1,2	17:a:1,2	I
+Brazil	O:16 (l)	16	I	a	1,5	I:a:1,5	16:a:1,5	I
+Brazos	O:18 (K)	6,14,18	K	a	e,n,z15	K:a:e,n,z15	6,14,18:a:e,n,z15	I
+Burundi	O:41 (S)	41	S	a	-	S:a:-	41:a:-	I
+Chagoua	O:13 (G)	1,13,23	G	a	1,5	G:a:1,5	1,13,23:a:1,5	I
+Coleypark	O:7 (C1)	6,7,14	C1	a	l,w	C1:a:l,w	6,7,14:a:l,w	I
+Curacao	O:8 (C2-C3)	6,8	C2-C3	a	1,6	C2-C3:a:1,6	6,8:a:1,6	I
+Dakar	O:28 (M)	28	M	a	1,6	M:a:1,6	28:a:1,6	I
+Damman	O:7 (C1)	6,7,14	C1	a	z6	C1:a:z6	6,7,14:a:z6	I
+Denver	O:7 (C1)	6,7	C1	a	e,n,z15	C1:a:e,n,z15	6,7:a:e,n,z15	I
+Detmold	O:9,46 (D2)	9,46	D	a	1,2	D:a:1,2	9,46:a:1,2	I
+Dibra	O:28 (M)	28	M	a	z6	M:a:z6	28:a:z6	I
+Doba	O:9,46 (D2)	9,46	D	a	e,n,z15	D:a:e,n,z15	9,46:a:e,n,z15	I
+Doncaster	O:8 (C2-C3)	6,8	C2-C3	a	1,5	C2-C3:a:1,5	6,8:a:1,5	I
+Doulassame	O:30 (N)	30	N	a	e,n,z15	N:a:e,n,z15	30:a:e,n,z15	I
+Durban	O:9 (D1)	1,9,12	D	a	e,n,z15	D:a:e,n,z15	1,9,12:a:e,n,z15	I
+Epinay	O:11 (F)	11	F	a	l,z13,z28	F:a:l,z13,z28	11:a:l,z13,z28	I
+Faji	O:42 (T)	1,42	T	a	e,n,z15	T:a:e,n,z15	1,42:a:e,n,z15	I
+Fischerhuette	O:16 (l)	16	I	a	e,n,z15	I:a:e,n,z15	16:a:e,n,z15	I
+Fulica	O:4 (B)	4,[5],12	B	a	-	B:a:-	4,[5],12:a:-	I
+Fulica	O:4 (B)	4,[5],12	B	a	1,5	B:a:1,5	4,[5],12:a:1,5	I
+Galil	O:3,10 (E1)	3,10	E	a	e,n,z15	E:a:e,n,z15	3,10:a:e,n,z15	I
+Gallen	O:11 (F)	11	F	a	1,2	F:a:1,2	11:a:1,2	I
+Garba	O:6,14 (H)	1,6,14,25	H	a	1,5	H:a:1,5	1,6,14,25:a:1,5	I
+Goelzau	O:3,10 (E1)	3,{10}{15}	E	a	1,5	E:a:1,5	3,{10}{15}:a:1,5	I
+Graz	O:43 (U)	43	U	a	1,2	U:a:1,2	43:a:1,2	I
+Greiz	O:40 (R) 	40	R	a	z6	R:a:z6	40:a:z6	I
+Guarapiranga	O:30 (N)	30	N	a	e,n,x	N:a:e,n,x	30:a:e,n,x	I
+Gwoza	O:1,3,19 (E4)	1,3,19	E	a	e,n,z15	E:a:e,n,z15	1,3,19:a:e,n,z15	I
+Hannover	O:16 (l)	16	I	a	1,2	I:a:1,2	16:a:1,2	I
+Heron	O:16 (l)	16	I	a	z6	I:a:z6	16:a:z6	I
+Hessarek	O:4 (B)	4,12,[27]	B	a	1,5	B:a:1,5	4,12,[27]:a:1,5	I
+Hisingen	O:48 (Y)1	48	Y	a	1,5,7	Y:a:1,5,7	48:a:1,5,7	I
+Honelis	O:28 (M)	28	M	a	e,n,z15	M:a:e,n,z15	28:a:e,n,z15	I
+Huettwilen	O:4 (B)	1,4,12	B	a	l,w	B:a:l,w	1,4,12:a:l,w	I
+II 1,4,[5],12,[27]:a:e,n,x	O:4 (B)	1,4,[5],12,[27]	B	a	e,n,x	B:a:e,n,x	1,4,[5],12,[27]:a:e,n,x	II
+II 1,4,12,[27]:a:z39	O:4 (B)	1,4,12,[27]	B	a	z39	B:a:z39	1,4,12,[27]:a:z39	II
+II 6,7,14:a:1,5	O:7 (C1)	6,7,14	C1	a	1,5	C1:a:1,5	6,7,14:a:1,5	II
+II 6,7:a:z42	O:7 (C1)	6,7	C1	a	z42	C1:a:z42	6,7:a:z42	II
+II 6,7:a:z6	O:7 (C1)	6,7	C1	a	z6	C1:a:z6	6,7:a:z6	II
+II 6,8:a:e,n,x	O:8 (C2-C3)	6,8	C2-C3	a	e,n,x	C2-C3:a:e,n,x	6,8:a:e,n,x	II
+II 6,8:a:z39	O:8 (C2-C3)	6,8	C2-C3	a	z39	C2-C3:a:z39	6,8:a:z39	II
+II 6,8:a:z52	O:8 (C2-C3)	6,8	C2-C3	a	z52	C2-C3:a:z52	6,8:a:z52	II
+II 9,12:a:1,5	O:9 (D1)	9,12	D	a	1,5	D:a:1,5	9,12:a:1,5	II
+II 1,9,12:a:e,n,x	O:9 (D1)	1,9,12	D	a	e,n,x	D:a:e,n,x	1,9,12:a:e,n,x	II
+II 9,12:a:z39	O:9 (D1)	9,12	D	a	z39	D:a:z39	9,12:a:z39	II
+II 1,9,12:a:z42	O:9 (D1)	1,9,12	D	a	z42	D:a:z42	1,9,12:a:z42	II
+II 1,9,12,46,27:a:z6	O:9,46,27 (D3)	1,9,12,46,27	D	a	z6	D:a:z6	1,9,12,46,27:a:z6	II
+II 3,10:a:e,n,x	O:3,10 (E1)	3,10	E	a	e,n,x	E:a:e,n,x	3,10:a:e,n,x	II
+II 3,10:a:l,v	O:3,10 (E1)	3,10	E	a	l,v	E:a:l,v	3,10:a:l,v	II
+II 3,10:a:z39	O:3,10 (E1)	3,10	E	a	z39	E:a:z39	3,10:a:z39	II
+II 11:a:e,n,z15	O:11 (F)	11	F	a	e,n,z15	F:a:e,n,z15	11:a:e,n,z15	II
+II 11:a:z6	O:11 (F)	11	F	a	z6	F:a:z6	11:a:z6	II
+II 1,13,23:a:1,5	O:13 (G)	1,13,23	G	a	1,5	G:a:1,5	1,13,23:a:1,5	II
+II 13,22:a:e,n,x	O:13 (G)	13,22	G	a	e,n,x	G:a:e,n,x	13,22:a:e,n,x	II
+II 1,13,23:a:z42	O:13 (G)	1,13,23	G	a	z42	G:a:z42	1,13,23:a:z42	II
+II 28:a:e,n,x	O:28 (M)	28	M	a	e,n,x	M:a:e,n,x	28:a:e,n,x	II
+II 30:a:z39	O:30 (N)	30	N	a	z39	N:a:z39	30:a:z39	II
+II 57:a:z42	O:57	57	O-57	a	z42	O-57:a:z42	57:a:z42	II
+II 58:a:z6	O:58	58	O-58	a	z6	O-58:a:z6	58:a:z6	II
+II 39:a:z39	O:39 (Q)	39	Q	a	z39	Q:a:z39	39:a:z39	II
+II 40:a:z39	O:40 (R) 	40	R	a	z39	R:a:z39	40:a:z39	II
+II 43:a:1,5	O:43 (U)	43	U	a	1,5	U:a:1,5	43:a:1,5	II
+II 43:a:z6	O:43 (U)	43	U	a	z6	U:a:z6	43:a:z6	II
+II 45:a:z10	O:45 (W)	45	W	a	z10	W:a:z10	45:a:z10	II
+II 47:a:1,5	O:47 (X)	47	X	a	1,5	X:a:1,5	47:a:1,5	II
+II 47:a:e,n,x,z15	O:47 (X)	47	X	a	e,n,x,z15	X:a:e,n,x,z15	47:a:e,n,x,z15	II
+II 48:a:z39	O:48 (Y)1	48	Y	a	z39	Y:a:z39	48:a:z39	II
+II 48:a:z6	O:48 (Y)1	48	Y	a	z6	Y:a:z6	48:a:z6	II
+IV 51:a:-	O:51	51	O-51	a	-	O-51:a:-	51:a:-	IV
+IV 44:a:-	O:44 (V)	44	V	a	-	V:a:-	44:a:-	IV
+IV 50:a:-	O:50 (Z)	50	Z	a	-	Z:a:-	50:a:-	IV
+Jangwani	O:17 (J)	17	J	a	1,5	J:a:1,5	17:a:1,5	I
+Juba	O:1,3,19 (E4)	1,3,19	E	a	1,7	E:a:1,7	1,3,19:a:1,7	I
+Kinondoni	O:17 (J)	17	J	a	e,n,x	J:a:e,n,x	17:a:e,n,x	I
+Kisangani	O:4 (B)	1,4,[5],12	B	a	1,2	B:a:1,2	1,4,[5],12:a:1,2	I
+Leith	O:8 (C2-C3)	6,8	C2-C3	a	e,n,z15	C2-C3:a:e,n,z15	6,8:a:e,n,z15	I
+Lomalinda	O:9 (D1)	1,9,12	D	a	e,n,x	D:a:e,n,x	1,9,12:a:e,n,x	I
+Luciana	O:11 (F)	11	F	a	e,n,z15	F:a:e,n,z15	11:a:e,n,z15	I
+Marseille	O:11 (F)	11	F	a	1,5	F:a:1,5	11:a:1,5	I
+Marshall	O:13 (G)	13,22	G	a	l,z13,z28	G:a:l,z13,z28	13,22:a:l,z13,z28	I
+Masembe	O:3,10 (E1)	3,10	E	a	e,n,x	E:a:e,n,x	3,10:a:e,n,x	I
+Massilia	O:11 (F)	11	F	a	1,6	F:a:1,6	11:a:1,6	I
+Meekatharra	O:45 (W)	45	W	a	e,n,z15	W:a:e,n,z15	45:a:e,n,z15	I
+Miami	O:9 (D1)	1,9,12	D	a	1,5	D:a:1,5	1,9,12:a:1,5	I
+Mim	O:13 (G)	13,22	G	a	1,6	G:a:1,6	13,22:a:1,6	I
+Nakuru	O:4 (B)	1,4,12,27	B	a	z6	B:a:z6	1,4,12,27:a:z6	I
+Narashino	O:8 (C2-C3)	6,8	C2-C3	a	e,n,x	C2-C3:a:e,n,x	6,8:a:e,n,x	I
+Niakhar	O:44 (V)	44	V	a	1,5	V:a:1,5	44:a:1,5	I
+Niarembe	O:44 (V)	44	V	a	l,w	V:a:l,w	44:a:l,w	I
+Niumi	O:1,3,19 (E4)	1,3,19	E	a	1,5	E:a:1,5	1,3,19:a:1,5	I
+Nordufer	O:8 (C2-C3)	6,8	C2-C3	a	1,7	C2-C3:a:1,7	6,8:a:1,7	I
+Nyeko	O:16 (l)	16	I	a	1,7	I:a:1,7	16:a:1,7	I
+Oran	O:38 (P)	38	P	a	e,n,z15	P:a:e,n,z15	38:a:e,n,z15	I
+Ord	O:52	52	O-52	a	e,n,z15	O-52:a:e,n,z15	52:a:e,n,z15	I
+Os	O:9 (D1)	9,12	D	a	1,6	D:a:1,6	9,12:a:1,6	I
+Oslo	O:7 (C1)	6,7,14	C1	a	e,n,x	C1:a:e,n,x	6,7,14:a:e,n,x	I
+Overvecht	O:30 (N)	30	N	a	1,2	N:a:1,2	30:a:1,2	I
+Oxford	O:3,10 (E1)	3,{10}{15}{15,34}	E	a	1,7	E:a:1,7	3,{10}{15}{15,34}:a:1,7	I
+Paratyphi A	O:2 (A)	1,2,12	A	a	-	A:a:-	1,2,12:a:-	I
+Paratyphi A	O:2 (A)	1,2,12	A	a	1,5	A:a:1,5	1,2,12:a:1,5	I
+Saarbruecken	O:9 (D1)	1,9,12	D	a	1,7	D:a:1,7	1,9,12:a:1,7	I
+Salinas	O:40 (R) 	40	R	a	1,7	R:a:1,7	40:a:1,7	I
+Sanjuan	O:7 (C1)	6,7	C1	a	1,5	C1:a:1,5	6,7:a:1,5	I
+Seattle	O:28 (M)	28	M	a	e,n,x	M:a:e,n,x	28:a:e,n,x	I
+Sendai	O:9 (D1)	1,9,12	D	a	1,5	D:a:1,5	1,9,12:a:1,5	I
+Shikmonah	O:40 (R) 	40	R	a	1,5	R:a:1,5	40:a:1,5	I
+Solna	O:28 (M)	28	M	a	1,5	M:a:1,5	28:a:1,5	I
+Tiergarten	O:44 (V)	44	V	a	e,n,x	V:a:e,n,x	44:a:e,n,x	I
+Tinda	O:4 (B)	1,4,12,27	B	a	e,n,z15	B:a:e,n,z15	1,4,12,27:a:e,n,z15	I
+Tione	O:51	51	O-51	a	e,n,x	O-51:a:e,n,x	51:a:e,n,x	I
+Togba	O:16 (l)	16	I	a	e,n,x	I:a:e,n,x	16:a:e,n,x	I
+Toowong	O:11 (F)	11	F	a	1,7	F:a:1,7	11:a:1,7	I
+Uithof	O:52	52	O-52	a	1,5	O-52:a:1,5	52:a:1,5	I
+Umhlali	O:7 (C1)	6,7	C1	a	1,6	C1:a:1,6	6,7:a:1,6	I
+Umhlatazana	O:35 (O)	35	O	a	e,n,z15	O:a:e,n,z15	35:a:e,n,z15	I
+Valdosta	O:8 (C2-C3)	6,8	C2-C3	a	1,2	C2-C3:a:1,2	6,8:a:1,2	I
+VI 11:a:1,5	O:11 (F)	11	F	a	1,5	F:a:1,5	11:a:1,5	VI
+VI [1],6,14:a:1,5	O:6,14 (H)	[1],6,14	H	a	1,5	H:a:1,5	[1],6,14:a:1,5	VI
+VI [1],6,14,[25]:a:e,n,x	O:6,14 (H)	[1],6,14,[25]	H	a	e,n,x	H:a:e,n,x	[1],6,14,[25]:a:e,n,x	VI
+VI 45:a:e,n,x	O:45 (W)	45	W	a	e,n,x	W:a:e,n,x	45:a:e,n,x	VI
+Windsheim	O:51	51	O-51	a	1,2	O-51:a:1,2	51:a:1,2	I
+Wyldegreen	O:13 (G)	1,13,23	G	a	l,w	G:a:l,w	1,13,23:a:l,w	I
+Zehlendorf	O:30 (N)	30	N	a	1,5	N:a:1,5	30:a:1,5	I
+Abidjan	O:39 (Q)	39	Q	b	l,w	Q:b:l,w	39:b:l,w	I
+Abony	O:4 (B)	1,4,[5],12,[27]	B	b	e,n,x	B:b:e,n,x	1,4,[5],12,[27]:b:e,n,x	I
+Accra	O:1,3,19 (E4)	1,3,19	E	b	z6	E:b:z6	1,3,19:b:z6	I
+Adime	O:7 (C1)	6,7	C1	b	1,6	C1:b:1,6	6,7:b:1,6	I
+Allerton	O:3,10 (E1)	3,10	E	b	1,6	E:b:1,6	3,10:b:1,6	I
+Aschersleben	O:30 (N)	30	N	b	1,5	N:b:1,5	30:b:1,5	I
+Ashanti	O:28 (M)	28	M	b	1,6	M:b:1,6	28:b:1,6	I
+Atento	O:11 (F)	11	F	b	1,2	F:b:1,2	11:b:1,2	I
+Bahati	O:13 (G)	13,22	G	b	e,n,z15	G:b:e,n,z15	13,22:b:e,n,z15	I
+Bamboye	O:9,46 (D2)	9,46	D	b	l,w	D:b:l,w	9,46:b:l,w	I
+Banalia	O:8 (C2-C3)	6,8	C2-C3	b	z6	C2-C3:b:z6	6,8:b:z6	I
+Bata	O:9 (D1)	9,12	D	b	1,7	D:b:1,7	9,12:b:1,7	I
+Batonrouge	O:57	57	O-57	b	e,n,z15	O-57:b:e,n,z15	57:b:e,n,z15	I
+Benfica	O:3,10 (E1)	3,10	E	b	e,n,x	E:b:e,n,x	3,10:b:e,n,x	I
+Benguella	O:40 (R) 	40	R	b	z6	R:b:z6	40:b:z6	I
+Bignona	O:17 (J)	17	J	b	e,n,z15	J:b:e,n,z15	17:b:e,n,z15	I
+Bokanjac	O:28 (M)	28	M	b	1,7	M:b:1,7	28:b:1,7	I
+Bracknell	O:13 (G)	13,23	G	b	1,6	G:b:1,6	13,23:b:1,6	I
+Brazzaville	O:7 (C1)	6,7	C1	b	1,2	C1:b:1,2	6,7:b:1,2	I
+Broughton	O:1,3,19 (E4)	1,3,19	E	b	l,w	E:b:l,w	1,3,19:b:l,w	I
+Bukuru	O:8 (C2-C3)	6,8	C2-C3	b	l,w	C2-C3:b:l,w	6,8:b:l,w	I
+Butantan	O:3,10 (E1)	3,{10}{15}{15,34}	E	b	1,5	E:b:1,5	3,{10}{15}{15,34}:b:1,5	I
+Canada	O:4 (B)	4,12,[27]	B	b	1,6	B:b:1,6	4,12,[27]:b:1,6	I
+Cheltenham	O:9,46 (D2)	9,46	D	b	1,5	D:b:1,5	9,46:b:1,5	I
+Chittagong	O:1,3,19 (E4)	1,3,10,19	E	b	z35	E:b:z35	1,3,10,19:b:z35	I
+Cochise	O:18 (K)	18	K	b	1,7	K:b:1,7	18:b:1,7	I
+Dahra	O:17 (J)	17	J	b	1,5	J:b:1,5	17:b:1,5	I
+Djelfa	O:8 (C2-C3)	8	C2-C3	b	1,2	C2-C3:b:1,2	8:b:1,2	I
+Durham	O:13 (G)	13,23	G	b	e,n,z15	G:b:e,n,z15	13,23:b:e,n,z15	I
+Duval	O:40 (R) 	1,40	R	b	e,n,z15	R:b:e,n,z15	1,40:b:e,n,z15	I
+Eboko	O:8 (C2-C3)	6,8	C2-C3	b	1,7	C2-C3:b:1,7	6,8:b:1,7	I
+Ede	O:43 (U)	43	U	b	e,n,z15	U:b:e,n,z15	43:b:e,n,z15	I
+Edinburg	O:7 (C1)	6,7,14	C1	b	1,5	C1:b:1,5	6,7,14:b:1,5	I
+Egusitoo	O:42 (T)	1,42	T	b	z6	T:b:z6	1,42:b:z6	I
+Elbeuf	O:44 (V)	44	V	b	e,n,x	V:b:e,n,x	44:b:e,n,x	I
+Epicrates	O:3,10 (E1)	3,10	E	b	l,w	E:b:l,w	3,10:b:l,w	I
+Erfurt	O:11 (F)	11	F	b	z6	F:b:z6	11:b:z6	I
+Flottbek	O:52	52	O-52	b	e,n,x	O-52:b:e,n,x	52:b:e,n,x	I
+Fluntern	O:18 (K)	6,14,18	K	b	1,5	K:b:1,5	6,14,18:b:1,5	I
+Fomeco	O:45 (W)	45	W	b	e,n,z15	W:b:e,n,z15	45:b:e,n,z15	I
+Frederiksberg	O:42 (T)	1,42	T	b	l,w	T:b:l,w	1,42:b:l,w	I
+Freefalls	O:28 (M)	28	M	b	l,w	M:b:l,w	28:b:l,w	I
+Frintrop	O:9 (D1)	1,9,12	D	b	1,5	D:b:1,5	1,9,12:b:1,5	I
+Gatuni	O:8 (C2-C3)	6,8	C2-C3	b	e,n,x	C2-C3:b:e,n,x	6,8:b:e,n,x	I
+Georgia	O:7 (C1)	6,7	C1	b	e,n,z15	C1:b:e,n,z15	6,7:b:e,n,z15	I
+Ghana	O:21 (L)	21	L	b	1,6	L:b:1,6	21:b:1,6	I
+Glasgow	O:16 (l)	16	I	b	1,6	I:b:1,6	16:b:1,6	I
+Gnesta	O:1,3,19 (E4)	1,3,19	E	b	1,5	E:b:1,5	1,3,19:b:1,5	I
+Heistopdenberg	O:8 (C2-C3)	8,20	C2-C3	b	l,w	C2-C3:b:l,w	8,20:b:l,w	I
+Hull	O:16 (l)	16	I	b	1,2	I:b:1,2	16:b:1,2	I
+Huvudsta	O:3,10 (E1)	3,{10}{15,34}	E	b	1,7	E:b:1,7	3,{10}{15,34}:b:1,7	I
+Hvittingfoss	O:16 (l)	16	I	b	e,n,x	I:b:e,n,x	16:b:e,n,x	I
+I 4,5,12:b:-	O:4 (B)	4,5,12	B	b	-	B:b:-	4,5,12:b:-	I
+Ibadan	O:13 (G)	13,22	G	b	1,5	G:b:1,5	13,22:b:1,5	I
+II 4,12:b:1,5	O:4 (B)	4,12	B	b	1,5	B:b:1,5	4,12:b:1,5	II
+II 6,7:b:-	O:7 (C1)	6,7	C1	b	-	C1:b:-	6,7:b:-	II
+II 6,7:b:e,n,x	O:7 (C1)	6,7	C1	b	e,n,x	C1:b:e,n,x	6,7:b:e,n,x	II
+II 6,7:b:z39	O:7 (C1)	6,7	C1	b	z39	C1:b:z39	6,7:b:z39	II
+II 6,8:b:1,5	O:8 (C2-C3)	6,8	C2-C3	b	1,5	C2-C3:b:1,5	6,8:b:1,5	II
+II 1,9,12:b:e,n,x	O:9 (D1)	1,9,12	D	b	e,n,x	D:b:e,n,x	1,9,12:b:e,n,x	II
+II 9,46:b:e,n,x	O:9,46 (D2)	9,46	D	b	e,n,x	D:b:e,n,x	9,46:b:e,n,x	II
+II 1,9,12:b:z39	O:9 (D1)	1,9,12	D	b	z39	D:b:z39	1,9,12:b:z39	II
+II 1,9,12:b:z6	O:9 (D1)	1,9,12	D	b	z6	D:b:z6	1,9,12:b:z6	II
+II 3,10:b:e,n,x	O:3,10 (E1)	3,10	E	b	e,n,x	E:b:e,n,x	3,10:b:e,n,x	II
+II 3,10:b:z39	O:3,10 (E1)	3,10	E	b	z39	E:b:z39	3,10:b:z39	II
+II 1,13,23:b:-	O:13 (G)	1,13,23	G	b	-	G:b:-	1,13,23:b:-	II
+II 1,13,23:b:1,5	O:13 (G)	1,13,23	G	b	1,5	G:b:1,5	1,13,23:b:1,5	II
+II 1,13,22:b:z42	O:13 (G)	1,13,22	G	b	z42	G:b:z42	1,13,22:b:z42	II
+II 16:b:e,n,x	O:16 (l)	16	I	b	e,n,x	I:b:e,n,x	16:b:e,n,x	II
+II 16:b:z39	O:16 (l)	16	I	b	z39	I:b:z39	16:b:z39	II
+II 16:b:z42	O:16 (l)	16	I	b	z42	I:b:z42	16:b:z42	II
+II 17:b:e,n,x,z15	O:17 (J)	17	J	b	e,n,x,z15	J:b:e,n,x,z15	17:b:e,n,x,z15	II
+II 17:b:z6	O:17 (J)	17	J	b	z6	J:b:z6	17:b:z6	II
+II 21:b:1,5	O:21 (L)	21	L	b	1,5	L:b:1,5	21:b:1,5	II
+II 28:b:e,n,x	O:28 (M)	28	M	b	e,n,x	M:b:e,n,x	28:b:e,n,x	II
+II 28:b:z6	O:28 (M)	28	M	b	z6	M:b:z6	28:b:z6	II
+II 30:b:z6	O:30 (N)	30	N	b	z6	N:b:z6	30:b:z6	II
+II 56:b:-	O:56	56	O-56	b	-	O-56:b:-	56:b:-	II
+II 56:b:1,5	O:56	56	O-56	b	1,5	O-56:b:1,5	56:b:1,5	II
+II 58:b:1,5	O:58	58	O-58	b	1,5	O-58:b:1,5	58:b:1,5	II
+II 60:b:-	O:60	60	O-60	b	-	O-60:b:-	60:b:-	II
+II 38:b:1,2	O:38 (P)	38	P	b	1,2	P:b:1,2	38:b:1,2	II
+II 40:b:-	O:40 (R) 	40	R	b	-	R:b:-	40:b:-	II
+II 41:b:1,5	O:41 (S)	41	S	b	1,5	S:b:1,5	41:b:1,5	II
+II 42:b:1,5	O:42 (T)	42	T	b	1,5	T:b:1,5	42:b:1,5	II
+II 42:b:e,n,x,z15	O:42 (T)	42	T	b	e,n,x,z15	T:b:e,n,x,z15	42:b:e,n,x,z15	II
+II 42:b:z6	O:42 (T)	42	T	b	z6	T:b:z6	42:b:z6	II
+II 43:b:z42	O:43 (U)	43	U	b	z42	U:b:z42	43:b:z42	II
+II 47:b:1,5	O:47 (X)	47	X	b	1,5	X:b:1,5	47:b:1,5	II
+II 47:b:e,n,x,z15	O:47 (X)	47	X	b	e,n,x,z15	X:b:e,n,x,z15	47:b:e,n,x,z15	II
+II 47:b:z6	O:47 (X)	47	X	b	z6	X:b:z6	47:b:z6	II
+II 48:b:e,n,x,z15	O:48 (Y)1	48	Y	b	e,n,x,z15	Y:b:e,n,x,z15	48:b:e,n,x,z15	II
+II 48:b:z6	O:48 (Y)1	48	Y	b	z6	Y:b:z6	48:b:z6	II
+II 50:b:z6	O:50 (Z)	50	Z	b	z6	Z:b:z6	50:b:z6	II
+IIIb (6),14:b:e,n,x	O:6,14 (H)	(6),14	H	b	e,n,x	H:b:e,n,x	(6),14:b:e,n,x	IIIb
+IV 51:b:-	O:51	51	O-51	b	-	O-51:b:-	51:b:-	IV
+IV 50:b:-	O:50 (Z)	50	Z	b	-	Z:b:-	50:b:-	IV
+Johannesburg	O:40 (R) 	1,40	R	b	e,n,x	R:b:e,n,x	1,40:b:e,n,x	I
+Kalina	O:3,10 (E1)	3,10	E	b	1,2	E:b:1,2	3,10:b:1,2	I
+Kande	O:1,3,19 (E4)	1,3,19	E	b	e,n,z15	E:b:e,n,z15	1,3,19:b:e,n,z15	I
+Karaya	O:51	51	O-51	b	1,5	O-51:b:1,5	51:b:1,5	I
+Kirkee	O:17 (J)	17	J	b	1,2	J:b:1,2	17:b:1,2	I
+Kolar	O:9,46 (D2)	9,46	D	b	z35	D:b:z35	9,46:b:z35	I
+Konstanz	O:8 (C2-C3)	8	C2-C3	b	e,n,x	C2-C3:b:e,n,x	8:b:e,n,x	I
+Korbol	O:8 (C2-C3)	8,20	C2-C3	b	1,5	C2-C3:b:1,5	8,20:b:1,5	I
+Kotte	O:7 (C1)	6,7	C1	b	z35	C1:b:z35	6,7:b:z35	I
+Koumra	O:7 (C1)	6,7	C1	b	1,7	C1:b:1,7	6,7:b:1,7	I
+Kuntair	O:6,14 (H)	1,6,14,25	H	b	1,5	H:b:1,5	1,6,14,25:b:1,5	I
+Langford	O:28 (M)	28	M	b	e,n,z15	M:b:e,n,z15	28:b:e,n,z15	I
+Leeuwarden	O:11 (F)	11	F	b	1,5	F:b:1,5	11:b:1,5	I
+Leopoldville	O:7 (C1)	6,7,14	C1	b	z6	C1:b:z6	6,7,14:b:z6	I
+Limete	O:4 (B)	1,4,12,[27]	B	b	1,5	B:b:1,5	1,4,12,[27]:b:1,5	I
+Linguere	O:9,46 (D2)	9,46	D	b	z6	D:b:z6	9,46:b:z6	I
+Lockleaze	O:7 (C1)	6,7,14	C1	b	e,n,x	C1:b:e,n,x	6,7,14:b:e,n,x	I
+Louga	O:30 (N)	30	N	b	1,2	N:b:1,2	30:b:1,2	I
+Malstatt	O:16 (l)	16	I	b	z6	I:b:z6	16:b:z6	I
+Mana	O:9 (D1)	9,12	D	b	e,n,z15	D:b:e,n,z15	9,12:b:e,n,z15	I
+Maryland	O:57	57	O-57	b	1,7	O-57:b:1,7	57:b:1,7	I
+Mattenhof	O:17 (J)	17	J	b	e,n,x	J:b:e,n,x	17:b:e,n,x	I
+Melaka	O:16 (l)	16	I	b	1,2,5	I:b:1,2,5	16:b:1,2,5	I
+Minnesota	O:21 (L)	21	L	b	e,n,x	L:b:e,n,x	21:b:e,n,x	I
+Mississippi	O:13 (G)	1,13,23	G	b	1,5	G:b:1,5	1,13,23:b:1,5	I
+Moero	O:28 (M)	28	M	b	1,5	M:b:1,5	28:b:1,5	I
+Molesey	O:52	52	O-52	b	1,5	O-52:b:1,5	52:b:1,5	I
+Montaigu	O:9,46 (D2)	9,46	D	b	1,2	D:b:1,2	9,46:b:1,2	I
+Nagoya	O:8 (C2-C3)	6,8	C2-C3	b	1,5	C2-C3:b:1,5	6,8:b:1,5	I
+Ndjamena	O:6,14 (H)	1,6,14,25	H	b	1,2	H:b:1,2	1,6,14,25:b:1,2	I
+Neudorf	O:30 (N)	30	N	b	e,n,z15	N:b:e,n,z15	30:b:e,n,z15	I
+Niederoderwitz	O:43 (U)	43	U	b	-	U:b:-	43:b:-	I
+Ohio	O:7 (C1)	6,7,14	C1	b	l,w	C1:b:l,w	6,7,14:b:l,w	I
+Onarimon	O:9 (D1)	1,9,12	D	b	1,2	D:b:1,2	1,9,12:b:1,2	I
+Orbe	O:42 (T)	42	T	b	1,6	T:b:1,6	42:b:1,6	I
+Oudwijk	O:13 (G)	13,22	G	b	1,6	G:b:1,6	13,22:b:1,6	I
+Paratyphi B	O:4 (B)	1,4,[5],12	B	b	1,2	B:b:1,2	1,4,[5],12:b:1,2	I
+Pharr	O:11 (F)	11	F	b	e,n,z15	F:b:e,n,z15	11:b:e,n,z15	I
+Presov	O:8 (C2-C3)	6,8	C2-C3	b	e,n,z15	C2-C3:b:e,n,z15	6,8:b:e,n,z15	I
+Riogrande	O:40 (R) 	40	R	b	1,5	R:b:1,5	40:b:1,5	I
+Rittersbach	O:38 (P)	38	P	b	e,n,z15	P:b:e,n,z15	38:b:e,n,z15	I
+Riverside	O:45 (W)	45	W	b	1,5	W:b:1,5	45:b:1,5	I
+Rochdale	O:50 (Z)	50	Z	b	e,n,x	Z:b:e,n,x	50:b:e,n,x	I
+Rottnest	O:13 (G)	1,13,22	G	b	1,7	G:b:1,7	1,13,22:b:1,7	I
+Sanga	O:8 (C2-C3)	8	C2-C3	b	1,7	C2-C3:b:1,7	8:b:1,7	I
+Sangera	O:16 (l)	16	I	b	e,n,z15	I:b:e,n,z15	16:b:e,n,z15	I
+Sanktjohann	O:13 (G)	13,23	G	b	l,w	G:b:l,w	13,23:b:l,w	I
+Saugus	O:40 (R) 	40	R	b	1,7	R:b:1,7	40:b:1,7	I
+Schleissheim	O:4 (B)	4,12,27	B	b	-	B:b:-	4,12,27:b:-	I
+Sedgwick	O:44 (V)	44	V	b	e,n,z15	V:b:e,n,z15	44:b:e,n,z15	I
+Shahalam	O:44 (V)	44	V	b	1,6	V:b:1,6	44:b:1,6	I
+Shipley	O:8 (C2-C3)	8,20	C2-C3	b	e,n,z15	C2-C3:b:e,n,z15	8,20:b:e,n,z15	I
+Sica	O:41 (S)	41	S	b	e,n,z15	S:b:e,n,z15	41:b:e,n,z15	I
+Skansen	O:8 (C2-C3)	6,8	C2-C3	b	1,2	C2-C3:b:1,2	6,8:b:1,2	I
+Sophie	O:4 (B)	1,4,[5],12,[27]	B	b	-	B:b:-	1,4,[5],12,[27]:b:-	I
+Sophie	O:4 (B)	1,4,[5],12,[27]	B	b	e,n,x	B:b:e,n,x	1,4,[5],12,[27]:b:e,n,x	I
+Soumbedioune	O:28 (M)	28	M	b	e,n,x	M:b:e,n,x	28:b:e,n,x	I
+Stourbridge	O:8 (C2-C3)	6,8	C2-C3	b	1,6	C2-C3:b:1,6	6,8:b:1,6	I
+Sya	O:47 (X)	47	X	b	z6	X:b:z6	47:b:z6	I
+Tambacounda	O:1,3,19 (E4)	1,3,19	E	b	e,n,x	E:b:e,n,x	1,3,19:b:e,n,x	I
+Tchad	O:35 (O)	35	O	b	-	O:b:-	35:b:-	I
+Tempe	O:30 (N)	30	N	b	1,7	N:b:1,7	30:b:1,7	I
+Tomegbe	O:42 (T)	1,42	T	b	e,n,z15	T:b:e,n,z15	1,42:b:e,n,z15	I
+Tonev	O:54	21,54	O-54	b	e,n,x	O-54:b:e,n,x	21,54:b:e,n,x	I
+Tounouma	O:8 (C2-C3)	8,20	C2-C3	b	z6	C2-C3:b:z6	8,20:b:z6	I
+Tripoli	O:4 (B)	1,4,12,27	B	b	z6	B:b:z6	1,4,12,27:b:z6	I
+Tucson	O:6,14 (H)	[1],6,14,[25]	H	b	1,7	H:b:1,7	[1],6,14,[25]:b:1,7	I
+Ullevi	O:13 (G)	1,13,23	G	b	e,n,x	G:b:e,n,x	1,13,23:b:e,n,x	I
+Uppsala	O:4 (B)	1,4,12,27	B	b	1,7	B:b:1,7	1,4,12,27:b:1,7	I
+Urbana	O:30 (N)	30	N	b	e,n,x	N:b:e,n,x	30:b:e,n,x	I
+V 48:b:-	O:48 (Y)1	48	Y	b	-	Y:b:-	48:b:-	V
+Vaertan	O:13 (G)	13,22	G	b	-	G:b:-	13,22:b:-	I
+Vaugirard	O:41 (S)	41	S	b	1,6	S:b:1,6	41:b:1,6	I
+Vegesack	O:16 (l)	16	I	b	l,w	I:b:l,w	16:b:l,w	I
+VI 11:b:1,7	O:11 (F)	11	F	b	1,7	F:b:1,7	11:b:1,7	VI
+VI 11:b:e,n,x	O:11 (F)	11	F	b	e,n,x	F:b:e,n,x	11:b:e,n,x	VI
+VI 41:b:1,7	O:41 (S)	41	S	b	1,7	S:b:1,7	41:b:1,7	VI
+Vietnam	O:41 (S)	41	S	b	z6	S:b:z6	41:b:z6	I
+Visby	O:1,3,19 (E4)	1,3,19	E	b	1,6	E:b:1,6	1,3,19:b:1,6	I
+Wa	O:16 (l)	16	I	b	1,5	I:b:1,5	16:b:1,5	I
+Wagenia	O:4 (B)	1,4,12,27	B	b	e,n,z15	B:b:e,n,z15	1,4,12,27:b:e,n,z15	I
+Wandsworth	O:39 (Q)	39	Q	b	1,2	Q:b:1,2	39:b:1,2	I
+Wenatchee	O:47 (X)	47	X	b	1,2	X:b:1,2	47:b:1,2	I
+Westminster	O:3,10 (E1)	3,{10}{15}	E	b	z35	E:b:z35	3,{10}{15}:b:z35	I
+Wien	O:4 (B)	1,4,12,[27]	B	b	l,w	B:b:l,w	1,4,12,[27]:b:l,w	I
+Wilmington	O:3,10 (E1)	3,10	E	b	z6	E:b:z6	3,10:b:z6	I
+Wohlen	O:11 (F)	11	F	b	1,6	F:b:1,6	11:b:1,6	I
+Worb	O:9,46 (D2)	9,46	D	b	e,n,x	D:b:e,n,x	9,46:b:e,n,x	I
+Yaba	O:3,10 (E1)	3,{10}{15}	E	b	e,n,z15	E:b:e,n,z15	3,{10}{15}:b:e,n,z15	I
+Zadar	O:9,46 (D2)	9,46	D	b	1,6	D:b:1,6	9,46:b:1,6	I
+Abortusovis	O:4 (B)	4,12	B	c	1,6	B:c:1,6	4,12:c:1,6	I
+Agege	O:3,10 (E1)	3,10	E	c	e,n,z15	E:c:e,n,z15	3,10:c:e,n,z15	I
+Alabama	O:9 (D1)	9,12	D	c	e,n,z15	D:c:e,n,z15	9,12:c:e,n,z15	I
+Alexanderpolder	O:8 (C2-C3)	8	C2-C3	c	l,w	C2-C3:c:l,w	8:c:l,w	I
+Altendorf	O:4 (B)	4,12,[27]	B	c	1,7	B:c:1,7	4,12,[27]:c:1,7	I
+Anderlecht	O:3,10 (E1)	3,10	E	c	l,w	E:c:l,w	3,10:c:l,w	I
+Antwerpen	O:42 (T)	1,42	T	c	e,n,z15	T:c:e,n,z15	1,42:c:e,n,z15	I
+Argenteuil	O:9,46 (D2)	1,9,46	D	c	1,7	D:c:1,7	1,9,46:c:1,7	I
+Asylanta	O:3,10 (E1)	3,10	E	c	1,2	E:c:1,2	3,10:c:1,2	I
+Belem	O:8 (C2-C3)	6,8	C2-C3	c	e,n,x	C2-C3:c:e,n,x	6,8:c:e,n,x	I
+Belfast	O:8 (C2-C3)	6,8	C2-C3	c	1,7	C2-C3:c:1,7	6,8:c:1,7	I
+Bida	O:1,3,19 (E4)	1,3,19	E	c	1,6	E:c:1,6	1,3,19:c:1,6	I
+Birkenhead	O:7 (C1)	6,7	C1	c	1,6	C1:c:1,6	6,7:c:1,6	I
+Bissau	O:4 (B)	4,12	B	c	e,n,x	B:c:e,n,x	4,12:c:e,n,x	I
+Blijdorp	O:6,14 (H)	1,6,14,25	H	c	1,5	H:c:1,5	1,6,14,25:c:1,5	I
+Brindisi	O:11 (F)	11	F	c	1,6	F:c:1,6	11:c:1,6	I
+Bronx	O:8 (C2-C3)	6,8	C2-C3	c	1,6	C2-C3:c:1,6	6,8:c:1,6	I
+Bury	O:4 (B)	4,12,27	B	c	z6	B:c:z6	4,12,27:c:z6	I
+Chiredzi	O:11 (F)	11	F	c	1,5	F:c:1,5	11:c:1,5	I
+Choleraesuis	O:7 (C1)	6,7	C1	c	1,5	C1:c:1,5	6,7:c:1,5	I
+Cotonou	O:7 (C1)	6,7	C1	c	z6	C1:c:z6	6,7:c:z6	I
+Deversoir	O:45 (W)	45	W	c	e,n,x	W:c:e,n,x	45:c:e,n,x	I
+Dresden	O:28 (M)	28	M	c	e,n,x	M:c:e,n,x	28:c:e,n,x	I
+Eastglam	O:1,3,19 (E4)	1,3,19	E	c	1,5	E:c:1,5	1,3,19:c:1,5	I
+Eberswalde	O:28 (M)	28	M	c	1,6	M:c:1,6	28:c:1,6	I
+Elokate	O:9 (D1)	9,12	D	c	1,7	D:c:1,7	9,12:c:1,7	I
+Gafsa	O:16 (l)	16	I	c	1,6	I:c:1,6	16:c:1,6	I
+Gaillac	O:8 (C2-C3)	8,20	C2-C3	c	1,5	C2-C3:c:1,5	8,20:c:1,5	I
+Gbadago	O:3,10 (E1)	3,{10}{15}	E	c	1,5	E:c:1,5	3,{10}{15}:c:1,5	I
+Goeteborg	O:9 (D1)	9,12	D	c	1,5	D:c:1,5	9,12:c:1,5	I
+Gouloumbo	O:35 (O)	35	O	c	1,5	O:c:1,5	35:c:1,5	I
+Halle	O:28 (M)	28	M	c	1,7	M:c:1,7	28:c:1,7	I
+Hallfold	O:4 (B)	1,4,12,27	B	c	l,w	B:c:l,w	1,4,12,27:c:l,w	I
+Haouaria	O:13 (G)	13,22	G	c	e,n,x,z15	G:c:e,n,x,z15	13,22:c:e,n,x,z15	I
+Hermannswerder	O:28 (M)	28	M	c	1,5	M:c:1,5	28:c:1,5	I
+Hissar	O:7 (C1)	6,7,14	C1	c	1,2	C1:c:1,2	6,7,14:c:1,2	I
+Hithergreen	O:16 (l)	16	I	c	e,n,z15	I:c:e,n,z15	16:c:e,n,z15	I
+Hydra	O:21 (L)	21	L	c	1,6	L:c:1,6	21:c:1,6	I
+II 1,9,12,46,27:c:z39	O:9,46,27 (D3)	1,9,12,46,27	D	c	z39	D:c:z39	1,9,12,46,27:c:z39	II
+II 11:c:e,n,z15	O:11 (F)	11	F	c	e,n,z15	F:c:e,n,z15	11:c:e,n,z15	II
+II 17:c:z39	O:17 (J)	17	J	c	z39	J:c:z39	17:c:z39	II
+II 21:c:e,n,x	O:21 (L)	21	L	c	e,n,x	L:c:e,n,x	21:c:e,n,x	II
+II 30:c:z39	O:30 (N)	30	N	c	z39	N:c:z39	30:c:z39	II
+II 51:c:-	O:51	51	O-51	c	-	O-51:c:-	51:c:-	II
+II 52:c:k	O:52	52	O-52	c	k	O-52:c:k	52:c:k	II
+II 53:c:1,5	O:53	53	O-53	c	1,5	O-53:c:1,5	53:c:1,5	II
+II 58:c:z6	O:58	58	O-58	c	z6	O-58:c:z6	58:c:z6	II
+II 39:c:e,n,x	O:39 (Q)	39	Q	c	e,n,x	Q:c:e,n,x	39:c:e,n,x	II
+II 1,40:c:e,n,x,z15	O:40 (R) 	1,40	R	c	e,n,x,z15	R:c:e,n,x,z15	1,40:c:e,n,x,z15	II
+II 1,40:c:z39	O:40 (R) 	1,40	R	c	z39	R:c:z39	1,40:c:z39	II
+II 40:c:z6	O:40 (R) 	40	R	c	z6	R:c:z6	40:c:z6	II
+II 41:c:z6	O:41 (S)	41	S	c	z6	S:c:z6	41:c:z6	II
+IIIb 21:c:e,n,x,z15	O:21 (L)	21	L	c	e,n,x,z15	L:c:e,n,x,z15	21:c:e,n,x,z15	IIIb
+IIIb 57:c:e,n,x,z15	O:57	57	O-57	c	e,n,x,z15	O-57:c:e,n,x,z15	57:c:e,n,x,z15	IIIb
+IIIb 57:c:z	O:57	57	O-57	c	z	O-57:c:z	57:c:z	IIIb
+IIIb 59:c:e,n,x,z15	O:59	59	O-59	c	e,n,x,z15	O-59:c:e,n,x,z15	59:c:e,n,x,z15	IIIb
+IIIb 61:c:1,5,(7)	O:61	61	O-61	c	1,5,(7)	O-61:c:1,5,(7)	61:c:1,5,(7)	IIIb
+IIIb 61:c:z35	O:61	61	O-61	c	z35	O-61:c:z35	61:c:z35	IIIb
+IIIb 65:c:1,5,7	O:65	65	O-65	c	1,5,7	O-65:c:1,5,7	65:c:1,5,7	IIIb
+IIIb 65:c:z	O:65	65	O-65	c	z	O-65:c:z	65:c:z	IIIb
+IIIb 65:c:z53	O:65	65	O-65	c	z53	O-65:c:z53	65:c:z53	IIIb
+IIIb 41:c:e,n,x,z15	O:41 (S)	41	S	c	e,n,x,z15	S:c:e,n,x,z15	41:c:e,n,x,z15	IIIb
+IIIb 47:c:1,5,7	O:47 (X)	47	X	c	1,5,7	X:c:1,5,7	47:c:1,5,7	IIIb
+IIIb 47:c:e,n,x,z15	O:47 (X)	47	X	c	e,n,x,z15	X:c:e,n,x,z15	47:c:e,n,x,z15	IIIb
+IIIb 47:c:z	O:47 (X)	47	X	c	z	X:c:z	47:c:z	IIIb
+IIIb 47:c:z35	O:47 (X)	47	X	c	z35	X:c:z35	47:c:z35	IIIb
+IIIb 48:c:z	O:48 (Y)1	48	Y	c	z	Y:c:z	48:c:z	IIIb
+Ikayi	O:3,10 (E1)	3,{10}{15}	E	c	1,6	E:c:1,6	3,{10}{15}:c:1,6	I
+Ipeko	O:9 (D1)	9,12	D	c	1,6	D:c:1,6	9,12:c:1,6	I
+Itutaba	O:9,46 (D2)	9,46	D	c	z6	D:c:z6	9,46:c:z6	I
+Jericho	O:4 (B)	1,4,12,27	B	c	e,n,z15	B:c:e,n,z15	1,4,12,27:c:e,n,z15	I
+Kaduna	O:7 (C1)	6,7,14	C1	c	e,n,z15	C1:c:e,n,z15	6,7,14:c:e,n,z15	I
+Kampala	O:42 (T)	1,42	T	c	z6	T:c:z6	1,42:c:z6	I
+Kassberg	O:6,14 (H)	1,6,14,25	H	c	1,6	H:c:1,6	1,6,14,25:c:1,6	I
+Keurmassar	O:35 (O)	35	O	c	1,2	O:c:1,2	35:c:1,2	I
+Kidderminster	O:38 (P)	38	P	c	1,6	P:c:1,6	38:c:1,6	I
+Kodjovi	O:47 (X)	47	X	c	1,6	X:c:1,6	47:c:1,6	I
+Legon	O:4 (B)	1,4,12,[27]	B	c	1,5	B:c:1,5	1,4,12,[27]:c:1,5	I
+Lonestar	O:41 (S)	41	S	c	-	S:c:-	41:c:-	I
+Luedinghausen	O:17 (J)	17	J	c	1,5	J:c:1,5	17:c:1,5	I
+Madiago	O:1,3,19 (E4)	1,3,19	E	c	1,7	E:c:1,7	1,3,19:c:1,7	I
+Madigan	O:44 (V)	44	V	c	1,5	V:c:1,5	44:c:1,5	I
+Minna	O:6,14 (H)	1,6,14,25	H	c	l,w	H:c:l,w	1,6,14,25:c:l,w	I
+Montreal	O:43 (U)	43	U	c	1,5	U:c:1,5	43:c:1,5	I
+Morningside	O:30 (N)	30	N	c	e,n,z15	N:c:e,n,z15	30:c:e,n,z15	I
+Namibia	O:7 (C1)	6,7	C1	c	e,n,x	C1:c:e,n,x	6,7:c:e,n,x	I
+Okefoko	O:3,10 (E1)	3,10	E	c	z6	E:c:z6	3,10:c:z6	I
+Paratyphi C	O:7 (C1)	6,7,[Vi]	C1	c	1,5	C1:c:1,5	6,7,[Vi]:c:1,5	I
+Pramiso	O:3,10 (E1)	3,10	E	c	1,7	E:c:1,7	3,10:c:1,7	I
+Quebec	O:44 (V)	44	V	c	e,n,z15	V:c:e,n,z15	44:c:e,n,z15	I
+Quiniela	O:8 (C2-C3)	6,8	C2-C3	c	e,n,z15	C2-C3:c:e,n,z15	6,8:c:e,n,z15	I
+Rawash	O:18 (K)	6,14,18	K	c	e,n,x	K:c:e,n,x	6,14,18:c:e,n,x	I
+Rhone	O:21 (L)	21	L	c	e,n,x	L:c:e,n,x	21:c:e,n,x	I
+Ridge	O:9 (D1)	9,12	D	c	z6	D:c:z6	9,12:c:z6	I
+Runby	O:6,14 (H)	1,6,14,25	H	c	e,n,x	H:c:e,n,x	1,6,14,25:c:e,n,x	I
+Santiago	O:8 (C2-C3)	8,20	C2-C3	c	e,n,x	C2-C3:c:e,n,x	8,20:c:e,n,x	I
+Schwabach	O:7 (C1)	6,7	C1	c	1,7	C1:c:1,7	6,7:c:1,7	I
+Shamba	O:16 (l)	16	I	c	e,n,x	I:c:e,n,x	16:c:e,n,x	I
+Sheffield	O:38 (P)	38	P	c	1,5	P:c:1,5	38:c:1,5	I
+Tado	O:8 (C2-C3)	8,20	C2-C3	c	z6	C2-C3:c:z6	8,20:c:z6	I
+Techimani	O:28 (M)	28	M	c	z6	M:c:z6	28:c:z6	I
+Typhisuis	O:7 (C1)	6,7	C1	c	1,5	C1:c:1,5	6,7:c:1,5	I
+Utah	O:8 (C2-C3)	6,8	C2-C3	c	1,5	C2-C3:c:1,5	6,8:c:1,5	I
+Vancouver	O:16 (l)	16	I	c	1,5	I:c:1,5	16:c:1,5	I
+Victoriaborg	O:17 (J)	17	J	c	1,6	J:c:1,6	17:c:1,6	I
+Wedding	O:28 (M)	28	M	c	e,n,z15	M:c:e,n,z15	28:c:e,n,z15	I
+Wingrove	O:8 (C2-C3)	6,8	C2-C3	c	1,2	C2-C3:c:1,2	6,8:c:1,2	I
+Woodinville	O:11 (F)	11	F	c	e,n,x	F:c:e,n,x	11:c:e,n,x	I
+Yolo	O:35 (O)	35	O	c	-	O:c:-	35:c:-	I
+Yolo	O:35 (O)	35	O	c	e,n,z15	O:c:e,n,z15	35:c:e,n,z15	I
+Yoruba	O:16 (l)	16	I	c	l,w	I:c:l,w	16:c:l,w	I
+Zaire	O:30 (N)	30	N	c	1,7	N:c:1,7	30:c:1,7	I
+Ahmadi	O:1,3,19 (E4)	1,3,19	E	d	1,5	E:d:1,5	1,3,19:d:1,5	I
+Albuquerque	O:6,14 (H)	1,6,14,24	H	d	z6	H:d:z6	1,6,14,24:d:z6	I
+Amersfoort	O:7 (C1)	6,7,14	C1	d	e,n,x	C1:d:e,n,x	6,7,14:d:e,n,x	I
+Amoutive	O:28 (M)	28	M	d	1,5	M:d:1,5	28:d:1,5	I
+Ati	O:11 (F)	11	F	d	1,2	F:d:1,2	11:d:1,2	I
+Ayinde	O:4 (B)	1,4,12,27	B	d	z6	B:d:z6	1,4,12,27:d:z6	I
+Bangui	O:9 (D1)	9,12	D	d	e,n,z15	D:d:e,n,z15	9,12:d:e,n,z15	I
+Barmbek	O:16 (l)	16	I	d	z6	I:d:z6	16:d:z6	I
+Barranquilla	O:16 (l)	16	I	d	e,n,x	I:d:e,n,x	16:d:e,n,x	I
+Berlin	O:17 (J)	17	J	d	1,5	J:d:1,5	17:d:1,5	I
+Birmingham	O:3,10 (E1)	3,{10}{15}	E	d	l,w	E:d:l,w	3,{10}{15}:d:l,w	I
+Bobo	O:44 (V)	44	V	d	1,5	V:d:1,5	44:d:1,5	I
+Brezany	O:4 (B)	1,4,12,27	B	d	1,6	B:d:1,6	1,4,12,27:d:1,6	I
+Buckeye	O:48 (Y)1	48	Y	d	-	Y:d:-	48:d:-	I
+Caen	O:16 (l)	16	I	d	l,w	I:d:l,w	16:d:l,w	I
+Chandans	O:11 (F)	11	F	d	-	F:d:-	11:d:-	I
+Chandans	O:11 (F)	11	F	d	e,n,x	F:d:e,n,x	11:d:e,n,x	I
+Charity	O:6,14 (H)	[1],6,14,[25]	H	d	e,n,x	H:d:e,n,x	[1],6,14,[25]:d:e,n,x	I
+Chennai	O:4 (B)	4,12	B	d	z35	B:d:z35	4,12:d:z35	I
+Cullingworth	O:28 (M)	28	M	d	l,w	M:d:l,w	28:d:l,w	I
+Dembe	O:35 (O)	35	O	d	l,w	O:d:l,w	35:d:l,w	I
+Diguel	O:13 (G)	1,13,22	G	d	e,n,z15	G:d:e,n,z15	1,13,22:d:e,n,z15	I
+Driffield	O:40 (R) 	1,40	R	d	1,5	R:d:1,5	1,40:d:1,5	I
+Dugbe	O:45 (W)	45	W	d	1,6	W:d:1,6	45:d:1,6	I
+Duisburg	O:4 (B)	1,4,12,[27]	B	d	e,n,z15	B:d:e,n,z15	1,4,12,[27]:d:e,n,z15	I
+Dunkwa	O:8 (C2-C3)	6,8	C2-C3	d	1,7	C2-C3:d:1,7	6,8:d:1,7	I
+Egusi	O:41 (S)	41	S	d	1,5	S:d:1,5	41:d:1,5	I
+Encino	O:6,14 (H)	1,6,14,25	H	d	l,z13,z28	H:d:l,z13,z28	1,6,14,25:d:l,z13,z28	I
+Eppendorf	O:4 (B)	1,4,12,[27]	B	d	1,5	B:d:1,5	1,4,12,[27]:d:1,5	I
+Eschberg	O:9 (D1)	9,12	D	d	1,7	D:d:1,7	9,12:d:1,7	I
+Findorff	O:11 (F)	11	F	d	z6	F:d:z6	11:d:z6	I
+Finkenwerder	O:6,14 (H)	[1],6,14,[25]	H	d	1,5	H:d:1,5	[1],6,14,[25]:d:1,5	I
+Fischerstrasse	O:44 (V)	44	V	d	e,n,z15	V:d:e,n,z15	44:d:e,n,z15	I
+Florida	O:6,14 (H)	[1],6,14,[25]	H	d	1,7	H:d:1,7	[1],6,14,[25]:d:1,7	I
+Friedenau	O:13 (G)	13,22	G	d	1,6	G:d:1,6	13,22:d:1,6	I
+Gaminara	O:16 (l)	16	I	d	1,7	I:d:1,7	16:d:1,7	I
+Gokul	O:51	1,51	O-51	d	1,5	O-51:d:1,5	1,51:d:1,5	I
+Gombe	O:7 (C1)	6,7,14	C1	d	e,n,z15	C1:d:e,n,z15	6,7,14:d:e,n,z15	I
+Groenekan	O:18 (K)	18	K	d	1,5	K:d:1,5	18:d:1,5	I
+Grumpensis	O:13 (G)	1,13,23	G	d	1,7	G:d:1,7	1,13,23:d:1,7	I
+Gustavia	O:11 (F)	11	F	d	1,5	F:d:1,5	11:d:1,5	I
+Handen	O:13 (G)	1,13,23	G	d	1,2	G:d:1,2	1,13,23:d:1,2	I
+Hatfield	O:28 (M)	28	M	d	1,6	M:d:1,6	28:d:1,6	I
+Hemingford	O:50 (Z)	50	Z	d	1,5	Z:d:1,5	50:d:1,5	I
+Herston	O:8 (C2-C3)	6,8	C2-C3	d	e,n,z15	C2-C3:d:e,n,z15	6,8:d:e,n,z15	I
+II 4,12:d:e,n,x	O:4 (B)	4,12	B	d	e,n,x	B:d:e,n,x	4,12:d:e,n,x	II
+II 6,7:d:z42	O:7 (C1)	6,7	C1	d	z42	C1:d:z42	6,7:d:z42	II
+II 6,8:d:z6	O:8 (C2-C3)	6,8	C2-C3	d	z6	C2-C3:d:z6	6,8:d:z6	II
+II 1,9,12:d:e,n,x	O:9 (D1)	1,9,12	D	d	e,n,x	D:d:e,n,x	1,9,12:d:e,n,x	II
+II 9,12:d:z39	O:9 (D1)	9,12	D	d	z39	D:d:z39	9,12:d:z39	II
+II 3,10:d:e,n,x	O:3,10 (E1)	3,10	E	d	e,n,x	E:d:e,n,x	3,10:d:e,n,x	II
+II 13,22:d:1,5	O:13 (G)	13,22	G	d	1,5	G:d:1,5	13,22:d:1,5	II
+II 13,23:d:e,n,x	O:13 (G)	13,23	G	d	e,n,x	G:d:e,n,x	13,23:d:e,n,x	II
+II 16:d:1,5	O:16 (l)	16	I	d	1,5	I:d:1,5	16:d:1,5	II
+II 16:d:e,n,x	O:16 (l)	16	I	d	e,n,x	I:d:e,n,x	16:d:e,n,x	II
+II 52:d:e,n,x,z15	O:52	52	O-52	d	e,n,x,z15	O-52:d:e,n,x,z15	52:d:e,n,x,z15	II
+II 52:d:z39	O:52	52	O-52	d	z39	O-52:d:z39	52:d:z39	II
+II 53:d:1,5	O:53	53	O-53	d	1,5	O-53:d:1,5	53:d:1,5	II
+II 1,53:d:z39	O:53	1,53	O-53	d	z39	O-53:d:z39	1,53:d:z39	II
+II 53:d:z42	O:53	53	O-53	d	z42	O-53:d:z42	53:d:z42	II
+II 56:d:-	O:56	56	O-56	d	-	O-56:d:-	56:d:-	II
+II 57:d:1,5	O:57	57	O-57	d	1,5	O-57:d:1,5	57:d:1,5	II
+II 58:d:z6	O:58	58	O-58	d	z6	O-58:d:z6	58:d:z6	II
+II 35:d:1,5	O:35 (O)	35	O	d	1,5	O:d:1,5	35:d:1,5	II
+II 38:d:-	O:38 (P)	38	P	d	-	P:d:-	38:d:-	II
+II 38:d:1,5	O:38 (P)	38	P	d	1,5	P:d:1,5	38:d:1,5	II
+II 38:d:z39	O:38 (P)	38	P	d	z39	P:d:z39	38:d:z39	II
+II 40:d:-	O:40 (R) 	40	R	d	-	R:d:-	40:d:-	II
+II 41:d:z6	O:41 (S)	41	S	d	z6	S:d:z6	41:d:z6	II
+II 42:d:z6	O:42 (T)	42	T	d	z6	T:d:z6	42:d:z6	II
+II 43:d:e,n,x,z15	O:43 (U)	43	U	d	e,n,x,z15	U:d:e,n,x,z15	43:d:e,n,x,z15	II
+II 43:d:z39	O:43 (U)	43	U	d	z39	U:d:z39	43:d:z39	II
+II 43:d:z42	O:43 (U)	43	U	d	z42	U:d:z42	43:d:z42	II
+II 47:d:1,5	O:47 (X)	47	X	d	1,5	X:d:1,5	47:d:1,5	II
+II 47:d:e,n,x,z15	O:47 (X)	47	X	d	e,n,x,z15	X:d:e,n,x,z15	47:d:e,n,x,z15	II
+II 47:d:z39	O:47 (X)	47	X	d	z39	X:d:z39	47:d:z39	II
+II 48:d:1,2	O:48 (Y)1	48	Y	d	1,2	Y:d:1,2	48:d:1,2	II
+II 48:d:z6	O:48 (Y)1	48	Y	d	z6	Y:d:z6	48:d:z6	II
+Isangi	O:7 (C1)	6,7,14	C1	d	1,5	C1:d:1,5	6,7,14:d:1,5	I
+Isuge	O:13 (G)	13,23	G	d	z6	G:d:z6	13,23:d:z6	I
+IV 50:d:-	O:50 (Z)	50	Z	d	-	Z:d:-	50:d:-	IV
+Jaffna	O:9 (D1)	1,9,12	D	d	z35	D:d:z35	1,9,12:d:z35	I
+Kambole	O:7 (C1)	6,7	C1	d	1,[2],7	C1:d:1,[2],7	6,7:d:1,[2],7	I
+Karachi	O:45 (W)	45	W	d	e,n,x	W:d:e,n,x	45:d:e,n,x	I
+Karlshamn	O:17 (J)	17	J	d	e,n,z15	J:d:e,n,z15	17:d:e,n,z15	I
+Kermel	O:44 (V)	44	V	d	e,n,x	V:d:e,n,x	44:d:e,n,x	I
+Kisii	O:7 (C1)	6,7	C1	d	1,2	C1:d:1,2	6,7:d:1,2	I
+Kivu	O:7 (C1)	6,7	C1	d	1,6	C1:d:1,6	6,7:d:1,6	I
+Labadi	O:8 (C2-C3)	8,20	C2-C3	d	z6	C2-C3:d:z6	8,20:d:z6	I
+Lekke	O:3,10 (E1)	3,10	E	d	1,6	E:d:1,6	3,10:d:1,6	I
+Lindern	O:6,14 (H)	6,14,[24]	H	d	e,n,x	H:d:e,n,x	6,14,[24]:d:e,n,x	I
+Liverpool	O:1,3,19 (E4)	1,3,19	E	d	e,n,z15	E:d:e,n,z15	1,3,19:d:e,n,z15	I
+Livingstone	O:7 (C1)	6,7,14	C1	d	l,w	C1:d:l,w	6,7,14:d:l,w	I
+Logone	O:39 (Q)	39	Q	d	1,5	Q:d:1,5	39:d:1,5	I
+Madison	O:21 (L)	21	L	d	z6	L:d:z6	21:d:z6	I
+Madjorio	O:3,10 (E1)	3,10	E	d	e,n,z15	E:d:e,n,z15	3,10:d:e,n,z15	I
+Magwa	O:21 (L)	21	L	d	e,n,x	L:d:e,n,x	21:d:e,n,x	I
+Manhattan	O:8 (C2-C3)	6,8	C2-C3	d	1,5	C2-C3:d:1,5	6,8:d:1,5	I
+Maron	O:3,10 (E1)	3,10	E	d	z35	E:d:z35	3,10:d:z35	I
+Martonos	O:6,14 (H)	6,14,24	H	d	1,5	H:d:1,5	6,14,24:d:1,5	I
+Messina	O:30 (N)	30	N	d	1,5	N:d:1,5	30:d:1,5	I
+Midway	O:6,14 (H)	6,14,24	H	d	1,7	H:d:1,7	6,14,24:d:1,7	I
+Mishmarhaemek	O:13 (G)	1,13,23	G	d	1,5	G:d:1,5	1,13,23:d:1,5	I
+Mocamedes	O:28 (M)	28	M	d	e,n,x	M:d:e,n,x	28:d:e,n,x	I
+Mons	O:4 (B)	1,4,12,27	B	d	l,w	B:d:l,w	1,4,12,27:d:l,w	I
+Muenchen	O:8 (C2-C3)	6,8	C2-C3	d	1,2	C2-C3:d:1,2	6,8:d:1,2	I
+Mundonobo	O:28 (M)	28	M	d	1,7	M:d:1,7	28:d:1,7	I
+Ndolo	O:9 (D1)	1,9,12	D	d	1,5	D:d:1,5	1,9,12:d:1,5	I
+Niamey	O:17 (J)	17	J	d	l,w	J:d:l,w	17:d:l,w	I
+Nieukerk	O:7 (C1)	6,7,14	C1	d	z6	C1:d:z6	6,7,14:d:z6	I
+Niloese	O:1,3,19 (E4)	1,3,19	E	d	z6	E:d:z6	1,3,19:d:z6	I
+Nottingham	O:16 (l)	16	I	d	e,n,z15	I:d:e,n,z15	16:d:e,n,z15	I
+Oldenburg	O:16 (l)	16	I	d	1,2	I:d:1,2	16:d:1,2	I
+Olten	O:9,46 (D2)	9,46	D	d	e,n,z15	D:d:e,n,z15	9,46:d:e,n,z15	I
+Onireke	O:3,10 (E1)	3,10	E	d	1,7	E:d:1,7	3,10:d:1,7	I
+Ontario	O:9,46 (D2)	9,46	D	d	1,5	D:d:1,5	9,46:d:1,5	I
+Orleans	O:43 (U)	43	U	d	1,5	U:d:1,5	43:d:1,5	I
+Palamaner	O:44 (V)	1,44	V	d	z35	V:d:z35	1,44:d:z35	I
+Patience	O:28 (M)	28	M	d	e,n,z15	M:d:e,n,z15	28:d:e,n,z15	I
+Plymouth	O:9,46 (D2)	9,46	D	d	z6	D:d:z6	9,46:d:z6	I
+Portanigra	O:8 (C2-C3)	8,20	C2-C3	d	1,7	C2-C3:d:1,7	8,20:d:1,7	I
+Putten	O:13 (G)	13,23	G	d	l,w	G:d:l,w	13,23:d:l,w	I
+Quentin	O:9,46 (D2)	9,46	D	d	1,6	D:d:1,6	9,46:d:1,6	I
+Sarajane	O:4 (B)	1,4,[5],12,[27]	B	d	e,n,x	B:d:e,n,x	1,4,[5],12,[27]:d:e,n,x	I
+Schwarzengrund	O:4 (B)	1,4,12,27	B	d	1,7	B:d:1,7	1,4,12,27:d:1,7	I
+Sculcoates	O:16 (l)	16	I	d	1,5	I:d:1,5	16:d:1,5	I
+Shangani	O:3,10 (E1)	3,{10}{15}	E	d	1,5	E:d:1,5	3,{10}{15}:d:1,5	I
+Sherbrooke	O:16 (l)	16	I	d	1,6	I:d:1,6	16:d:1,6	I
+Sontheim	O:9,46 (D2)	9,46	D	d	z35	D:d:z35	9,46:d:z35	I
+Souza	O:3,10 (E1)	3,{10}{15}	E	d	e,n,x	E:d:e,n,x	3,{10}{15}:d:e,n,x	I
+Spartel	O:21 (L)	21	L	d	1,5	L:d:1,5	21:d:1,5	I
+Stanley	O:4 (B)	1,4,[5],12,[27]	B	d	1,2	B:d:1,2	1,4,[5],12,[27]:d:1,2	I
+Stellingen	O:47 (X)	47	X	d	e,n,x	X:d:e,n,x	47:d:e,n,x	I
+Sterrenbos	O:8 (C2-C3)	6,8	C2-C3	d	e,n,x	C2-C3:d:e,n,x	6,8:d:e,n,x	I
+Stormont	O:3,10 (E1)	3,10	E	d	1,2	E:d:1,2	3,10:d:1,2	I
+Strasbourg	O:9,46 (D2)	9,46	D	d	1,7	D:d:1,7	9,46:d:1,7	I
+Tarshyne	O:9 (D1)	9,12	D	d	1,6	D:d:1,6	9,12:d:1,6	I
+Teko	O:6,14 (H)	[1],6,14,[25]	H	d	e,n,z15	H:d:e,n,z15	[1],6,14,[25]:d:e,n,z15	I
+Telelkebir	O:13 (G)	13,23	G	d	e,n,z15	G:d:e,n,z15	13,23:d:e,n,z15	I
+Tilburg	O:1,3,19 (E4)	1,3,19	E	d	l,w	E:d:l,w	1,3,19:d:l,w	I
+Typhi	O:9 (D1)	9,12[Vi]	D	d	-	D:d:-	9,12[Vi]:d:-	I
+Umbadah	O:1,3,19 (E4)	1,3,19	E	d	1,2	E:d:1,2	1,3,19:d:1,2	I
+Usumbura	O:18 (K)	6,14,18	K	d	1,7	K:d:1,7	6,14,18:d:1,7	I
+Utrecht	O:52	52	O-52	d	1,5	O-52:d:1,5	52:d:1,5	I
+Virginia	O:8 (C2-C3)	8	C2-C3	d	1,2	C2-C3:d:1,2	8:d:1,2	I
+Wanatah	O:1,3,19 (E4)	1,3,19	E	d	1,7	E:d:1,7	1,3,19:d:1,7	I
+Warmsen	O:45 (W)	45	W	d	e,n,z15	W:d:e,n,z15	45:d:e,n,z15	I
+Weybridge	O:3,10 (E1)	3,10	E	d	z6	E:d:z6	3,10:d:z6	I
+Wichita	O:13 (G)	1,13,23	G	d	-	G:d:-	1,13,23:d:-	I
+Wil	O:7 (C1)	6,7	C1	d	l,z13,z28	C1:d:l,z13,z28	6,7:d:l,z13,z28	I
+Willamette	O:38 (P)	38	P	d	1,5	P:d:1,5	38:d:1,5	I
+Woodhull	O:6,14 (H)	1,6,14,25	H	d	1,6	H:d:1,6	1,6,14,25:d:1,6	I
+Yovokome	O:8 (C2-C3)	8,20	C2-C3	d	1,5	C2-C3:d:1,5	8,20:d:1,5	I
+Zega	O:9 (D1)	9,12	D	d	z6	D:d:z6	9,12:d:z6	I
+Adamstua	O:11 (F)	11	F	e,h	1,6	F:e,h:1,6	11:e,h:1,6	I
+Anatum	O:3,10 (E1)	3,{10}{15}{15,34}	E	e,h	1,6	E:e,h:1,6	3,{10}{15}{15,34}:e,h:1,6	I
+Astridplein	O:16 (l)	16	I	e,h	1,6	I:e,h:1,6	16:e,h:1,6	I
+Atakpame	O:8 (C2-C3)	8,20	C2-C3	e,h	1,7	C2-C3:e,h:1,7	8,20:e,h:1,7	I
+Bahrenfeld	O:6,14 (H)	6,14,[24]	H	e,h	1,5	H:e,h:1,5	6,14,[24]:e,h:1,5	I
+Bardo	O:8 (C2-C3)	8	C2-C3	e,h	1,2	C2-C3:e,h:1,2	8:e,h:1,2	I
+Beaudesert	O:6,14 (H)	[1],6,14,[25]	H	e,h	1,7	H:e,h:1,7	[1],6,14,[25]:e,h:1,7	I
+Bergedorf	O:9,46 (D2)	9,46	D	e,h	1,2	D:e,h:1,2	9,46:e,h:1,2	I
+Bournemouth	O:9 (D1)	9,12	D	e,h	1,2	D:e,h:1,2	9,12:e,h:1,2	I
+Braenderup	O:7 (C1)	6,7,14	C1	e,h	e,n,z15	C1:e,h:e,n,z15	6,7,14:e,h:e,n,z15	I
+Bruebach	O:39 (Q)	39	Q	e,h	1,2	Q:e,h:1,2	39:e,h:1,2	I
+Butare	O:52	52	O-52	e,h	1,6	O-52:e,h:1,6	52:e,h:1,6	I
+Calabar	O:1,3,19 (E4)	1,3,19	E	e,h	l,w	E:e,h:l,w	1,3,19:e,h:l,w	I
+Chartres	O:4 (B)	1,4,12	B	e,h	l,w	B:e,h:l,w	1,4,12:e,h:l,w	I
+Chester	O:4 (B)	1,4,[5],12	B	e,h	e,n,x	B:e,h:e,n,x	1,4,[5],12:e,h:e,n,x	I
+Chingola	O:11 (F)	11	F	e,h	1,2	F:e,h:1,2	11:e,h:1,2	I
+Cremieu	O:8 (C2-C3)	6,8	C2-C3	e,h	1,6	C2-C3:e,h:1,6	6,8:e,h:1,6	I
+Derkle	O:52	52	O-52	e,h	1,7	O-52:e,h:1,7	52:e,h:1,7	I
+Eastbourne	O:9 (D1)	1,9,12	D	e,h	1,5	D:e,h:1,5	1,9,12:e,h:1,5	I
+Eko	O:4 (B)	4,12	B	e,h	1,6	B:e,h:1,6	4,12:e,h:1,6	I
+Ferruch	O:8 (C2-C3)	8	C2-C3	e,h	1,5	C2-C3:e,h:1,5	8:e,h:1,5	I
+Fillmore	O:8 (C2-C3)	6,8	C2-C3	e,h	e,n,x	C2-C3:e,h:e,n,x	6,8:e,h:e,n,x	I
+Fitzroy	O:48 (Y)1	48	Y	e,h	1,5	Y:e,h:1,5	48:e,h:1,5	I
+Gassi	O:35 (O)	35	O	e,h	z6	O:e,h:z6	35:e,h:z6	I
+Gozo	O:28 (M)	28	M	e,h	e,n,z15	M:e,h:e,n,z15	28:e,h:e,n,z15	I
+Guerin	O:9,46 (D2)	9,46	D	e,h	z6	D:e,h:z6	9,46:e,h:z6	I
+Hayindogo	O:1,3,19 (E4)	1,3,19	E	e,h	1,6	E:e,h:1,6	1,3,19:e,h:1,6	I
+Israel	O:9 (D1)	9,12	D	e,h	e,n,z15	D:e,h:e,n,z15	9,12:e,h:e,n,z15	I
+Jubilee	O:17 (J)	17	J	e,h	1,2	J:e,h:1,2	17:e,h:1,2	I
+Kaapstad	O:4 (B)	4,12	B	e,h	1,7	B:e,h:1,7	4,12:e,h:1,7	I
+Kasenyi	O:38 (P)	38	P	e,h	1,5	P:e,h:1,5	38:e,h:1,5	I
+Korkeasaari	O:28 (M)	28	M	e,h	1,5	M:e,h:1,5	28:e,h:1,5	I
+Kottbus	O:8 (C2-C3)	6,8	C2-C3	e,h	1,5	C2-C3:e,h:1,5	6,8:e,h:1,5	I
+Kpeme	O:28 (M)	28	M	e,h	1,7	M:e,h:1,7	28:e,h:1,7	I
+Lamberhurst	O:3,10 (E1)	3,10	E	e,h	e,n,z15	E:e,h:e,n,z15	3,10:e,h:e,n,z15	I
+Larochelle	O:7 (C1)	6,7	C1	e,h	1,2	C1:e,h:1,2	6,7:e,h:1,2	I
+Livulu	O:30 (N)	30	N	e,h	1,2	N:e,h:1,2	30:e,h:1,2	I
+Lomita	O:7 (C1)	6,7	C1	e,h	1,5	C1:e,h:1,5	6,7:e,h:1,5	I
+Magumeri	O:6,14 (H)	1,6,14,25	H	e,h	1,6	H:e,h:1,6	1,6,14,25:e,h:1,6	I
+Malakal	O:16 (l)	16	I	e,h	1,2	I:e,h:1,2	16:e,h:1,2	I
+Mara	O:39 (Q)	39	Q	e,h	1,5	Q:e,h:1,5	39:e,h:1,5	I
+Meleagridis	O:3,10 (E1)	3,{10}{15}{15,34}	E	e,h	l,w	E:e,h:l,w	3,{10}{15}{15,34}:e,h:l,w	I
+Meskin	O:51	51	O-51	e,h	1,2	O-51:e,h:1,2	51:e,h:1,2	I
+Moabit	O:16 (l)	16	I	e,h	l,w	I:e,h:l,w	16:e,h:l,w	I
+Muenster	O:3,10 (E1)	3,{10}{15}{15,34}	E	e,h	1,5	E:e,h:1,5	3,{10}{15}{15,34}:e,h:1,5	I
+Newlands	O:3,10 (E1)	3,{10}{15,34}	E	e,h	e,n,x	E:e,h:e,n,x	3,{10}{15,34}:e,h:e,n,x	I
+Newport	O:8 (C2-C3)	6,8,20	C2-C3	e,h	1,2	C2-C3:e,h:1,2	6,8,20:e,h:1,2	I
+Nola	O:7 (C1)	6,7	C1	e,h	1,7	C1:e,h:1,7	6,7:e,h:1,7	I
+Norwich	O:7 (C1)	6,7	C1	e,h	1,6	C1:e,h:1,6	6,7:e,h:1,6	I
+Nyborg	O:3,10 (E1)	3,{10}{15}	E	e,h	1,7	E:e,h:1,7	3,{10}{15}:e,h:1,7	I
+Onderstepoort	O:6,14 (H)	1,6,14,[25]	H	e,h	1,5	H:e,h:1,5	1,6,14,[25]:e,h:1,5	I
+Reading	O:4 (B)	1,4,[5],12	B	e,h	1,5	B:e,h:1,5	1,4,[5],12:e,h:1,5	I
+Rechovot	O:8 (C2-C3)	8,20	C2-C3	e,h	z6	C2-C3:e,h:z6	8,20:e,h:z6	I
+Redhill	O:11 (F)	11	F	e,h	l,z13,z28	F:e,h:l,z13,z28	11:e,h:l,z13,z28	I
+Rhydyfelin	O:16 (l)	16	I	e,h	e,n,x	I:e,h:e,n,x	16:e,h:e,n,x	I
+Rossleben	O:54	3,54	O-54	e,h	1,6	O-54:e,h:1,6	3,54:e,h:1,6	I
+Saboya	O:16 (l)	16	I	e,h	1,5	I:e,h:1,5	16:e,h:1,5	I
+Saintpaul	O:4 (B)	1,4,[5],12	B	e,h	1,2	B:e,h:1,2	1,4,[5],12:e,h:1,2	I
+Sandiego	O:4 (B)	1,4,[5],12	B	e,h	e,n,z15	B:e,h:e,n,z15	1,4,[5],12:e,h:e,n,z15	I
+Sanktmarx	O:1,3,19 (E4)	1,3,19	E	e,h	1,7	E:e,h:1,7	1,3,19:e,h:1,7	I
+Sao	O:1,3,19 (E4)	1,3,19	E	e,h	e,n,z15	E:e,h:e,n,z15	1,3,19:e,h:e,n,z15	I
+Sekondi	O:3,10 (E1)	3,10	E	e,h	z6	E:e,h:z6	3,10:e,h:z6	I
+Thiaroye	O:38 (P)	38	P	e,h	1,2	P:e,h:1,2	38:e,h:1,2	I
+Tilene	O:40 (R) 	1,40	R	e,h	1,2	R:e,h:1,2	1,40:e,h:1,2	I
+Torhout	O:30 (N)	30	N	e,h	1,5	N:e,h:1,5	30:e,h:1,5	I
+Tschangu	O:13 (G)	1,13,23	G	e,h	1,5	G:e,h:1,5	1,13,23:e,h:1,5	I
+Tshiongwe	O:8 (C2-C3)	6,8	C2-C3	e,h	e,n,z15	C2-C3:e,h:e,n,z15	6,8:e,h:e,n,z15	I
+Vejle	O:3,10 (E1)	3,{10}{15}	E	e,h	1,2	E:e,h:1,2	3,{10}{15}:e,h:1,2	I
+Vilvoorde	O:1,3,19 (E4)	1,3,19	E	e,h	1,5	E:e,h:1,5	1,3,19:e,h:1,5	I
+Vridi	O:13 (G)	1,13,23	G	e,h	-	G:e,h:-	1,13,23:e,h:-	I
+Waedenswil	O:9,46 (D2)	9,46	D	e,h	1,5	D:e,h:1,5	9,46:e,h:1,5	I
+Westafrica	O:9 (D1)	9,12	D	e,h	1,7	D:e,h:1,7	9,12:e,h:1,7	I
+Weston	O:16 (l)	16	I	e,h	z6	I:e,h:z6	16:e,h:z6	I
+Willemstad	O:13 (G)	1,13,22	G	e,h	-	G:e,h:-	1,13,22:e,h:-	I
+Winnipeg	O:54	54	O-54	e,h	1,5	O-54:e,h:1,5	54:e,h:1,5	I
+II 1,4,12,[27]:e,n,x:1,[5],7	O:4 (B)	1,4,12,[27]	B	e,n,x	1,[5],7	B:e,n,x:1,[5],7	1,4,12,[27]:e,n,x:1,[5],7	II
+II 4,12:e,n,x:1,2,7	O:4 (B)	4,12	B	e,n,x	1,2,7	B:e,n,x:1,2,7	4,12:e,n,x:1,2,7	II
+II 6,7:e,n,x:1,6	O:7 (C1)	6,7	C1	e,n,x	1,6	C1:e,n,x:1,6	6,7:e,n,x:1,6	II
+II 9,12:e,n,x:1,[5],7	O:9 (D1)	9,12	D	e,n,x	1,[5],7	D:e,n,x:1,[5],7	9,12:e,n,x:1,[5],7	II
+II 9,46:e,n,x:1,5,7	O:9,46 (D2)	9,46	D	e,n,x	1,5,7	D:e,n,x:1,5,7	9,46:e,n,x:1,5,7	II
+II 9,12:e,n,x:1,6	O:9 (D1)	9,12	D	e,n,x	1,6	D:e,n,x:1,6	9,12:e,n,x:1,6	II
+II 3,10:e,n,x:1,7	O:3,10 (E1)	3,10	E	e,n,x	1,7	E:e,n,x:1,7	3,10:e,n,x:1,7	II
+II 1,13,23:e,n,x:1,[5],7	O:13 (G)	1,13,23	G	e,n,x	1,[5],7	G:e,n,x:1,[5],7	1,13,23:e,n,x:1,[5],7	II
+II 16:e,n,x:1,(5),7	O:16 (l)	16	I	e,n,x	1,(5),7	I:e,n,x:1,(5),7	16:e,n,x:1,(5),7	II
+II 16:e,n,x:1,6	O:16 (l)	16	I	e,n,x	1,6	I:e,n,x:1,6	16:e,n,x:1,6	II
+II 28:e,n,x:1,7	O:28 (M)	28	M	e,n,x	1,7	M:e,n,x:1,7	28:e,n,x:1,7	II
+II 56:e,n,x:1,7	O:56	56	O-56	e,n,x	1,7	O-56:e,n,x:1,7	56:e,n,x:1,7	II
+II 39:e,n,x:1,7	O:39 (Q)	39	Q	e,n,x	1,7	Q:e,n,x:1,7	39:e,n,x:1,7	II
+II 1,40:e,n,x:1,[5],7	O:40 (R) 	1,40	R	e,n,x	1,[5],7	R:e,n,x:1,[5],7	1,40:e,n,x:1,[5],7	II
+II 42:e,n,x:1,6	O:42 (T)	42	T	e,n,x	1,6	T:e,n,x:1,6	42:e,n,x:1,6	II
+II 1,44:e,n,x:1,6	O:44 (V)	1,44	V	e,n,x	1,6	V:e,n,x:1,6	1,44:e,n,x:1,6	II
+II 50:e,n,x:1,7	O:50 (Z)	50	Z	e,n,x	1,7	Z:e,n,x:1,7	50:e,n,x:1,7	II
+II 17:e,n,x,z15:1,[5],7	O:17 (J)	17	J	e,n,x,z15	1,[5],7	J:e,n,x,z15:1,[5],7	17:e,n,x,z15:1,[5],7	II
+II 17:e,n,x,z15:1,6	O:17 (J)	17	J	e,n,x,z15	1,6	J:e,n,x,z15:1,6	17:e,n,x,z15:1,6	II
+II 1,40:e,n,x,z15:1,6	O:40 (R) 	1,40	R	e,n,x,z15	1,6	R:e,n,x,z15:1,6	1,40:e,n,x,z15:1,6	II
+II 43:e,n,x,z15:1,(5),7	O:43 (U)	43	U	e,n,x,z15	1,(5),7	U:e,n,x,z15:1,(5),7	43:e,n,x,z15:1,(5),7	II
+II 43:e,n,x,z15:1,6	O:43 (U)	43	U	e,n,x,z15	1,6	U:e,n,x,z15:1,6	43:e,n,x,z15:1,6	II
+II 47:e,n,x,z15:1,6	O:47 (X)	47	X	e,n,x,z15	1,6	X:e,n,x,z15:1,6	47:e,n,x,z15:1,6	II
+II 48:e,n,x,z15:z6	O:48 (Y)1	48	Y	e,n,x,z15	z6	Y:e,n,x,z15:z6	48:e,n,x,z15:z6	II
+II 28:e,n,z15:z87	O:28 (M)	28	M	e,n,z15	z87	M:e,n,z15:z87	28:e,n,z15:z87	II
+Kastrup	O:7 (C1)	6,7	C1	e,n,z15	1,6	C1:e,n,z15:1,6	6,7:e,n,z15:1,6	I
+V 6,14:e,n,z15:-	O:6,14 (H)	6,14	H	e,n,z15	-	H:e,n,z15:-	6,14:e,n,z15:-	V
+Adelaide	O:35 (O)	35	O	f,g	-	O:f,g:-	35:f,g:-	I
+Alfort	O:3,10 (E1)	3,10	E	f,g	e,n,x	E:f,g:e,n,x	3,10:f,g:e,n,x	I
+Derby	O:4 (B)	1,4,[5],12	B	f,g	-	B:f,g:-	1,4,[5],12:f,g:-	I
+Derby	O:4 (B)	1,4,[5],12	B	f,g	1,2	B:f,g:1,2	1,4,[5],12:f,g:1,2	I
+Friedrichsfelde	O:28 (M)	28	M	f,g	-	M:f,g:-	28:f,g:-	I
+Good	O:21 (L)	21	L	f,g	e,n,x	L:f,g:e,n,x	21:f,g:e,n,x	I
+II 47:f,g:e,n,x	O:47 (X)	47	X	f,g	e,n,x	X:f,g:e,n,x	47:f,g:e,n,x	II
+Raus	O:13 (G)	13,22	G	f,g	e,n,x	G:f,g:e,n,x	13,22:f,g:e,n,x	I
+Rideau	O:1,3,19 (E4)	1,3,19	E	f,g	-	E:f,g:-	1,3,19:f,g:-	I
+Rissen	O:7 (C1)	6,7,14	C1	f,g	-	C1:f,g:-	6,7,14:f,g:-	I
+Sandow	O:8 (C2-C3)	6,8	C2-C3	f,g	e,n,z15	C2-C3:f,g:e,n,z15	6,8:f,g:e,n,z15	I
+Sljeme	O:47 (X)	1,47	X	f,g	-	X:f,g:-	1,47:f,g:-	I
+Suelldorf	O:45 (W)	45	W	f,g	-	W:f,g:-	45:f,g:-	I
+Tees	O:16 (l)	16	I	f,g	-	I:f,g:-	16:f,g:-	I
+Vleuten	O:44 (V)	44	V	f,g	-	V:f,g:-	44:f,g:-	I
+Wernigerode	O:9,46 (D2)	9,46	D	f,g	-	D:f,g:-	9,46:f,g:-	I
+Havana	O:13 (G)	1,13,23	G	f,g,[s]	-	G:f,g,[s]:-	1,13,23:f,g,[s]:-	I
+Havana	O:13 (G)	1,13,23	G	f,g	-	G:f,g:-	1,13,23:f,g,[s]:-	I
+Regent	O:3,10 (E1)	3,10	E	f,g,[s]	-	E:f,g,[s]:-	3,10:f,g,[s]:-	I
+Regent	O:3,10 (E1)	3,10	E	f,g,[s]	1,6	E:f,g,[s]:1,6	3,10:f,g,[s]:1,6	I
+Milwaukee	O:43 (U)	43	U	f,g,[t]	-	U:f,g,[t]:-	43:f,g,[t]:-	I
+II 6,8:f,g,m,t:-	O:8 (C2-C3)	6,8	C2-C3	f,g,m,t	-	C2-C3:f,g,m,t:-	6,8:f,g,m,t:-	II
+II 6,8:f,g,m,t:e,n,x	O:8 (C2-C3)	6,8	C2-C3	f,g,m,t	e,n,x	C2-C3:f,g,m,t:e,n,x	6,8:f,g,m,t:e,n,x	II
+Agona	O:4 (B)	1,4,[5],12	B	f,g,s	-	B:f,g,s:-	1,4,[5],12:f,g,s:-	I
+Agona	O:4 (B)	1,4,[5],12	B	f,g,s	1,2	B:f,g,s:1,2	1,4,[5],12:f,g,s:1,2	I
+Borreze	O:54	54	O-54	f,g,s	-	O-54:f,g,s:-	54:f,g,s:-	I
+Afula	O:7 (C1)	6,7	C1	f,g,t	e,n,x	C1:f,g,t:e,n,x	6,7:f,g,t:e,n,x	I
+Bilu	O:1,3,19 (E4)	1,3,10,19	E	f,g,t	1,(2),7	E:f,g,t:1,(2),7	1,3,10,19:f,g,t:1,(2),7	I
+Eingedi	O:7 (C1)	6,7	C1	f,g,t	1,2,7	C1:f,g,t:1,2,7	6,7:f,g,t:1,2,7	I
+II 1,4,[5],12:f,g,t:z6	O:4 (B)	1,4,[5],12	B	f,g,t	z6	B:f,g,t:z6	1,4,[5],12:f,g,t:z6	II
+Maiduguri	O:1,3,19 (E4)	1,3,19	E	f,g,t	e,n,z15	E:f,g,t:e,n,z15	1,3,19:f,g,t:e,n,z15	I
+Petahtikve	O:1,3,19 (E4)	1,3,19	E	f,g,t	1,7	E:f,g,t:1,7	1,3,19:f,g,t:1,7	I
+Berta	O:9 (D1)	1,9,12	D	g	-	D:g:-	1,9,12:g:-	I
+Berta	O:9 (D1)	1,9,12	D	f,g	-	D:g:-	1,9,12:g:-	I
+II 28:g,(m),[s],t:1,5	O:28 (M)	28	M	g,(m),[s],t	1,5	M:g,(m),[s],t:1,5	28:g,(m),[s],t:1,5	II
+Riggil	O:7 (C1)	6,7	C1	g,(t)	-	C1:g,(t):-	6,7:g,(t):-	I
+II 1,40:g,[m],[s],[t]:e,n,x	O:40 (R) 	1,40	R	g,[m],[s],[t]	e,n,x	R:g,[m],[s],[t]:e,n,x	1,40:g,[m],[s],[t]:e,n,x	II
+II 1,4,12,[27]:g,[m],[s],t:e,n,x	O:4 (B)	1,4,12,[27]	B	g,[m],[s],t	e,n,x	B:g,[m],[s],t:e,n,x	1,4,12,[27]:g,[m],[s],t:e,n,x	II
+II 9,46:g,[m],[s],t:-	O:9,46 (D2)	9,46	D	g,[m],[s],t	-	D:g,[m],[s],t:-	9,46:g,[m],[s],t:-	II
+II 9,46:g,[m],[s],t:e,n,x	O:9,46 (D2)	9,46	D	g,[m],[s],t	e,n,x	D:g,[m],[s],t:e,n,x	9,46:g,[m],[s],t:e,n,x	II
+II 16:g,[m],[s],t:-	O:16 (l)	16	I	g,[m],[s],t	-	I:g,[m],[s],t:-	16:g,[m],[s],t:-	II
+II 16:g,[m],[s],t:-	O:16 (l)	16	I	g,[m],[s],t	-	I:g,[m],[s],t:-	16:g,[m],[s],t:-	II
+II 16:g,[m],[s],t:1,5	O:16 (l)	16	I	g,[m],[s],t	1,5	I:g,[m],[s],t:1,5	16:g,[m],[s],t:1,5	II
+II 16:g,[m],[s],t:e,n,x	O:16 (l)	16	I	g,[m],[s],t	e,n,x	I:g,[m],[s],t:e,n,x	16:g,[m],[s],t:e,n,x	II
+II 21:g,[m],[s],t:-	O:21 (L)	21	L	g,[m],[s],t	-	L:g,[m],[s],t:-	21:g,[m],[s],t:-	II
+II 1,40:g,[m],[s],t:-	O:40 (R) 	1,40	R	g,[m],[s],t	-	R:g,[m],[s],t:-	1,40:g,[m],[s],t:-	II
+II 1,40:g,[m],[s],t:1,5	O:40 (R) 	1,40	R	g,[m],[s],t	1,5	R:g,[m],[s],t:1,5	1,40:g,[m],[s],t:1,5	II
+II 1,40:g,[m],[s],t:z42	O:40 (R) 	1,40	R	g,[m],[s],t	z42	R:g,[m],[s],t:z42	1,40:g,[m],[s],t:z42	II
+II 6,7:g,[m],s,t:-	O:7 (C1)	6,7	C1	g,[m],s,t	-	C1:g,[m],s,t:-	6,7:g,[m],s,t:-	II
+II 6,7:g,[m],s,t:z42	O:7 (C1)	6,7	C1	g,[m],s,t	z42	C1:g,[m],s,t:z42	6,7:g,[m],s,t:z42	II
+II 11:g,[m],s,t:z39	O:11 (F)	11	F	g,[m],s,t	z39	F:g,[m],s,t:z39	11:g,[m],s,t:z39	II
+II 57:g,[m],s,t:z42	O:57	57	O-57	g,[m],s,t	z42	O-57:g,[m],s,t:z42	57:g,[m],s,t:z42	II
+II 50:g,[m],s,t:-	O:50 (Z)	50	Z	g,[m],s,t	-	Z:g,[m],s,t:-	50:g,[m],s,t:-	II
+II 50:g,[m],s,t:1,5	O:50 (Z)	50	Z	g,[m],s,t	1,5	Z:g,[m],s,t:1,5	50:g,[m],s,t:1,5	II
+II 1,4,12,[27]:g,[m],t:-	O:4 (B)	1,4,12,[27]	B	g,[m],t	-	B:g,[m],t:-	1,4,12,[27]:g,[m],t:-	II
+II 1,4,12,[27]:g,[m],t:1,5	O:4 (B)	1,4,12,[27]	B	g,[m],t	1,5	B:g,[m],t:1,5	1,4,12,[27]:g,[m],t:1,5	II
+II 1,13,23:g,[s],t:z42	O:13 (G)	1,13,23	G	g,[s],t	z42	G:g,[s],t:z42	1,13,23:g,[s],t:z42	II
+Okatie	O:13 (G)	13,23	G	g,[s],t	-	G:g,s,t:-	13,23:g,[s],t:-	I
+Senftenberg	O:1,3,19 (E4)	1,3,19	E	g,[s],t	-	E:g,s,t:-	1,3,19:g,[s],t:-	I
+Okatie	O:13 (G)	13,23	G	g,[s],t	-	G:g,t:-	13,23:g,[s],t:-	I
+Senftenberg	O:1,3,19 (E4)	1,3,19	E	g,[s],t	-	E:g,t:-	1,3,19:g,[s],t:-	I
+Okatie	O:13 (G)	13,23	G	g,[s],t	-	G:g,[s],t:-	13,23:g,[s],t:-	I
+Senftenberg	O:1,3,19 (E4)	1,3,19	E	g,[s],t	-	E:g,[s],t:-	1,3,19:g,[s],t:-	I
+Abadina	O:28 (M)	28	M	g,m	-	M:g,m:-	28:g,m:-	I
+Abadina	O:28 (M)	28	M	g,m	e,n,z15	M:g,m:e,n,z15	28:g,m:e,n,z15	I
+Abuja	O:11 (F)	11	F	g,m	1,5	F:g,m:1,5	11:g,m:1,5	I
+Bijlmer	O:40 (R) 	1,40	R	g,m	-	R:g,m:-	1,40:g,m:-	I
+Bron	O:13 (G)	13,22	G	g,m	-	G:g,m:-	13,22:g,m:-	I
+Bron	O:13 (G)	13,22	G	g,m	e,n,z15	G:g,m:e,n,z15	13,22:g,m:e,n,z15	I
+Enteritidis	O:9 (D1)	1,9,12	D	g,m	-	D:g,m:-	1,9,12:g,m:-	I
+Essen	O:4 (B)	4,12	B	g,m	-	B:g,m:-	4,12:g,m:-	I
+Hillingdon	O:9,46 (D2)	9,46	D	g,m	-	D:g,m:-	9,46:g,m:-	I
+Luke	O:47 (X)	1,47	X	g,m	-	X:g,m:-	1,47:g,m:-	I
+Nitra	O:2 (A)	2,12	A	g,m	-	A:g,m:-	2,12:g,m:-	I
+Pontypridd	O:18 (K)	18	K	g,m	-	K:g,m:-	18:g,m:-	I
+Suberu	O:3,10 (E1)	3,10	E	g,m	-	E:g,m:-	3,10:g,m:-	I
+Warragul	O:6,14 (H)	[1],6,14,[25]	H	g,m	-	H:g,m:-	[1],6,14,[25]:g,m:-	I
+Yardley	O:28 (M)	28	M	g,m	1,6	M:g,m:1,6	28:g,m:1,6	I
+Montevideo	O:7 (C1)	6,7,14	C1	g,m,p,s	-	C1:g,m,[p],s:-	6,7,14:g,m,[p],s:-	I
+Montevideo	O:7 (C1)	6,7,14	C1	g,m,s	-	C1:g,m,[p],s:-	6,7,14:g,m,[p],s:-	I
+Montevideo	O:7 (C1)	6,7,14	C1	g,m,[p],s	-	C1:g,m,[p],s:-	6,7,14:g,m,[p],s:-	I
+Montevideo	O:7 (C1)	6,7,14	C1	g,m,[p],s	1,2,7	C1:g,m,[p],s:1,2,7	6,7,14:g,m,[p],s:1,2,7	I
+Chincol	O:8 (C2-C3)	6,8	C2-C3	g,m,[s]	-	C2-C3:g,m,[s]:-	6,8:g,m,[s]:-	I
+Chincol	O:8 (C2-C3)	6,8	C2-C3	g,m,[s]	e,n,x	C2-C3:g,m,[s]:e,n,x	6,8:g,m,[s]:e,n,x	I
+Gamaba	O:44 (V)	1,44	V	g,m,[s]	-	V:g,m,[s]:-	1,44:g,m,[s]:-	I
+Gamaba	O:44 (V)	1,44	V	g,m,[s]	1,6	V:g,m,[s]:1,6	1,44:g,m,[s]:1,6	I
+Korovi	O:38 (P)	38	P	g,m,[s]	-	P:g,m,[s]:-	38:g,m,[s]:-	I
+Agbeni	O:13 (G)	1,13,23	G	g,m,[s],[t]	-	G:g,m,[s],[t]:-	1,13,23:g,m,[s],[t]:-	I
+Tornow	O:45 (W)	45	W	g,m,[s],[t]	-	W:g,m,[s],[t]:-	45:g,m,[s],[t]:-	I
+II 6,7:g,m,[s],t:e,n,x	O:7 (C1)	6,7	C1	g,m,[s],t	e,n,x	C1:g,m,[s],t:e,n,x	6,7:g,m,[s],t:e,n,x	II
+II 1,9,12:g,m,[s],t:-	O:9 (D1)	1,9,12	D	g,m,[s],t	-	D:g,m,[s],t:-	1,9,12:g,m,[s],t:-	II
+II 1,9,12:g,m,[s],t:1,5,7	O:9 (D1)	1,9,12	D	g,m,[s],t	1,5,7	D:g,m,[s],t:1,5,7	1,9,12:g,m,[s],t:1,5,7	II
+II 1,13,23:g,m,[s],t:-	O:13 (G)	1,13,23	G	g,m,[s],t	-	G:g,m,[s],t:-	1,13,23:g,m,[s],t:-	II
+II 1,13,23:g,m,[s],t:e,n,x	O:13 (G)	1,13,23	G	g,m,[s],t	e,n,x	G:g,m,[s],t:e,n,x	1,13,23:g,m,[s],t:e,n,x	II
+II 43:g,m,[s],t:-	O:43 (U)	43	U	g,m,[s],t	-	U:g,m,[s],t:-	43:g,m,[s],t:-	II
+II 43:g,m,[s],t:z42	O:43 (U)	43	U	g,m,[s],t	z42	U:g,m,[s],t:z42	43:g,m,[s],t:z42	II
+Adeoyo	O:16 (l)	16	I	g,m,[t]	-	I:g,m,[t]:-	16:g,m,[t]:-	I
+Godesberg	O:30 (N)	30	N	g,m,[t]	-	N:g,m,[t]:-	30:g,m,[t]:-	I
+II 6,7:g,m,[t]:-	O:7 (C1)	6,7	C1	g,m,[t]	-	C1:g,m,[t]:-	6,7:g,m,[t]:-	II
+Kouka	O:1,3,19 (E4)	1,3,19	E	g,m,[t]	-	E:g,m,[t]:-	1,3,19:g,m,[t]:-	I
+Oranienburg	O:7 (C1)	6,7,14	C1	g,m	-	C1:g,m,[t]:-	6,7,14:g,m,[t]:-	I
+Othmarschen	O:7 (C1)	6,7,14	C1	g,m	-	C1:g,m,[t]:-	6,7,14:g,m,[t]:-	I
+Oranienburg	O:7 (C1)	6,7,14	C1	g,m,[t]	-	C1:g,m,[t]:-	6,7,14:g,m,[t]:-	I
+Othmarschen	O:7 (C1)	6,7,14	C1	g,m,[t]	-	C1:g,m,[t]:-	6,7,14:g,m,[t]:-	I
+Blegdam	O:9 (D1)	9,12	D	g,m,q	-	D:g,m,q:-	9,12:g,m,q:-	I
+Amsterdam	O:3,10 (E1)	3,{10}{15}{15,34}	E	g,m,s	-	E:g,m,s:-	3,{10}{15}{15,34}:g,m,s:-	I
+Athens	O:40 (R) 	1,40	R	g,m,s	e,n,x	R:g,m,s:e,n,x	1,40:g,m,s:e,n,x	I
+Caracas	O:6,14 (H)	[1],6,14,[25]	H	g,m,s	-	H:g,m,s:-	[1],6,14,[25]:g,m,s:-	I
+Croft	O:28 (M)	28	M	g,m,s	-	M:g,m,s:-	28:g,m,s:-	I
+Croft	O:28 (M)	28	M	g,m,s	e,n,z15	M:g,m,s:e,n,z15	28:g,m,s:e,n,z15	I
+Ealing	O:35 (O)	35	O	g,m,s	-	O:g,m,s:-	35:g,m,s:-	I
+Emek	O:8 (C2-C3)	8,20	C2-C3	g,m,s	-	C2-C3:g,m,s:-	8,20:g,m,s:-	I
+Giessen	O:30 (N)	30	N	g,m,s	-	N:g,m,s:-	30:g,m,s:-	I
+Gueuletapee	O:9 (D1)	9,12	D	g,m,s	-	D:g,m,s:-	9,12:g,m,s:-	I
+Hato	O:4 (B)	1,4,[5],12	B	g,m,s	-	B:g,m,s:-	1,4,[5],12:g,m,s:-	I
+Hato	O:4 (B)	1,4,[5],12	B	g,m,s	1,2	B:g,m,s:1,2	1,4,[5],12:g,m,s:1,2	I
+II 30:g,m,s:e,n,x	O:30 (N)	30	N	g,m,s	e,n,x	N:g,m,s:e,n,x	30:g,m,s:e,n,x	II
+IIIb 13,22:g,m,s:z	O:13 (G)	13,22	G	g,m,s	z	G:g,m,s:z	13,22:g,m,s:z	IIIb
+Macclesfield	O:9,46 (D2)	9,46	D	g,m,s	1,2,7	D:g,m,s:1,2,7	9,46:g,m,s:1,2,7	I
+Montevideo	O:54	{6,7,14}{54}	O-54	g,m,s	-	O-54:g,m,s:-	{6,7,14}{54}:g,m,s:-	I
+Nikolaifleet	O:16 (l)	16	I	g,m,s	-	I:g,m,s:-	16:g,m,s:-	I
+II 6,7:g,m,s,t:z39	O:7 (C1)	6,7	C1	g,m,s,t	z39	C1:g,m,s,t:z39	6,7:g,m,s,t:z39	II
+II 1,9,12:g,m,s,t:e,n,x	O:9 (D1)	1,9,12	D	g,m,s,t	e,n,x	D:g,m,s,t:e,n,x	1,9,12:g,m,s,t:e,n,x	II
+II 3,{10}{15}:g,m,s,t:-	O:3,10 (E1)	3,{10}{15}	E	g,m,s,t	-	E:g,m,s,t:-	3,{10}{15}:g,m,s,t:-	II
+II 3,{10}{15}:g,m,s,t:1,5	O:3,10 (E1)	3,{10}{15}	E	g,m,s,t	1,5	E:g,m,s,t:1,5	3,{10}{15}:g,m,s,t:1,5	II
+II 1,13,23:g,m,s,t:1,5	O:13 (G)	1,13,23	G	g,m,s,t	1,5	G:g,m,s,t:1,5	1,13,23:g,m,s,t:1,5	II
+II 1,13,23:g,m,s,t:z42	O:13 (G)	1,13,23	G	g,m,s,t	z42	G:g,m,s,t:z42	1,13,23:g,m,s,t:z42	II
+II 17:g,m,s,t:-	O:17 (J)	17	J	g,m,s,t	-	J:g,m,s,t:-	17:g,m,s,t:-	II
+II 35:g,m,s,t:-	O:35 (O)	35	O	g,m,s,t	-	O:g,m,s,t:-	35:g,m,s,t:-	II
+II 41:g,m,s,t:z6	O:41 (S)	41	S	g,m,s,t	z6	S:g,m,s,t:z6	41:g,m,s,t:z6	II
+II 45:g,m,s,t:1,5	O:45 (W)	45	W	g,m,s,t	1,5	W:g,m,s,t:1,5	45:g,m,s,t:1,5	II
+II 45:g,m,s,t:e,n,x	O:45 (W)	45	W	g,m,s,t	e,n,x	W:g,m,s,t:e,n,x	45:g,m,s,t:e,n,x	II
+California	O:4 (B)	4,12	B	g,m,t	-	B:g,m,t:-	4,12:g,m,t:-	I
+California	O:4 (B)	4,12	B	g,m,t	z67	B:g,m,t:z67	4,12:g,m,t:z67	I
+Ebrie	O:35 (O)	35	O	g,m,t	-	O:g,m,t:-	35:g,m,t:-	I
+II 4,12:g,m,t:z39	O:4 (B)	4,12	B	g,m,t	z39	B:g,m,t:z39	4,12:g,m,t:z39	II
+II 6,8:g,m,t:1,7	O:8 (C2-C3)	6,8	C2-C3	g,m,t	1,7	C2-C3:g,m,t:1,7	6,8:g,m,t:1,7	II
+II 1,13,22:g,m,t:-	O:13 (G)	1,13,22	G	g,m,t	-	G:g,m,t:-	1,13,22:g,m,t:-	II
+II 1,13,22:g,m,t:1,5	O:13 (G)	1,13,22	G	g,m,t	1,5	G:g,m,t:1,5	1,13,22:g,m,t:1,5	II
+II 28:g,m,t:e,n,x	O:28 (M)	28	M	g,m,t	e,n,x	M:g,m,t:e,n,x	28:g,m,t:e,n,x	II
+II 28:g,m,t:z39	O:28 (M)	28	M	g,m,t	z39	M:g,m,t:z39	28:g,m,t:z39	II
+II 60:g,m,t:z6	O:60	60	O-60	g,m,t	z6	O-60:g,m,t:z6	60:g,m,t:z6	II
+II 45:g,m,t:e,n,x,z15	O:45 (W)	45	W	g,m,t	e,n,x,z15	W:g,m,t:e,n,x,z15	45:g,m,t:e,n,x,z15	II
+II 48:g,m,t:-	O:48 (Y)1	48	Y	g,m,t	-	Y:g,m,t:-	48:g,m,t:-	II
+Reubeuss	O:8 (C2-C3)	8,20	C2-C3	g,m,t	-	C2-C3:g,m,t:-	8,20:g,m,t:-	I
+Dublin	O:9 (D1)	1,9,12[Vi]	D	g,p	-	D:g,p:-	1,9,12[Vi]:g,p:-	I
+Kiel	O:2 (A)	1,2,12	A	g,p	-	A:g,p:-	1,2,12:g,p:-	I
+Sylvania	O:6,14 (H)	[1],6,14,[25]	H	g,p	-	H:g,p:-	[1],6,14,[25]:g,p:-	I
+Naestved	O:9 (D1)	1,9,12	D	g,p,s	-	D:g,p,s:-	1,9,12:g,p,s:-	I
+Rostock	O:9 (D1)	1,9,12	D	g,p,u	-	D:g,p,u:-	1,9,12:g,p,u:-	I
+Moscow	O:9 (D1)	1,9,12	D	g,q	-	D:g,q:-	1,9,12:g,q:-	I
+Menston	O:7 (C1)	6,7	C1	g,s,t	-	C1:g,s,[t]:-	6,7:g,s,[t]:-	I
+Menston	O:7 (C1)	6,7	C1	g,s,[t]	-	C1:g,s,[t]:-	6,7:g,s,[t]:-	I
+Menston	O:7 (C1)	6,7	C1	g,s,[t]	1,6	C1:g,s,[t]:1,6	6,7:g,s,[t]:1,6	I
+Plumaugat	O:7 (C1)	6,7	C1	g,s,q	-	C1:g,s,q:-	6,7:g,s,q:-	I
+Alminko	O:8 (C2-C3)	8,20	C2-C3	g,s,t	-	C2-C3:g,s,t:-	8,20:g,s,t:-	I
+Anecho	O:35 (O)	35	O	g,s,t	-	O:g,s,t:-	35:g,s,t:-	I
+Binningen	O:45 (W)	45	W	g,s,t	-	W:g,s,t:-	45:g,s,t:-	I
+Cardoner	O:16 (l)	16	I	g,s,t	-	I:g,s,t:-	16:g,s,t:-	I
+Catanzaro	O:6,14 (H)	6,14	H	g,s,t	-	H:g,s,t:-	6,14:g,s,t:-	I
+Dessau	O:1,3,19 (E4)	1,3,15,19	E	g,s,t	-	E:g,s,t:-	1,3,15,19:g,s,t:-	I
+Eaubonne	O:18 (K)	18	K	g,s,t	-	K:g,s,t:-	18:g,s,t:-	I
+Gateshead	O:9,46 (D2)	9,46	D	g,s,t	-	D:g,s,t:-	9,46:g,s,t:-	I
+II 9,12:g,s,t:e,n,x	O:9 (D1)	9,12	D	g,s,t	e,n,x	D:g,s,t:e,n,x	9,12:g,s,t:e,n,x	II
+II 28:g,s,t:e,n,x	O:28 (M)	28	M	g,s,t	e,n,x	M:g,s,t:e,n,x	28:g,s,t:e,n,x	II
+II 51:g,s,t:e,n,x	O:51	51	O-51	g,s,t	e,n,x	O-51:g,s,t:e,n,x	51:g,s,t:e,n,x	II
+Kingston	O:4 (B)	1,4,[5],12,[27]	B	g,s,t	-	B:g,s,t:-	1,4,[5],12,[27]:g,s,t:-	I
+Kingston	O:4 (B)	1,4,[5],12,[27]	B	g,s,t	1,2	B:g,s,t:1,2	1,4,[5],12,[27]:g,s,t:1,2	I
+Lowestoft	O:17 (J)	17	J	g,s,t	-	J:g,s,t:-	17:g,s,t:-	I
+Missouri	O:11 (F)	11	F	g,s,t	-	F:g,s,t:-	11:g,s,t:-	I
+Nanergou	O:8 (C2-C3)	6,8	C2-C3	g,s,t	-	C2-C3:g,s,t:-	6,8:g,s,t:-	I
+Newyork	O:13 (G)	13,22	G	g,s,t	-	G:g,s,t:-	13,22:g,s,t:-	I
+Ona	O:28 (M)	28	M	g,s,t	-	M:g,s,t:-	28:g,s,t:-	I
+Splott	O:44 (V)	44	V	g,s,t	-	V:g,s,t:-	44:g,s,t:-	I
+Splott	O:44 (V)	44	V	g,s,t	1,7	V:g,s,t:1,7	44:g,s,t:1,7	I
+Sternschanze	O:30 (N)	30	N	g,s,t	-	N:g,s,t:-	30:g,s,t:-	I
+Uccle	O:54	3,54	O-54	g,s,t	-	O-54:g,s,t:-	3,54:g,s,t:-	I
+Westhampton	O:3,10 (E1)	3,{10}{15}{15,34}	E	g,s,t	-	E:g,s,t:-	3,{10}{15}{15,34}:g,s,t:-	I
+Agodi	O:35 (O)	35	O	g,t	-	O:g,t:-	35:g,t:-	I
+Berta	O:9 (D1)	1,9,12	D	g,t	-	D:g,t:-	1,9,12:g,t:-	I
+Bloomsbury	O:3,10 (E1)	3,10	E	g,t	1,5	E:g,t:1,5	3,10:g,t:1,5	I
+Budapest	O:4 (B)	1,4,12,[27]	B	g,t	-	B:g,t:-	1,4,12,[27]:g,t:-	I
+II 6,7:g,t:-	O:7 (C1)	6,7	C1	g,t	-	C1:g,t:-	6,7:g,t:-	II
+II 6,7:g,t:e,n,x	O:7 (C1)	6,7	C1	g,t	e,n,x	C1:g,t:e,n,x	6,7:g,t:e,n,x	II
+II 9,12,46,27:g,t:e,n,x	O:9,46,27 (D3)	9,12,46,27	D	g,t	e,n,x	D:g,t:e,n,x	9,12,46,27:g,t:e,n,x	II
+II 3,10:g,t:-	O:3,10 (E1)	3,10	E	g,t	-	E:g,t:-	3,10:g,t:-	II
+II 1,13,22:g,t:-	O:13 (G)	1,13,22	G	g,t	-	G:g,t:-	1,13,22:g,t:-	II
+II 1,13,22:g,t:1,5	O:13 (G)	1,13,22	G	g,t	1,5	G:g,t:1,5	1,13,22:g,t:1,5	II
+II 1,13,23:g,t:1,5	O:13 (G)	1,13,23	G	g,t	1,5	G:g,t:1,5	1,13,23:g,t:1,5	II
+II 13,23:g,t:e,n,x	O:13 (G)	13,23	G	g,t	e,n,x	G:g,t:e,n,x	13,23:g,t:e,n,x	II
+II 13,22:g,t:z6	O:13 (G)	13,22	G	g,t	z6	G:g,t:z6	13,22:g,t:z6	II
+II 17:g,t:-	O:17 (J)	17	J	g,t	-	J:g,t:-	17:g,t:-	II
+II 17:g,t:e,n,x,z15	O:17 (J)	17	J	g,t	e,n,x,z15	J:g,t:e,n,x,z15	17:g,t:e,n,x,z15	II
+II 17:g,t:z39	O:17 (J)	17	J	g,t	z39	J:g,t:z39	17:g,t:z39	II
+II 30:g,t:-	O:30 (N)	30	N	g,t	-	N:g,t:-	30:g,t:-	II
+II 52:g,t:-	O:52	52	O-52	g,t	-	O-52:g,t:-	52:g,t:-	II
+II 57:g,t:-	O:57	57	O-57	g,t	-	O-57:g,t:-	57:g,t:-	II
+II 65:g,t:-	O:65	65	O-65	g,t	-	O-65:g,t:-	65:g,t:-	II
+II 35:g,t:1,5	O:35 (O)	35	O	g,t	1,5	O:g,t:1,5	35:g,t:1,5	II
+II 35:g,t:z42	O:35 (O)	35	O	g,t	z42	O:g,t:z42	35:g,t:z42	II
+II 38:g,t:-	O:38 (P)	38	P	g,t	-	P:g,t:-	38:g,t:-	II
+II 1,40:g,t:e,n,x,z15	O:40 (R) 	1,40	R	g,t	e,n,x,z15	R:g,t:e,n,x,z15	1,40:g,t:e,n,x,z15	II
+II 40:g,t:z39	O:40 (R) 	40	R	g,t	z39	R:g,t:z39	40:g,t:z39	II
+II 41:g,t:-	O:41 (S)	41	S	g,t	-	S:g,t:-	41:g,t:-	II
+II 42:g,t:-	O:42 (T)	42	T	g,t	-	T:g,t:-	42:g,t:-	II
+II 43:g,t:-	O:43 (U)	43	U	g,t	-	U:g,t:-	43:g,t:-	II
+II 43:g,t:1,5	O:43 (U)	43	U	g,t	1,5	U:g,t:1,5	43:g,t:1,5	II
+II 44:g,t:z42	O:44 (V)	44	V	g,t	z42	V:g,t:z42	44:g,t:z42	II
+IIIb 43:g,t:-	O:43 (U)	43	U	g,t	-	U:g,t:-	43:g,t:-	IIIb
+IIIb 1,44:g,t:1,5	O:44 (V)	1,44	V	g,t	1,5	V:g,t:1,5	1,44:g,t:1,5	IIIb
+IV 1,40:g,t:-	O:40 (R) 	1,40	R	g,t	-	R:g,t:-	1,40:g,t:-	IV
+Saintemarie	O:52	52	O-52	g,t	-	O-52:g,t:-	52:g,t:-	I
+Alamo	O:4 (B)	4,[5],12	B	g,z51	1,7	B:g,z51:1,7	4,[5],12:g,z51:1,7	I
+Carswell	O:47 (X)	47	X	g,z51	-	X:g,z51:-	47:g,z51:-	I
+IIIa 6,7:g,z51:-	O:7 (C1)	6,7	C1	g,z51	-	C1:g,z51:-	6,7:g,z51:-	IIIa
+IIIa 6,7:g,z51:1,5	O:7 (C1)	6,7	C1	g,z51	1,5	C1:g,z51:1,5	6,7:g,z51:1,5	IIIa
+IIIa 9,12:g,z51:1,5	O:9 (D1)	9,12	D	g,z51	1,5	D:g,z51:1,5	9,12:g,z51:1,5	IIIa
+IIIa 1,13,23:g,z51:-	O:13 (G)	1,13,23	G	g,z51	-	G:g,z51:-	1,13,23:g,z51:-	IIIa
+IIIa 18:g,z51:-	O:18 (K)	18	K	g,z51	-	K:g,z51:-	18:g,z51:-	IIIa
+IIIa 21:g,z51:-	O:21 (L)	21	L	g,z51	-	L:g,z51:-	21:g,z51:-	IIIa
+IIIa 51:g,z51:-	O:51	51	O-51	g,z51	-	O-51:g,z51:-	51:g,z51:-	IIIa
+IIIa 1,53:g,z51:-	O:53	1,53	O-53	g,z51	-	O-53:g,z51:-	1,53:g,z51:-	IIIa
+IIIa 63:g,z51:-	O:63	63	O-63	g,z51	-	O-63:g,z51:-	63:g,z51:-	IIIa
+IIIa 35:g,z51:-	O:35 (O)	35	O	g,z51	-	O:g,z51:-	35:g,z51:-	IIIa
+IIIa 38:g,z51:-	O:38 (P)	38	P	g,z51	-	P:g,z51:-	38:g,z51:-	IIIa
+IIIa 41:g,z51:-	O:41 (S)	41	S	g,z51	-	S:g,z51:-	41:g,z51:-	IIIa
+IIIa 43:g,z51:-	O:43 (U)	43	U	g,z51	-	U:g,z51:-	43:g,z51:-	IIIa
+IIIa 45:g,z51:-	O:45 (W)	45	W	g,z51	-	W:g,z51:-	45:g,z51:-	IIIa
+IIIa 50:g,z51:-	O:50 (Z)	50	X	g,z51	-	X:g,z51:-	50:g,z51:-	IIIa
+IIIa 48:g,z51:-	O:48 (Y)1	48	Y	g,z51	-	Y:g,z51:-	48:g,z51:-	IIIa
+IIIb 42:g,z51:-	O:42 (T)	42	T	g,z51	-	T:g,z51:-	42:g,z51:-	IIIb
+IV 11:g,z51:-	O:11 (F)	11	F	g,z51	-	F:g,z51:-	11:g,z51:-	IV
+IV 18:g,z51:-	O:18 (K)	18	K	g,z51	-	K:g,z51:-	18:g,z51:-	IV
+IV 21:g,z51:-	O:21 (L)	21	L	g,z51	-	L:g,z51:-	21:g,z51:-	IV
+IV 53:g,z51:-	O:53	53	O-53	g,z51	-	O-53:g,z51:-	53:g,z51:-	IV
+IV 62:g,z51:-	O:62	62	O-62	g,z51	-	O-62:g,z51:-	62:g,z51:-	IV
+IV 38:g,z51:-	O:38 (P)	38	P	g,z51	-	P:g,z51:-	38:g,z51:-	IV
+IV 40:g,z51:e,n,x,z15	O:40 (R) 	40	R	g,z51	e,n,x,z15	R:g,z51:e,n,x,z15	40:g,z51:e,n,x,z15	IV
+IV 1,42:g,z51:-	O:42 (T)	1,42	T	g,z51	-	T:g,z51:-	1,42:g,z51:-	IV
+IV 1,42:g,z51:1,5	O:42 (T)	1,42	T	g,z51	1,5	T:g,z51:1,5	1,42:g,z51:1,5	IV
+IV 44:g,z51:-	O:44 (V)	44	V	g,z51	-	V:g,z51:-	44:g,z51:-	IV
+IV 45:g,z51:-	O:45 (W)	45	W	g,z51	-	W:g,z51:-	45:g,z51:-	IV
+IV 48:g,z51:-	O:48 (Y)1	48	Y	g,z51	-	Y:g,z51:-	48:g,z51:-	IV
+IV 50:g,z51:-	O:50 (Z)	50	Z	g,z51	-	Z:g,z51:-	50:g,z51:-	IV
+Larose	O:4 (B)	4,[5],12	B	g,z51	e,n,z15	B:g,z51:e,n,z15	4,[5],12:g,z51:e,n,z15	I
+Maricopa	O:44 (V)	44	V	g,z51	-	V:g,z51:-	44:g,z51:-	I
+Newmexico	O:7 (C1)	6,7	C1	g,z51	e,n,z15	C1:g,z51:e,n,z15	6,7:g,z51:e,n,z15	I
+Tennyson	O:40 (R) 	40	R	g,z51	-	R:g,z51:-	40:g,z51:-	I
+Travis	O:40 (R) 	1,40	R	g,z51	-	R:g,z51:-	1,40:g,z51:-	I
+Wayne	O:30 (N)	30	N	g,z51	-	N:g,z51:-	30:g,z51:-	I
+II 4,12:g,z62:-	O:4 (B)	4,12	B	g,z62	-	B:g,z62:-	4,12:g,z62:-	II
+II 1,9,12:g,z62:-	O:9 (D1)	1,9,12	D	g,z62	-	D:g,z62:-	1,9,12:g,z62:-	II
+II 9,46:g,z62:-	O:9,46 (D2)	9,46	D	g,z62	-	D:g,z62:-	9,46:g,z62:-	II
+II 1,9,12:g,z62:e,n,x	O:9 (D1)	1,9,12	D	g,z62	e,n,x	D:g,z62:e,n,x	1,9,12:g,z62:e,n,x	II
+II 43:g,z62:e,n,x	O:43 (U)	43	U	g,z62	e,n,x	U:g,z62:e,n,x	43:g,z62:e,n,x	II
+II 50:g,z62:e,n,x	O:50 (Z)	50	Z	g,z62	e,n,x	Z:g,z62:e,n,x	50:g,z62:e,n,x	II
+Antarctica	O:9 (D1)	9,12	D	g,z63	-	D:g,z63:-	9,12:g,z63:-	I
+Rosenberg	O:9 (D1)	9,12	D	g,z85	-	D:g,z85:-	9,12:g,z85:-	I
+Aba	O:8 (C2-C3)	6,8	C2-C3	i	e,n,z15	C2-C3:i:e,n,z15	6,8:i:e,n,z15	I
+Aberdeen	O:11 (F)	11	F	i	1,2	F:i:1,2	11:i:1,2	I
+Abobo	O:16 (l)	16	I	i	z6	I:i:z6	16:i:z6	I
+Agama	O:4 (B)	4,12	B	i	1,6	B:i:1,6	4,12:i:1,6	I
+Agbara	O:16 (l)	16	I	i	1,6	I:i:1,6	16:i:1,6	I
+Ahanou	O:17 (J)	17	J	i	1,7	J:i:1,7	17:i:1,7	I
+Alma	O:39 (Q)	39	Q	i	e,n,z15	Q:i:e,n,z15	39:i:e,n,z15	I
+Amina	O:16 (l)	16	I	i	1,5	I:i:1,5	16:i:1,5	I
+Amounderness	O:3,10 (E1)	3,10	E	i	1,5	E:i:1,5	3,10:i:1,5	I
+Athinai	O:7 (C1)	6,7	C1	i	e,n,z15	C1:i:e,n,z15	6,7:i:e,n,z15	I
+Augustenborg	O:7 (C1)	6,7,14	C1	i	1,2	C1:i:1,2	6,7,14:i:1,2	I
+Avonmouth	O:1,3,19 (E4)	1,3,19	E	i	e,n,z15	E:i:e,n,z15	1,3,19:i:e,n,z15	I
+Bandia	O:35 (O)	35	O	i	l,w	O:i:l,w	35:i:l,w	I
+Bargny	O:8 (C2-C3)	8,20	C2-C3	i	1,5	C2-C3:i:1,5	8,20:i:1,5	I
+Bergen	O:47 (X)	47	X	i	e,n,z15	X:i:e,n,z15	47:i:e,n,z15	I
+Bessi	O:3,10 (E1)	3,10	E	i	e,n,x	E:i:e,n,x	3,10:i:e,n,x	I
+Bonariensis	O:8 (C2-C3)	6,8	C2-C3	i	e,n,x	C2-C3:i:e,n,x	6,8:i:e,n,x	I
+Borromea	O:42 (T)	42	T	i	1,6	T:i:1,6	42:i:1,6	I
+Brijbhumi	O:11 (F)	11	F	i	1,5	F:i:1,5	11:i:1,5	I
+Buzu	O:6,14 (H)	[1],6,14,[25]	H	i	1,7	H:i:1,7	[1],6,14,[25]:i:1,7	I
+Chichester	O:1,3,19 (E4)	1,3,19	E	i	1,6	E:i:1,6	1,3,19:i:1,6	I
+Cotham	O:28 (M)	28	M	i	1,5	M:i:1,5	28:i:1,5	I
+Cuckmere	O:3,10 (E1)	3,10	E	i	1,2	E:i:1,2	3,10:i:1,2	I
+Cumberland	O:39 (Q)	39	Q	i	e,n,x	Q:i:e,n,x	39:i:e,n,x	I
+Cyprus	O:8 (C2-C3)	6,8	C2-C3	i	l,w	C2-C3:i:l,w	6,8:i:l,w	I
+Dieuppeul	O:28 (M)	28	M	i	1,7	M:i:1,7	28:i:1,7	I
+Diourbel	O:21 (L)	21	L	i	1,2	L:i:1,2	21:i:1,2	I
+Doorn	O:28 (M)	28	M	i	1,2	M:i:1,2	28:i:1,2	I
+Douala	O:28 (M)	28	M	i	l,w	M:i:l,w	28:i:l,w	I
+Evry	O:35 (O)	35	O	i	z6	O:i:z6	35:i:z6	I
+Falkensee	O:3,10 (E1)	3,{10}{15}	E	i	e,n,z15	E:i:e,n,z15	3,{10}{15}:i:e,n,z15	I
+Farsta	O:4 (B)	4,12	B	i	e,n,x	B:i:e,n,x	4,12:i:e,n,x	I
+Frankfurt	O:16 (l)	16	I	i	e,n,z15	I:i:e,n,z15	16:i:e,n,z15	I
+Gambia	O:35 (O)	35	O	i	e,n,z15	O:i:e,n,z15	35:i:e,n,z15	I
+Garoli	O:7 (C1)	6,7	C1	i	1,6	C1:i:1,6	6,7:i:1,6	I
+Gloucester	O:4 (B)	1,4,12,27	B	i	l,w	B:i:l,w	1,4,12,27:i:l,w	I
+Heerlen	O:11 (F)	11	F	i	1,6	F:i:1,6	11:i:1,6	I
+Hoboken	O:3,10 (E1)	3,10	E	i	l,w	E:i:l,w	3,10:i:l,w	I
+Hofit	O:39 (Q)	39	Q	i	1,5	Q:i:1,5	39:i:1,5	I
+Idikan	O:13 (G)	1,13,23	G	i	1,5	G:i:1,5	1,13,23:i:1,5	I
+II 4,12,27:i:z35	O:4 (B)	4,12,27	B	i	z35	B:i:z35	4,12,27:i:z35	II
+IIIb 16:i:z35	O:16 (l)	16	I	i	z35	I:i:z35	16:i:z35	IIIb
+IIIb 17:i:z35	O:17 (J)	17	J	i	z35	J:i:z35	17:i:z35	IIIb
+IIIb 21:i:1,5,7	O:21 (L)	21	L	i	1,5,7	L:i:1,5,7	21:i:1,5,7	IIIb
+IIIb 21:i:e,n,x,z15	O:21 (L)	21	L	i	e,n,x,z15	L:i:e,n,x,z15	21:i:e,n,x,z15	IIIb
+IIIb 53:i:z	O:53	53	O-53	i	z	O-53:i:z	53:i:z	IIIb
+IIIb 57:i:e,n,x,z15	O:57	57	O-57	i	e,n,x,z15	O-57:i:e,n,x,z15	57:i:e,n,x,z15	IIIb
+IIIb 57:i:z	O:57	57	O-57	i	z	O-57:i:z	57:i:z	IIIb
+IIIb 58:i:e,n,x,z15	O:58	58	O-58	i	e,n,x,z15	O-58:i:e,n,x,z15	58:i:e,n,x,z15	IIIb
+IIIb 58:i:z53	O:58	58	O-58	i	z53	O-58:i:z53	58:i:z53	IIIb
+IIIb 59:i:e,n,x,z15	O:59	59	O-59	i	e,n,x,z15	O-59:i:e,n,x,z15	59:i:e,n,x,z15	IIIb
+IIIb 59:i:z	O:59	59	O-59	i	z	O-59:i:z	59:i:z	IIIb
+IIIb 59:i:z35	O:59	59	O-59	i	z35	O-59:i:z35	59:i:z35	IIIb
+IIIb 60:i:-	O:60	60	O-60	i	-	O-60:i:-	60:i:-	IIIb
+IIIb 60:i:-	O:60	60	O-60	i	-	O-60:i:-	60:i:-	IIIb
+IIIb 60:i:-	O:60	60	O-60	i	-	O-60:i:-	60:i:-	IIIb
+IIIb 60:i:e,n,x,z15	O:60	60	O-60	i	e,n,x,z15	O-60:i:e,n,x,z15	60:i:e,n,x,z15	IIIb
+IIIb 60:i:z	O:60	60	O-60	i	z	O-60:i:z	60:i:z	IIIb
+IIIb 60:i:z35	O:60	60	O-60	i	z35	O-60:i:z35	60:i:z35	IIIb
+IIIb 61:i:e,n,x,z15	O:61	61	O-61	i	e,n,x,z15	O-61:i:e,n,x,z15	61:i:e,n,x,z15	IIIb
+IIIb 61:i:z	O:61	61	O-61	i	z	O-61:i:z	61:i:z	IIIb
+IIIb 61:i:z35	O:61	61	O-61	i	z35	O-61:i:z35	61:i:z35	IIIb
+IIIb 61:i:z53	O:61	61	O-61	i	z53	O-61:i:z53	61:i:z53	IIIb
+IIIb 65:i:e,n,x,z15	O:65	65	O-65	i	e,n,x,z15	O-65:i:e,n,x,z15	65:i:e,n,x,z15	IIIb
+IIIb 65:i:z	O:65	65	O-65	i	z	O-65:i:z	65:i:z	IIIb
+IIIb 35:i:e,n,x,z15	O:35 (O)	35	O	i	e,n,x,z15	O:i:e,n,x,z15	35:i:e,n,x,z15	IIIb
+IIIb 35:i:z	O:35 (O)	35	O	i	z	O:i:z	35:i:z	IIIb
+IIIb 35:i:z35	O:35 (O)	35	O	i	z35	O:i:z35	35:i:z35	IIIb
+IIIb 35:i:z53	O:35 (O)	35	O	i	z53	O:i:z53	35:i:z53	IIIb
+IIIb 38:i:z	O:38 (P)	38	P	i	z	P:i:z	38:i:z	IIIb
+IIIb 38:i:z53	O:38 (P)	38	P	i	z53	P:i:z53	38:i:z53	IIIb
+IIIb 40:i:1,5,7	O:40 (R) 	40	R	i	1,5,7	R:i:1,5,7	40:i:1,5,7	IIIb
+IIIb 47:i:e,n,x,z15	O:47 (X)	47	X	i	e,n,x,z15	X:i:e,n,x,z15	47:i:e,n,x,z15	IIIb
+IIIb 47:i:z	O:47 (X)	47	X	i	z	X:i:z	47:i:z	IIIb
+IIIb 47:i:z35	O:47 (X)	47	X	i	z35	X:i:z35	47:i:z35	IIIb
+IIIb 47:i:z53	O:47 (X)	47	X	i	z53	X:i:z53	47:i:z53	IIIb
+IIIb 48:i:z	O:48 (Y)1	48	Y	i	z	Y:i:z	48:i:z	IIIb
+IIIb 48:i:z35	O:48 (Y)1	48	Y	i	z35	Y:i:z35	48:i:z35	IIIb
+IIIb 48:i:z53	O:48 (Y)1	48	Y	i	z53	Y:i:z53	48:i:z53	IIIb
+IIIb 48:i:z61	O:48 (Y)1	48	Y	i	z61	Y:i:z61	48:i:z61	IIIb
+IIIb 50:i:1,5,7	O:50 (Z)	50	Z	i	1,5,7	Z:i:1,5,7	50:i:1,5,7	IIIb
+IIIb 50:i:e,n,x,z15	O:50 (Z)	50	Z	i	e,n,x,z15	Z:i:e,n,x,z15	50:i:e,n,x,z15	IIIb
+IIIb 50:i:z	O:50 (Z)	50	Z	i	z	Z:i:z	50:i:z	IIIb
+IIIb 50:i:z53	O:50 (Z)	50	Z	i	z53	Z:i:z53	50:i:z53	IIIb
+Jukestown	O:13 (G)	13,23	G	i	e,n,z15	G:i:e,n,z15	13,23:i:e,n,z15	I
+Kabete	O:51	51	O-51	i	1,5	O-51:i:1,5	51:i:1,5	I
+Kaneshie	O:42 (T)	1,42	T	i	l,w	T:i:l,w	1,42:i:l,w	I
+Kedougou	O:13 (G)	1,13,23	G	i	l,w	G:i:l,w	1,13,23:i:l,w	I
+Kentucky	O:8 (C2-C3)	8,20	C2-C3	i	z6	C2-C3:i:z6	8,20:i:z6	I
+Kuessel	O:28 (M)	28	M	i	e,n,z15	M:i:e,n,z15	28:i:e,n,z15	I
+Lagos	O:4 (B)	1,4,[5],12	B	i	1,5	B:i:1,5	1,4,[5],12:i:1,5	I
+Landau	O:30 (N)	30	N	i	1,2	N:i:1,2	30:i:1,2	I
+Lansing	O:38 (P)	38	P	i	1,5	P:i:1,5	38:i:1,5	I
+Lika	O:7 (C1)	6,7	C1	i	1,7	C1:i:1,7	6,7:i:1,7	I
+Lindenburg	O:8 (C2-C3)	6,8	C2-C3	i	1,2	C2-C3:i:1,2	6,8:i:1,2	I
+Machaga	O:1,3,19 (E4)	1,3,19	E	i	e,n,x	E:i:e,n,x	1,3,19:i:e,n,x	I
+Magherafelt	O:8 (C2-C3)	8,20	C2-C3	i	l,w	C2-C3:i:l,w	8,20:i:l,w	I
+Malmoe	O:8 (C2-C3)	6,8	C2-C3	i	1,7	C2-C3:i:1,7	6,8:i:1,7	I
+Mampeza	O:6,14 (H)	1,6,14,25	H	i	1,5	H:i:1,5	1,6,14,25:i:1,5	I
+Maritzburg	O:44 (V)	1,44	V	i	e,n,z15	V:i:e,n,z15	1,44:i:e,n,z15	I
+Mathura	O:9,46 (D2)	9,46	D	i	e,n,z15	D:i:e,n,z15	9,46:i:e,n,z15	I
+Mbao	O:43 (U)	43	U	i	1,2	U:i:1,2	43:i:1,2	I
+Mgulani	O:38 (P)	38	P	i	1,2	P:i:1,2	38:i:1,2	I
+Middlesbrough	O:42 (T)	1,42	T	i	z6	T:i:z6	1,42:i:z6	I
+Mjordan	O:30 (N)	30	N	i	e,n,z15	N:i:e,n,z15	30:i:e,n,z15	I
+Morehead	O:30 (N)	30	N	i	1,5	N:i:1,5	30:i:1,5	I
+Moussoro	O:6,14 (H)	1,6,14,25	H	i	e,n,z15	H:i:e,n,z15	1,6,14,25:i:e,n,z15	I
+Myrria	O:13 (G)	13,23	G	i	1,7	G:i:1,7	13,23:i:1,7	I
+Norton	O:7 (C1)	6,7	C1	i	l,w	C1:i:l,w	6,7:i:l,w	I
+Oritamerin	O:7 (C1)	6,7	C1	i	1,5	C1:i:1,5	6,7:i:1,5	I
+Ouagadougou	O:1,3,19 (E4)	1,3,19	E	i	1,5	E:i:1,5	1,3,19:i:1,5	I
+Pisa	O:16 (l)	16	I	i	l,w	I:i:l,w	16:i:l,w	I
+Poeseldorf	O:54	8,20,54	O-54	i	z6	O-54:i:z6	8,20,54:i:z6	I
+Potto	O:9,46 (D2)	9,46	D	i	z6	D:i:z6	9,46:i:z6	I
+Samaru	O:41 (S)	41	S	i	1,5	S:i:1,5	41:i:1,5	I
+Schalkwijk	O:6,14 (H)	6,14,[24]	H	i	e,n,z15	H:i:e,n,z15	6,14,[24]:i:e,n,z15	I
+Seremban	O:9 (D1)	9,12	D	i	1,5	D:i:1,5	9,12:i:1,5	I
+Soerenga	O:30 (N)	30	N	i	l,w	N:i:l,w	30:i:l,w	I
+Stratford	O:1,3,19 (E4)	1,3,19	E	i	1,2	E:i:1,2	1,3,19:i:1,2	I
+Stuttgart	O:7 (C1)	6,7,14	C1	i	z6	C1:i:z6	6,7,14:i:z6	I
+Takoradi	O:8 (C2-C3)	6,8	C2-C3	i	1,5	C2-C3:i:1,5	6,8:i:1,5	I
+Taksony	O:1,3,19 (E4)	1,3,19	E	i	z6	E:i:z6	1,3,19:i:z6	I
+Tibati	O:3,10 (E1)	3,10	E	i	1,6	E:i:1,6	3,10:i:1,6	I
+Truro	O:3,10 (E1)	3,10	E	i	1,7	E:i:1,7	3,10:i:1,7	I
+Tsevie	O:4 (B)	1,4,12	B	i	e,n,z15	B:i:e,n,z15	1,4,12:i:e,n,z15	I
+Tumodi	O:4 (B)	1,4,12	B	i	z6	B:i:z6	1,4,12:i:z6	I
+Typhimurium	O:4 (B)	1,4,[5],12	B	i	1,2	B:i:1,2	1,4,[5],12:i:1,2	I
+I 1,4,[5],12:i:-	O:4 (B)	1,4,[5],12	B	i	-	B:i:1,2	1,4,[5],12:i:-	I
+I 1,4,[5],12:r:-	O:4 (B)	1,4,[5],12	B	r	-	B:i:1,2	1,4,[5],12:r:-	I
+I 1,4,[5],12:b:-	O:4 (B)	1,4,[5],12	B	b	-	B:i:1,2	1,4,[5],12:b:-	I
+V 1,13,22:i:-	O:13 (G)	1,13,22	G	i	-	G:i:-	1,13,22:i:-	V
+V 48:i:-	O:48 (Y)1	48	Y	i	-	Y:i:-	48:i:-	V
+Veneziana	O:11 (F)	11	F	i	e,n,x	F:i:e,n,x	11:i:e,n,x	I
+Verona	O:41 (S)	41	S	i	1,6	S:i:1,6	41:i:1,6	I
+Volkmarsdorf	O:28 (M)	28	M	i	1,6	M:i:1,6	28:i:1,6	I
+Voulte	O:43 (U)	43	U	i	e,n,x	U:i:e,n,x	43:i:e,n,x	I
+Warnemuende	O:28 (M)	28	M	i	e,n,x	M:i:e,n,x	28:i:e,n,x	I
+Warnow	O:8 (C2-C3)	6,8	C2-C3	i	1,6	C2-C3:i:1,6	6,8:i:1,6	I
+Wisbech	O:16 (l)	16	I	i	1,7	I:i:1,7	16:i:1,7	I
+Yeerongpilly	O:3,10 (E1)	3,10	E	i	z6	E:i:z6	3,10:i:z6	I
+Zuilen	O:1,3,19 (E4)	1,3,19	E	i	l,w	E:i:l,w	1,3,19:i:l,w	I
+Abaetetuba	O:11 (F)	11	F	k	1,5	F:k:1,5	11:k:1,5	I
+Adamstown	O:28 (M)	28	M	k	1,6	M:k:1,6	28:k:1,6	I
+Ahuza	O:43 (U)	43	U	k	1,5	U:k:1,5	43:k:1,5	I
+Allandale	O:40 (R) 	1,40	R	k	1,6	R:k:1,6	1,40:k:1,6	I
+Amba	O:11 (F)	11	F	k	l,z13,z28	F:k:l,z13,z28	11:k:l,z13,z28	I
+Angoda	O:30 (N)	30	N	k	e,n,x	N:k:e,n,x	30:k:e,n,x	I
+Ank	O:28 (M)	28	M	k	e,n,z15	M:k:e,n,z15	28:k:e,n,z15	I
+Aqua	O:30 (N)	30	N	k	1,6	N:k:1,6	30:k:1,6	I
+Baiboukoum	O:7 (C1)	6,7	C1	k	1,7	C1:k:1,7	6,7:k:1,7	I
+Bandim	O:17 (J)	17	J	k	1,6	J:k:1,6	17:k:1,6	I
+Bethune	O:1,3,19 (E4)	1,3,19	E	k	1,7	E:k:1,7	1,3,19:k:1,7	I
+Blockley	O:8 (C2-C3)	6,8	C2-C3	k	1,5	C2-C3:k:1,5	6,8:k:1,5	I
+Bootle	O:47 (X)	47	X	k	1,5	X:k:1,5	47:k:1,5	I
+Bordeaux	O:52	52	O-52	k	1,5	O-52:k:1,5	52:k:1,5	I
+Cairns	O:45 (W)	45	W	k	e,n,z15	W:k:e,n,z15	45:k:e,n,z15	I
+Casablanca	O:45 (W)	45	W	k	1,7	W:k:1,7	45:k:1,7	I
+Ceyco	O:9,46 (D2)	9,46	D	k	z35	D:k:z35	9,46:k:z35	I
+Champaign	O:39 (Q)	39	Q	k	1,5	Q:k:1,5	39:k:1,5	I
+Charlottenburg	O:8 (C2-C3)	6,8	C2-C3	k	e,n,z15	C2-C3:k:e,n,z15	6,8:k:e,n,z15	I
+Claibornei	O:9 (D1)	1,9,12	D	k	1,5	D:k:1,5	1,9,12:k:1,5	I
+Clontarf	O:9,46 (D2)	9,46	D	k	1,6	D:k:1,6	9,46:k:1,6	I
+Cochin	O:9,46 (D2)	9,46	D	k	1,5	D:k:1,5	9,46:k:1,5	I
+Colobane	O:11 (F)	11	F	k	1,7	F:k:1,7	11:k:1,7	I
+Dahlem	O:48 (Y)1	48	Y	k	e,n,z15	Y:k:e,n,z15	48:k:e,n,z15	I
+Dahomey	O:47 (X)	47	X	k	1,6	X:k:1,6	47:k:1,6	I
+Dan	O:51	51	O-51	k	e,n,z15	O-51:k:e,n,z15	51:k:e,n,z15	I
+Daytona	O:7 (C1)	6,7	C1	k	1,6	C1:k:1,6	6,7:k:1,6	I
+Echa	O:38 (P)	38	P	k	1,2	P:k:1,2	38:k:1,2	I
+Escanaba	O:7 (C1)	6,7	C1	k	e,n,z15	C1:k:e,n,z15	6,7:k:e,n,z15	I
+Ferlo	O:41 (S)	41	S	k	1,6	S:k:1,6	41:k:1,6	I
+Galiema	O:7 (C1)	6,7,14	C1	k	1,2	C1:k:1,2	6,7,14:k:1,2	I
+Goulfey	O:40 (R) 	1,40	R	k	1,5	R:k:1,5	1,40:k:1,5	I
+Goverdhan	O:9 (D1)	9,12	D	k	1,6	D:k:1,6	9,12:k:1,6	I
+Guildford	O:28 (M)	28	M	k	1,2	M:k:1,2	28:k:1,2	I
+Gwale	O:42 (T)	1,42	T	k	z6	T:k:z6	1,42:k:z6	I
+Haardt	O:8 (C2-C3)	8	C2-C3	k	1,5	C2-C3:k:1,5	8:k:1,5	I
+Haferbreite	O:42 (T)	42	T	k	1,6	T:k:1,6	42:k:1,6	I
+Hann	O:40 (R) 	40	R	k	e,n,x	R:k:e,n,x	40:k:e,n,x	I
+Harburg	O:6,14 (H)	[1],6,14,[25]	H	k	1,5	H:k:1,5	[1],6,14,[25]:k:1,5	I
+Hilversum	O:30 (N)	30	N	k	1,2	N:k:1,2	30:k:1,2	I
+II 1,4,12,27:k:1,6	O:4 (B)	1,4,12,27	B	k	1,6	B:k:1,6	1,4,12,27:k:1,6	II
+II 6,7:k:-	O:7 (C1)	6,7	C1	k	-	C1:k:-	6,7:k:-	II
+II 6,7:k:z6	O:7 (C1)	6,7	C1	k	z6	C1:k:z6	6,7:k:z6	II
+II 13,22:k:1,5	O:13 (G)	13,22	G	k	1,5	G:k:1,5	13,22:k:1,5	II
+II 13,23:k:z41	O:13 (G)	13,23	G	k	z41	G:k:z41	13,23:k:z41	II
+II 6,14,[24]:k:1,6	O:6,14 (H)	6,14,[24]	H	k	1,6	H:k:1,6	6,14,[24]:k:1,6	II
+II 6,14:k:e,n,x	O:6,14 (H)	6,14	H	k	e,n,x	H:k:e,n,x	6,14:k:e,n,x	II
+II 1,6,14:k:z6	O:6,14 (H)	1,6,14	H	k	z6	H:k:z6	1,6,14:k:z6	II
+II 17:k:-	O:17 (J)	17	J	k	-	J:k:-	17:k:-	II
+II 30:k:e,n,x,z15	O:30 (N)	30	N	k	e,n,x,z15	N:k:e,n,x,z15	30:k:e,n,x,z15	II
+II 55:k:z39	O:55	55	O-55	k	z39	O-55:k:z39	55:k:z39	II
+II 59:k:z65	O:59	59	O-59	k	z65	O-59:k:z65	59:k:z65	II
+II 1,40:k:e,n,x,z15	O:40 (R) 	1,40	R	k	e,n,x,z15	R:k:e,n,x,z15	1,40:k:e,n,x,z15	II
+II 40:k:z6	O:40 (R) 	40	R	k	z6	R:k:z6	40:k:z6	II
+II 41:k:1,6	O:41 (S)	41	S	k	1,6	S:k:1,6	41:k:1,6	II
+II 41:k:z6	O:41 (S)	41	S	k	z6	S:k:z6	41:k:z6	II
+II 48:k:e,n,x,z15	O:48 (Y)1	48	Y	k	e,n,x,z15	Y:k:e,n,x,z15	48:k:e,n,x,z15	II
+II 48:k:z39	O:48 (Y)1	48	Y	k	z39	Y:k:z39	48:k:z39	II
+II 50:k:e,n,x	O:50 (Z)	50	Z	k	e,n,x	Z:k:e,n,x	50:k:e,n,x	II
+II 50:k:z6	O:50 (Z)	50	Z	k	z6	Z:k:z6	50:k:z6	II
+IIIb 6,7:k:z	O:7 (C1)	6,7	C1	k	z	C1:k:z	6,7:k:z	IIIb
+IIIb 8:k:z35	O:8 (C2-C3)	8	C2-C3	k	z35	C2-C3:k:z35	8:k:z35	IIIb
+IIIb 11:k:z53	O:11 (F)	11	F	k	z53	F:k:z53	11:k:z53	IIIb
+IIIb (6),14:k:z	O:6,14 (H)	(6),14	H	k	z	H:k:z	(6),14:k:z	IIIb
+IIIb (6),14:k:z53	O:6,14 (H)	(6),14	H	k	z53	H:k:z53	(6),14:k:z53	IIIb
+IIIb 16:k:e,n,x,z15	O:16 (l)	16	I	k	e,n,x,z15	I:k:e,n,x,z15	16:k:e,n,x,z15	IIIb
+IIIb 16:k:z	O:16 (l)	16	I	k	z	I:k:z	16:k:z	IIIb
+IIIb 16:k:z35	O:16 (l)	16	I	k	z35	I:k:z35	16:k:z35	IIIb
+IIIb 16:k:z53	O:16 (l)	16	I	k	z53	I:k:z53	16:k:z53	IIIb
+IIIb 17:k:z	O:17 (J)	17	J	k	z	J:k:z	17:k:z	IIIb
+IIIb 18:k:z53	O:18 (K)	18	K	k	z53	K:k:z53	18:k:z53	IIIb
+IIIb 18:k:z54	O:18 (K)	18	K	k	z54	K:k:z54	18:k:z54	IIIb
+IIIb 21:k:e,n,x,z15	O:21 (L)	21	L	k	e,n,x,z15	L:k:e,n,x,z15	21:k:e,n,x,z15	IIIb
+IIIb 21:k:z	O:21 (L)	21	L	k	z	L:k:z	21:k:z	IIIb
+IIIb 28:k:1,7	O:28 (M)	28	M	k	1,7	M:k:1,7	28:k:1,7	IIIb
+IIIb 51:k:z35	O:51	51	O-51	k	z35	O-51:k:z35	51:k:z35	IIIb
+IIIb 52:k:e,n,x,z15	O:52	52	O-52	k	e,n,x,z15	O-52:k:e,n,x,z15	52:k:e,n,x,z15	IIIb
+IIIb 52:k:z35	O:52	52	O-52	k	z35	O-52:k:z35	52:k:z35	IIIb
+IIIb 52:k:z53	O:52	52	O-52	k	z53	O-52:k:z53	52:k:z53	IIIb
+IIIb 53:k:e,n,x,z15	O:53	53	O-53	k	e,n,x,z15	O-53:k:e,n,x,z15	53:k:e,n,x,z15	IIIb
+IIIb 53:k:z	O:53	53	O-53	k	z	O-53:k:z	53:k:z	IIIb
+IIIb 53:k:z35	O:53	53	O-53	k	z35	O-53:k:z35	53:k:z35	IIIb
+IIIb 53:k:z53	O:53	53	O-53	k	z53	O-53:k:z53	53:k:z53	IIIb
+IIIb 57:k:e,n,x,z15	O:57	57	O-57	k	e,n,x,z15	O-57:k:e,n,x,z15	57:k:e,n,x,z15	IIIb
+IIIb 58:k:z	O:58	58	O-58	k	z	O-58:k:z	58:k:z	IIIb
+IIIb 59:k:e,n,x,z15	O:59	59	O-59	k	e,n,x,z15	O-59:k:e,n,x,z15	59:k:e,n,x,z15	IIIb
+IIIb 59:k:z	O:59	59	O-59	k	z	O-59:k:z	59:k:z	IIIb
+IIIb 59:k:z35	O:59	59	O-59	k	z35	O-59:k:z35	59:k:z35	IIIb
+IIIb 59:k:z53	O:59	59	O-59	k	z53	O-59:k:z53	59:k:z53	IIIb
+IIIb 60:k:z	O:60	60	O-60	k	z	O-60:k:z	60:k:z	IIIb
+IIIb 60:k:z35	O:60	60	O-60	k	z35	O-60:k:z35	60:k:z35	IIIb
+IIIb 60:k:z53	O:60	60	O-60	k	z53	O-60:k:z53	60:k:z53	IIIb
+IIIb 61:k:1,5,(7)	O:61	61	O-61	k	1,5,(7)	O-61:k:1,5,(7)	61:k:1,5,(7)	IIIb
+IIIb 61:k:z35	O:61	61	O-61	k	z35	O-61:k:z35	61:k:z35	IIIb
+IIIb 61:k:z53	O:61	61	O-61	k	z53	O-61:k:z53	61:k:z53	IIIb
+IIIb 63:k:z	O:63	63	O-63	k	z	O-63:k:z	63:k:z	IIIb
+IIIb 65:k:z	O:65	65	O-65	k	z	O-65:k:z	65:k:z	IIIb
+IIIb 65:k:z35	O:65	65	O-65	k	z35	O-65:k:z35	65:k:z35	IIIb
+IIIb 65:k:z53	O:65	65	O-65	k	z53	O-65:k:z53	65:k:z53	IIIb
+IIIb 35:k:e,n,x,z15	O:35 (O)	35	O	k	e,n,x,z15	O:k:e,n,x,z15	35:k:e,n,x,z15	IIIb
+IIIb 35:k:z	O:35 (O)	35	O	k	z	O:k:z	35:k:z	IIIb
+IIIb 35:k:z35	O:35 (O)	35	O	k	z35	O:k:z35	35:k:z35	IIIb
+IIIb 35:k:z53	O:35 (O)	35	O	k	z53	O:k:z53	35:k:z53	IIIb
+IIIb 38:k:-	O:38 (P)	38	P	k	-	P:k:-	38:k:-	IIIb
+IIIb 38:k:1,5,7	O:38 (P)	38	P	k	1,5,7	P:k:1,5,7	38:k:1,5,7	IIIb
+IIIb 38:k:e,n,x,z15	O:38 (P)	38	P	k	e,n,x,z15	P:k:e,n,x,z15	38:k:e,n,x,z15	IIIb
+IIIb 38:k:z	O:38 (P)	38	P	k	z	P:k:z	38:k:z	IIIb
+IIIb 38:k:z35	O:38 (P)	38	P	k	z35	P:k:z35	38:k:z35	IIIb
+IIIb 38:k:z53	O:38 (P)	38	P	k	z53	P:k:z53	38:k:z53	IIIb
+IIIb 38:k:z55	O:38 (P)	38	P	k	z55	P:k:z55	38:k:z55	IIIb
+IIIb 40:k:z	O:40 (R) 	40	R	k	z	R:k:z	40:k:z	IIIb
+IIIb 40:k:z53	O:40 (R) 	40	R	k	z53	R:k:z53	40:k:z53	IIIb
+IIIb 41:k:z35	O:41 (S)	41	S	k	z35	S:k:z35	41:k:z35	IIIb
+IIIb 42:k:e,n,x,z15	O:42 (T)	42	T	k	e,n,x,z15	T:k:e,n,x,z15	42:k:e,n,x,z15	IIIb
+IIIb 42:k:z	O:42 (T)	42	T	k	z	T:k:z	42:k:z	IIIb
+IIIb 42:k:z35	O:42 (T)	42	T	k	z35	T:k:z35	42:k:z35	IIIb
+IIIb 43:k:z	O:43 (U)	43	U	k	z	U:k:z	43:k:z	IIIb
+IIIb 47:k:1,5,7	O:47 (X)	47	X	k	1,5,7	X:k:1,5,7	47:k:1,5,7	IIIb
+IIIb 47:k:e,n,x,z15	O:47 (X)	47	X	k	e,n,x,z15	X:k:e,n,x,z15	47:k:e,n,x,z15	IIIb
+IIIb 47:k:z	O:47 (X)	47	X	k	z	X:k:z	47:k:z	IIIb
+IIIb 47:k:z35	O:47 (X)	47	X	k	z35	X:k:z35	47:k:z35	IIIb
+IIIb 47:k:z53	O:47 (X)	47	X	k	z53	X:k:z53	47:k:z53	IIIb
+IIIb 48:k:1,5,(7)	O:48 (Y)1	48	Y	k	1,5,(7)	Y:k:1,5,(7)	48:k:1,5,(7)	IIIb
+IIIb 48:k:e,n,x,z15	O:48 (Y)1	48	Y	k	e,n,x,z15	Y:k:e,n,x,z15	48:k:e,n,x,z15	IIIb
+IIIb 48:k:z	O:48 (Y)1	48	Y	k	z	Y:k:z	48:k:z	IIIb
+IIIb 48:k:z35	O:48 (Y)1	48	Y	k	z35	Y:k:z35	48:k:z35	IIIb
+IIIb 48:k:z53	O:48 (Y)1	48	Y	k	z53	Y:k:z53	48:k:z53	IIIb
+IIIb 50:k:1,5,7	O:50 (Z)	50	Z	k	1,5,7	Z:k:1,5,7	50:k:1,5,7	IIIb
+IIIb 50:k:e,n,x,z15	O:50 (Z)	50	Z	k	e,n,x,z15	Z:k:e,n,x,z15	50:k:e,n,x,z15	IIIb
+IIIb 50:k:z	O:50 (Z)	50	Z	k	z	Z:k:z	50:k:z	IIIb
+IIIb 50:k:z35	O:50 (Z)	50	Z	k	z35	Z:k:z35	50:k:z35	IIIb
+IIIb 50:k:z53	O:50 (Z)	50	Z	k	z53	Z:k:z53	50:k:z53	IIIb
+Ikeja	O:28 (M)	28	M	k	1,7	M:k:1,7	28:k:1,7	I
+Ilala	O:28 (M)	28	M	k	1,5	M:k:1,5	28:k:1,5	I
+Inverness	O:38 (P)	38	P	k	1,6	P:k:1,6	38:k:1,6	I
+Irenea	O:17 (J)	17	J	k	1,5	J:k:1,5	17:k:1,5	I
+Kallo	O:8 (C2-C3)	6,8	C2-C3	k	1,2	C2-C3:k:1,2	6,8:k:1,2	I
+Kisarawe	O:11 (F)	11	F	k	e,n,x,[z15]	F:k:e,n,x,[z15]	11:k:e,n,x,[z15]	I
+Lawra	O:44 (V)	44	V	k	e,n,z15	V:k:e,n,z15	44:k:e,n,z15	I
+Ljubljana	O:4 (B)	4,12,27	B	k	e,n,x	B:k:e,n,x	4,12,27:k:e,n,x	I
+Lyon	O:47 (X)	47	X	k	e,n,z15	X:k:e,n,z15	47:k:e,n,z15	I
+Mango	O:38 (P)	38	P	k	1,5	P:k:1,5	38:k:1,5	I
+Mannheim	O:11 (F)	11	F	k	l,w	F:k:l,w	11:k:l,w	I
+Marburg	O:13 (G)	13,23	G	k	-	G:k:-	13,23:k:-	I
+Marienthal	O:3,10 (E1)	3,10	E	k	e,n,z15	E:k:e,n,z15	3,10:k:e,n,z15	I
+Marylebone	O:9,46 (D2)	9,46	D	k	1,2	D:k:1,2	9,46:k:1,2	I
+Massenya	O:4 (B)	1,4,12,27	B	k	1,5	B:k:1,5	1,4,12,27:k:1,5	I
+Matadi	O:17 (J)	17	J	k	e,n,x	J:k:e,n,x	17:k:e,n,x	I
+Maumee	O:16 (l)	16	I	k	1,6	I:k:1,6	16:k:1,6	I
+Memphis	O:18 (K)	18	K	k	1,5	K:k:1,5	18:k:1,5	I
+Neumuenster	O:4 (B)	1,4,12,27	B	k	1,6	B:k:1,6	1,4,12,27:k:1,6	I
+Newjersey	O:39 (Q)	39	Q	k	e,n,x	Q:k:e,n,x	39:k:e,n,x	I
+Newrochelle	O:3,10 (E1)	3,10	E	k	l,w	E:k:l,w	3,10:k:l,w	I
+Njala	O:38 (P)	38	P	k	e,n,x	P:k:e,n,x	38:k:e,n,x	I
+Nuatja	O:16 (l)	16	I	k	e,n,x	I:k:e,n,x	16:k:e,n,x	I
+Ochsenwerder	O:54	6,7,54	O-54	k	1,5	O-54:k:1,5	6,7,54:k:1,5	I
+Odozi	O:30 (N)	30	N	k	e,n,[x],z15	N:k:e,n,[x],z15	30:k:e,n,[x],z15	I
+Oesterbro	O:1,3,19 (E4)	1,3,19	E	k	1,5	E:k:1,5	1,3,19:k:1,5	I
+Orientalis	O:16 (l)	16	I	k	e,n,z15	I:k:e,n,z15	16:k:e,n,z15	I
+Pretoria	O:11 (F)	11	F	k	1,2	F:k:1,2	11:k:1,2	I
+Ramatgan	O:30 (N)	30	N	k	1,5	N:k:1,5	30:k:1,5	I
+Scarborough	O:30 (N)	30	N	k	l,z13,z28	N:k:l,z13,z28	30:k:l,z13,z28	I
+Schwerin	O:8 (C2-C3)	6,8	C2-C3	k	e,n,x	C2-C3:k:e,n,x	6,8:k:e,n,x	I
+Serrekunda	O:3,10 (E1)	3,10	E	k	1,7	E:k:1,7	3,10:k:1,7	I
+Sharon	O:11 (F)	11	F	k	1,6	F:k:1,6	11:k:1,6	I
+Singapore	O:7 (C1)	6,7	C1	k	e,n,x	C1:k:e,n,x	6,7:k:e,n,x	I
+Staoueli	O:47 (X)	47	X	k	1,2	X:k:1,2	47:k:1,2	I
+Surrey	O:21 (L)	21	L	k	1,(2),5	L:k:1,(2),5	21:k:1,(2),5	I
+Szentes	O:16 (l)	16	I	k	1,2	I:k:1,2	16:k:1,2	I
+Taunton	O:28 (M)	28	M	k	e,n,x	M:k:e,n,x	28:k:e,n,x	I
+Texas	O:4 (B)	4,[5],12	B	k	e,n,z15	B:k:e,n,z15	4,[5],12:k:e,n,z15	I
+Thetford	O:43 (U)	43	U	k	1,2	U:k:1,2	43:k:1,2	I
+Thompson	O:7 (C1)	6,7,14	C1	k	1,5	C1:k:1,5	6,7,14:k:1,5	I
+Verviers	O:45 (W)	45	W	k	1,5	W:k:1,5	45:k:1,5	I
+Warri	O:17 (J)	17	J	k	1,7	J:k:1,7	17:k:1,7	I
+Wimborne	O:3,10 (E1)	3,10	E	k	1,2	E:k:1,2	3,10:k:1,2	I
+Yundum	O:3,10 (E1)	3,10	E	k	e,n,x	E:k:e,n,x	3,10:k:e,n,x	I
+Zanzibar	O:3,10 (E1)	3,{10}{15}	E	k	1,5	E:k:1,5	3,{10}{15}:k:1,5	I
+Zaria	O:17 (J)	17	J	k	e,n,z15	J:k:e,n,z15	17:k:e,n,z15	I
+Kunduchi	O:4 (B)	1,4,[5],12,[27]	B	l,[z13],[z28]	1,2	B:l,z13,z28:1,2	1,4,[5],12,[27]:l,[z13],[z28]:1,2	I
+Enugu	O:16 (l)	16	I	l,[z13],z28	-	I:l,z13,z28:-	16:l,[z13],z28:-	I
+Enugu	O:16 (l)	16	I	l,[z13],z28	1,5	I:l,z13,z28:1,5	16:l,[z13],z28:1,5	I
+II 1,42:l,[z13],z28:-	O:42 (T)	1,42	T	l,[z13],z28	-	T:l,z13,z28:-	1,42:l,[z13],z28:-	II
+II 1,42:l,[z13],z28:z6	O:42 (T)	1,42	T	l,[z13],z28	z6	T:l,z13,z28:z6	1,42:l,[z13],z28:z6	II
+Stuivenberg	O:1,3,19 (E4)	1,3,19	E	l,[z13],z28	1,5	E:l,z13,z28:1,5	1,3,19:l,[z13],z28:1,5	I
+Tyresoe	O:4 (B)	1,4,12,[27]	B	l,[z13],z28	1,5	B:l,z13,z28:1,5	1,4,12,[27]:l,[z13],z28:1,5	I
+Alger	O:38 (P)	38	P	l,v	1,2	P:l,v:1,2	38:l,v:1,2	I
+Alpenquai	O:6,14 (H)	6,14	H	l,v	e,n,z15	H:l,v:e,n,z15	6,14:l,v:e,n,z15	I
+Amberg	O:6,14 (H)	6,14,24	H	l,v	1,7	H:l,v:1,7	6,14,24:l,v:1,7	I
+Amherstiana	O:8 (C2-C3)	8	C2-C3	l,v	1,6	C2-C3:l,v:1,6	8:l,v:1,6	I
+Australia	O:48 (Y)1	48	Y	l,v	1,5	Y:l,v:1,5	48:l,v:1,5	I
+Azteca	O:4 (B)	4,[5],12,[27]	B	l,v	1,5	B:l,v:1,5	4,[5],12,[27]:l,v:1,5	I
+Boecker	O:6,14 (H)	[1],6,14,[25]	H	l,v	1,7	H:l,v:1,7	[1],6,14,[25]:l,v:1,7	I
+Bonn	O:7 (C1)	6,7	C1	l,v	e,n,x	C1:l,v:e,n,x	6,7:l,v:e,n,x	I
+Borbeck	O:13 (G)	13,22	G	l,v	1,6	G:l,v:1,6	13,22:l,v:1,6	I
+Brandenburg	O:4 (B)	4,[5],12	B	l,v	e,n,z15	B:l,v:e,n,z15	4,[5],12:l,v:e,n,z15	I
+Bredeney	O:4 (B)	1,4,12,27	B	l,v	1,7	B:l,v:1,7	1,4,12,27:l,v:1,7	I
+Bullbay	O:11 (F)	11	F	l,v	e,n,z15	F:l,v:e,n,z15	11:l,v:e,n,z15	I
+Burgas	O:16 (l)	16	I	l,v	e,n,z15	I:l,v:e,n,z15	16:l,v:e,n,z15	I
+Canary	O:40 (R) 	40	R	l,v	1,6	R:l,v:1,6	40:l,v:1,6	I
+Carmel	O:17 (J)	17	J	l,v	e,n,x	J:l,v:e,n,x	17:l,v:e,n,x	I
+Clackamas	O:4 (B)	4,12	B	l,v	1,6	B:l,v:1,6	4,12:l,v:1,6	I
+Concord	O:7 (C1)	6,7	C1	l,v	1,2	C1:l,v:1,2	6,7:l,v:1,2	I
+Coogee	O:42 (T)	42	T	l,v	e,n,z15	T:l,v:e,n,z15	42:l,v:e,n,z15	I
+Coromandel	O:7 (C1)	6,7	C1	l,v	z35	C1:l,v:z35	6,7:l,v:z35	I
+Dadzie	O:51	51	O-51	l,v	e,n,x	O-51:l,v:e,n,x	51:l,v:e,n,x	I
+Donna	O:30 (N)	30	N	l,v	1,5	N:l,v:1,5	30:l,v:1,5	I
+Drac	O:47 (X)	47	X	l,v	e,n,x	X:l,v:e,n,x	47:l,v:e,n,x	I
+Edmonton	O:8 (C2-C3)	6,8	C2-C3	l,v	e,n,z15	C2-C3:l,v:e,n,z15	6,8:l,v:e,n,z15	I
+Fann	O:11 (F)	11	F	l,v	e,n,x	F:l,v:e,n,x	11:l,v:e,n,x	I
+Fass	O:50 (Z)	50	Z	l,v	1,2	Z:l,v:1,2	50:l,v:1,2	I
+Fyris	O:4 (B)	4,[5],12	B	l,v	1,2	B:l,v:1,2	4,[5],12:l,v:1,2	I
+Gdansk	O:7 (C1)	6,7,14	C1	l,v	z6	C1:l,v:z6	6,7,14:l,v:z6	I
+Geraldton	O:9,46 (D2)	9,46	D	l,v	1,6	D:l,v:1,6	9,46:l,v:1,6	I
+Give	O:3,10 (E1)	3,{10}{15}{15,34}	E	l,v	1,7	E:l,v:1,7	3,{10}{15}{15,34}:l,v:1,7	I
+Goettingen	O:9 (D1)	9,12	D	l,v	e,n,z15	D:l,v:e,n,z15	9,12:l,v:e,n,z15	I
+Harcourt	O:51	51	O-51	l,v	1,2	O-51:l,v:1,2	51:l,v:1,2	I
+Holcomb	O:8 (C2-C3)	6,8	C2-C3	l,v	e,n,x	C2-C3:l,v:e,n,x	6,8:l,v:e,n,x	I
+Horsham	O:6,14 (H)	1,6,14,[25]	H	l,v	e,n,x	H:l,v:e,n,x	1,6,14,[25]:l,v:e,n,x	I
+Houston	O:9 (D1)	9,12	D	l,v	1,5	D:l,v:1,5	9,12:l,v:1,5	I
+II 1,4,12,27:l,v:e,n,x	O:4 (B)	1,4,12,27	B	l,v	e,n,x	B:l,v:e,n,x	1,4,12,27:l,v:e,n,x	II
+II 1,4,12,27:l,v:z39	O:4 (B)	1,4,12,27	B	l,v	z39	B:l,v:z39	1,4,12,27:l,v:z39	II
+II 6,8:l,v:e,n,x	O:8 (C2-C3)	6,8	C2-C3	l,v	e,n,x	C2-C3:l,v:e,n,x	6,8:l,v:e,n,x	II
+II 9,12:l,v:e,n,x	O:9 (D1)	9,12	D	l,v	e,n,x	D:l,v:e,n,x	9,12:l,v:e,n,x	II
+II 9,12:l,v:z39	O:9 (D1)	9,12	D	l,v	z39	D:l,v:z39	9,12:l,v:z39	II
+II 3,10:l,v:e,n,x	O:3,10 (E1)	3,10	E	l,v	e,n,x	E:l,v:e,n,x	3,10:l,v:e,n,x	II
+II 3,10:l,v:z6	O:3,10 (E1)	3,10	E	l,v	z6	E:l,v:z6	3,10:l,v:z6	II
+II 56:l,v:z39	O:56	56	O-56	l,v	z39	O-56:l,v:z39	56:l,v:z39	II
+II 39:l,v:1,5	O:39 (Q)	39	Q	l,v	1,5	Q:l,v:1,5	39:l,v:1,5	II
+II 40:l,v:e,n,x	O:40 (R) 	40	R	l,v	e,n,x	R:l,v:e,n,x	40:l,v:e,n,x	II
+II 42:l,v:e,n,x,z15	O:42 (T)	42	T	l,v	e,n,x,z15	T:l,v:e,n,x,z15	42:l,v:e,n,x,z15	II
+IIIb 6,7:l,v:1,5,7	O:7 (C1)	6,7	C1	l,v	1,5,7	C1:l,v:1,5,7	6,7:l,v:1,5,7	IIIb
+IIIb 6,7:l,v:z53	O:7 (C1)	6,7	C1	l,v	z53	C1:l,v:z53	6,7:l,v:z53	IIIb
+IIIb 11:l,v:z	O:11 (F)	11	F	l,v	z	F:l,v:z	11:l,v:z	IIIb
+IIIb 11:l,v:z53	O:11 (F)	11	F	l,v	z53	F:l,v:z53	11:l,v:z53	IIIb
+IIIb 13,22:l,v:1,5,7	O:13 (G)	13,22	G	l,v	1,5,7	G:l,v:1,5,7	13,22:l,v:1,5,7	IIIb
+IIIb (6),14:l,v:z	O:6,14 (H)	(6),14	H	l,v	z	H:l,v:z	(6),14:l,v:z	IIIb
+IIIb (6),14:l,v:z35	O:6,14 (H)	(6),14	H	l,v	z35	H:l,v:z35	(6),14:l,v:z35	IIIb
+IIIb (6),14:l,v:z53	O:6,14 (H)	(6),14	H	l,v	z53	H:l,v:z53	(6),14:l,v:z53	IIIb
+IIIb 16:l,v:1,5,7	O:16 (l)	16	I	l,v	1,5,7	I:l,v:1,5,7	16:l,v:1,5,7	IIIb
+IIIb 16:l,v:z	O:16 (l)	16	I	l,v	z	I:l,v:z	16:l,v:z	IIIb
+IIIb 16:l,v:z35	O:16 (l)	16	I	l,v	z35	I:l,v:z35	16:l,v:z35	IIIb
+IIIb 16:l,v:z53	O:16 (l)	16	I	l,v	z53	I:l,v:z53	16:l,v:z53	IIIb
+IIIb 17:l,v:e,n,x,z15	O:17 (J)	17	J	l,v	e,n,x,z15	J:l,v:e,n,x,z15	17:l,v:e,n,x,z15	IIIb
+IIIb 17:l,v:z35	O:17 (J)	17	J	l,v	z35	J:l,v:z35	17:l,v:z35	IIIb
+IIIb 18:l,v:e,n,x,z15	O:18 (K)	18	K	l,v	e,n,x,z15	K:l,v:e,n,x,z15	18:l,v:e,n,x,z15	IIIb
+IIIb 18:l,v:z	O:18 (K)	18	K	l,v	z	K:l,v:z	18:l,v:z	IIIb
+IIIb 18:l,v:z53	O:18 (K)	18	K	l,v	z53	K:l,v:z53	18:l,v:z53	IIIb
+IIIb 21:l,v:z	O:21 (L)	21	L	l,v	z	L:l,v:z	21:l,v:z	IIIb
+IIIb 21:l,v:z57	O:21 (L)	21	L	l,v	z57	L:l,v:z57	21:l,v:z57	IIIb
+IIIb 51:l,v:z	O:51	51	O-51	l,v	z	O-51:l,v:z	51:l,v:z	IIIb
+IIIb 52:l,v:z53	O:52	52	O-52	l,v	z53	O-52:l,v:z53	52:l,v:z53	IIIb
+IIIb 53:l,v:e,n,x,z15	O:53	53	O-53	l,v	e,n,x,z15	O-53:l,v:e,n,x,z15	53:l,v:e,n,x,z15	IIIb
+IIIb 53:l,v:z	O:53	53	O-53	l,v	z	O-53:l,v:z	53:l,v:z	IIIb
+IIIb 53:l,v:z35	O:53	53	O-53	l,v	z35	O-53:l,v:z35	53:l,v:z35	IIIb
+IIIb 58:l,v:e,n,x,z15	O:58	58	O-58	l,v	e,n,x,z15	O-58:l,v:e,n,x,z15	58:l,v:e,n,x,z15	IIIb
+IIIb 58:l,v:z35	O:58	58	O-58	l,v	z35	O-58:l,v:z35	58:l,v:z35	IIIb
+IIIb 59:l,v:z	O:59	59	O-59	l,v	z	O-59:l,v:z	59:l,v:z	IIIb
+IIIb 59:l,v:z53	O:59	59	O-59	l,v	z53	O-59:l,v:z53	59:l,v:z53	IIIb
+IIIb 60:l,v:z	O:60	60	O-60	l,v	z	O-60:l,v:z	60:l,v:z	IIIb
+IIIb 61:l,v:1,5,7	O:61	61	O-61	l,v	1,5,7	O-61:l,v:1,5,7	61:l,v:1,5,7	IIIb
+IIIb 61:l,v:z	O:61	61	O-61	l,v	z	O-61:l,v:z	61:l,v:z	IIIb
+IIIb 61:l,v:z35	O:61	61	O-61	l,v	z35	O-61:l,v:z35	61:l,v:z35	IIIb
+IIIb 65:l,v:e,n,x,z15	O:65	65	O-65	l,v	e,n,x,z15	O-65:l,v:e,n,x,z15	65:l,v:e,n,x,z15	IIIb
+IIIb 65:l,v:z	O:65	65	O-65	l,v	z	O-65:l,v:z	65:l,v:z	IIIb
+IIIb 65:l,v:z35	O:65	65	O-65	l,v	z35	O-65:l,v:z35	65:l,v:z35	IIIb
+IIIb 65:l,v:z53	O:65	65	O-65	l,v	z53	O-65:l,v:z53	65:l,v:z53	IIIb
+IIIb 35:l,v:1,5,7	O:35 (O)	35	O	l,v	1,5,7	O:l,v:1,5,7	35:l,v:1,5,7	IIIb
+IIIb 35:l,v:e,n,x,z15	O:35 (O)	35	O	l,v	e,n,x,z15	O:l,v:e,n,x,z15	35:l,v:e,n,x,z15	IIIb
+IIIb 35:l,v:z35	O:35 (O)	35	O	l,v	z35	O:l,v:z35	35:l,v:z35	IIIb
+IIIb 38:l,v:-	O:38 (P)	38	P	l,v	-	P:l,v:-	38:l,v:-	IIIb
+IIIb 38:l,v:z	O:38 (P)	38	P	l,v	z	P:l,v:z	38:l,v:z	IIIb
+IIIb 38:l,v:z35	O:38 (P)	38	P	l,v	z35	P:l,v:z35	38:l,v:z35	IIIb
+IIIb 38:l,v:z53	O:38 (P)	38	P	l,v	z53	P:l,v:z53	38:l,v:z53	IIIb
+IIIb 40:l,v:z	O:40 (R) 	40	R	l,v	z	R:l,v:z	40:l,v:z	IIIb
+IIIb 1,40:l,v:z53	O:40 (R) 	1,40	R	l,v	z53	R:l,v:z53	1,40:l,v:z53	IIIb
+IIIb 42:l,v:1,5,7	O:42 (T)	42	T	l,v	1,5,7	T:l,v:1,5,7	42:l,v:1,5,7	IIIb
+IIIb 42:l,v:e,n,x,z15	O:42 (T)	42	T	l,v	e,n,x,z15	T:l,v:e,n,x,z15	42:l,v:e,n,x,z15	IIIb
+IIIb 42:l,v:z	O:42 (T)	42	T	l,v	z	T:l,v:z	42:l,v:z	IIIb
+IIIb 42:l,v:z53	O:42 (T)	42	T	l,v	z53	T:l,v:z53	42:l,v:z53	IIIb
+IIIb 43:l,v:z53	O:43 (U)	43	U	l,v	z53	U:l,v:z53	43:l,v:z53	IIIb
+IIIb 47:l,v:1,[5],7	O:47 (X)	47	X	l,v	1,[5],7	X:l,v:1,[5],7	47:l,v:1,[5],7	IIIb
+IIIb 47:l,v:e,n,x,z15	O:47 (X)	47	X	l,v	e,n,x,z15	X:l,v:e,n,x,z15	47:l,v:e,n,x,z15	IIIb
+IIIb 47:l,v:z	O:47 (X)	47	X	l,v	z	X:l,v:z	47:l,v:z	IIIb
+IIIb 47:l,v:z35	O:47 (X)	47	X	l,v	z35	X:l,v:z35	47:l,v:z35	IIIb
+IIIb 47:l,v:z53	O:47 (X)	47	X	l,v	z53	X:l,v:z53	47:l,v:z53	IIIb
+IIIb 47:l,v:z57	O:47 (X)	47	X	l,v	z57	X:l,v:z57	47:l,v:z57	IIIb
+IIIb 48:l,v:1,5,(7)	O:48 (Y)1	48	Y	l,v	1,5,(7)	Y:l,v:1,5,7	48:l,v:1,5,(7)	IIIb
+IIIb 48:l,v:z	O:48 (Y)1	48	Y	l,v	z	Y:l,v:z	48:l,v:z	IIIb
+IIIb 50:l,v:e,n,x,z15	O:50 (Z)	50	Z	l,v	e,n,x,z15	Z:l,v:e,n,x,z15	50:l,v:e,n,x,z15	IIIb
+IIIb 50:l,v:z	O:50 (Z)	50	Z	l,v	z	Z:l,v:z	50:l,v:z	IIIb
+IIIb 50:l,v:z35	O:50 (Z)	50	Z	l,v	z35	Z:l,v:z35	50:l,v:z35	IIIb
+IIIb 50:l,v:z57	O:50 (Z)	50	Z	l,v	z57	Z:l,v:z57	50:l,v:z57	IIIb
+Imo	O:45 (W)	45	W	l,v	-	W:l,v:-	45:l,v:-	I
+Imo	O:45 (W)	45	W	l,v	e,n,z15	W:l,v:e,n,z15	45:l,v:e,n,z15	I
+India	O:9,46 (D2)	9,46	D	l,v	1,5	D:l,v:1,5	9,46:l,v:1,5	I
+Irumu	O:7 (C1)	6,7	C1	l,v	1,5	C1:l,v:1,5	6,7:l,v:1,5	I
+IV 47:l,v:-	O:47 (X)	47	X	l,v	-	X:l,v:-	47:l,v:-	IV
+Kapemba	O:9 (D1)	9,12	D	l,v	1,7	D:l,v:1,7	9,12:l,v:1,7	I
+Kimberley	O:38 (P)	38	P	l,v	1,5	P:l,v:1,5	38:l,v:1,5	I
+Kimuenza	O:4 (B)	1,4,12,27	B	l,v	e,n,x	B:l,v:e,n,x	1,4,12,27:l,v:e,n,x	I
+Koessen	O:2 (A)	2,12	A	l,v	1,5	A:l,v:1,5	2,12:l,v:1,5	I
+Kokomlemle	O:39 (Q)	39	Q	l,v	e,n,x	Q:l,v:e,n,x	39:l,v:e,n,x	I
+Kortrijk	O:7 (C1)	6,7	C1	l,v	1,7	C1:l,v:1,7	6,7:l,v:1,7	I
+Lancaster	O:17 (J)	17	J	l,v	1,7	J:l,v:1,7	17:l,v:1,7	I
+Leoben	O:28 (M)	28	M	l,v	1,5	M:l,v:1,5	28:l,v:1,5	I
+Ligeo	O:30 (N)	30	N	l,v	1,2	N:l,v:1,2	30:l,v:1,2	I
+Litchfield	O:8 (C2-C3)	6,8	C2-C3	l,v	1,2	C2-C3:l,v:1,2	6,8:l,v:1,2	I
+Loanda	O:8 (C2-C3)	6,8	C2-C3	l,v	1,5	C2-C3:l,v:1,5	6,8:l,v:1,5	I
+London	O:3,10 (E1)	3,{10}{15}	E	l,v	1,6	E:l,v:1,6	3,{10}{15}:l,v:1,6	I
+Losangeles	O:16 (l)	16	I	l,v	z6	I:l,v:z6	16:l,v:z6	I
+Lovelace	O:13 (G)	13,22	G	l,v	1,5	G:l,v:1,5	13,22:l,v:1,5	I
+Lund	O:8 (C2-C3)	6,8	C2-C3	l,v	z6	C2-C3:l,v:z6	6,8:l,v:z6	I
+Manchester	O:8 (C2-C3)	6,8	C2-C3	l,v	1,7	C2-C3:l,v:1,7	6,8:l,v:1,7	I
+Maracaibo	O:11 (F)	11	F	l,v	1,5	F:l,v:1,5	11:l,v:1,5	I
+Mendoza	O:9 (D1)	9,12	D	l,v	1,2	D:l,v:1,2	9,12:l,v:1,2	I
+Michigan	O:17 (J)	17	J	l,v	1,5	J:l,v:1,5	17:l,v:1,5	I
+Millesi	O:40 (R) 	1,40	R	l,v	1,2	R:l,v:1,2	1,40:l,v:1,2	I
+Mkamba	O:7 (C1)	6,7	C1	l,v	1,6	C1:l,v:1,6	6,7:l,v:1,6	I
+Morotai	O:17 (J)	17	J	l,v	1,2	J:l,v:1,2	17:l,v:1,2	I
+Nanga	O:13 (G)	1,13,23	G	l,v	e,n,z15	G:l,v:e,n,z15	1,13,23:l,v:e,n,z15	I
+Nashua	O:28 (M)	28	M	l,v	e,n,z15	M:l,v:e,n,z15	28:l,v:e,n,z15	I
+Nchanga	O:3,10 (E1)	3,{10}{15}	E	l,v	1,2	E:l,v:1,2	3,{10}{15}:l,v:1,2	I
+Ngor	O:1,3,19 (E4)	1,3,19	E	l,v	1,5	E:l,v:1,5	1,3,19:l,v:1,5	I
+Oerlikon	O:39 (Q)	39	Q	l,v	e,n,z15	Q:l,v:e,n,z15	39:l,v:e,n,z15	I
+Orlando	O:18 (K)	18	K	l,v	e,n,z15	K:l,v:e,n,z15	18:l,v:e,n,z15	I
+Overschie	O:51	51	O-51	l,v	1,5	O-51:l,v:1,5	51:l,v:1,5	I
+Pakistan	O:8 (C2-C3)	8	C2-C3	l,v	1,2	C2-C3:l,v:1,2	8:l,v:1,2	I
+Panama	O:9 (D1)	1,9,12	D	l,v	1,5	D:l,v:1,5	1,9,12:l,v:1,5	I
+Parkroyal	O:1,3,19 (E4)	1,3,19	E	l,v	1,7	E:l,v:1,7	1,3,19:l,v:1,7	I
+Potsdam	O:7 (C1)	6,7,14	C1	l,v	e,n,z15	C1:l,v:e,n,z15	6,7,14:l,v:e,n,z15	I
+Roan	O:38 (P)	38	P	l,v	e,n,x	P:l,v:e,n,x	38:l,v:e,n,x	I
+Ruzizi	O:3,10 (E1)	3,10	E	l,v	e,n,z15	E:l,v:e,n,z15	3,10:l,v:e,n,z15	I
+Salford	O:16 (l)	16	I	l,v	e,n,x	I:l,v:e,n,x	16:l,v:e,n,x	I
+Shanghai	O:16 (l)	16	I	l,v	1,6	I:l,v:1,6	16:l,v:1,6	I
+Sinchew	O:3,10 (E1)	3,10	E	l,v	z35	E:l,v:z35	3,10:l,v:z35	I
+Sinstorf	O:3,10 (E1)	3,10	E	l,v	1,5	E:l,v:1,5	3,10:l,v:1,5	I
+Stendal	O:11 (F)	11	F	l,v	1,2	F:l,v:1,2	11:l,v:1,2	I
+Svedvi	O:1,3,19 (E4)	1,3,19	E	l,v	e,n,z15	E:l,v:e,n,z15	1,3,19:l,v:e,n,z15	I
+Taylor	O:38 (P)	38	P	l,v	e,n,z15	P:l,v:e,n,z15	38:l,v:e,n,z15	I
+Toronto	O:9,46 (D2)	9,46	D	l,v	e,n,x	D:l,v:e,n,x	9,46:l,v:e,n,x	I
+VI 6,14:l,v:z88	O:6,14 (H)	6,14	H	l,v	z88	H:l,v:z88	6,14:l,v:z88	VI
+VI 50:l,v:z67	O:50 (Z)	50	Z	l,v	z67	Z:l,v:z67	50:l,v:z67	VI
+Vitkin	O:28 (M)	28	M	l,v	e,n,x	M:l,v:e,n,x	28:l,v:e,n,x	I
+Welikade	O:16 (l)	16	I	l,v	1,7	I:l,v:1,7	16:l,v:1,7	I
+Zaiman	O:9 (D1)	9,12	D	l,v	e,n,x	D:l,v:e,n,x	9,12:l,v:e,n,x	I
+Ackwepe	O:9,46 (D2)	9,46	D	l,w	-	D:l,w:-	9,46:l,w:-	I
+Assinie	O:3,10 (E1)	3,10	E	l,w	z6	E:l,w:z6	3,10:l,w:z6	I
+Ayton	O:4 (B)	1,4,12,27	B	l,w	z6	B:l,w:z6	1,4,12,27:l,w:z6	I
+Blancmesnil	O:4 (B)	4,12	B	l,w	e,n,z15	B:l,w:e,n,z15	4,12:l,w:e,n,z15	I
+Brooklyn	O:16 (l)	16	I	l,w	e,n,x	I:l,w:e,n,x	16:l,w:e,n,x	I
+Colorado	O:7 (C1)	6,7	C1	l,w	1,5	C1:l,w:1,5	6,7:l,w:1,5	I
+Epalinges	O:43 (U)	43	U	l,w	-	U:l,w:-	43:l,w:-	I
+Epalinges	O:43 (U)	43	U	l,w	z44	U:l,w:z44	43:l,w:z44	I
+Essingen	O:16 (l)	16	I	l,w	z6	I:l,w:z6	16:l,w:z6	I
+Fayed	O:8 (C2-C3)	6,8	C2-C3	l,w	1,2	C2-C3:l,w:1,2	6,8:l,w:1,2	I
+Fulda	O:1,3,19 (E4)	1,3,19	E	l,w	1,5	E:l,w:1,5	1,3,19:l,w:1,5	I
+Gabon	O:7 (C1)	6,7	C1	l,w	1,2	C1:l,w:1,2	6,7:l,w:1,2	I
+Glidji	O:11 (F)	11	F	l,w	1,5	F:l,w:1,5	11:l,w:1,5	I
+II 4,12:l,w:e,n,x	O:4 (B)	4,12	B	l,w	e,n,x	B:l,w:e,n,x	4,12:l,w:e,n,x	II
+II 6,7:l,w:1,5,7	O:7 (C1)	6,7	C1	l,w	1,5,7	C1:l,w:1,5,7	6,7:l,w:1,5,7	II
+II 6,7:l,w:z42	O:7 (C1)	6,7	C1	l,w	z42	C1:l,w:z42	6,7:l,w:z42	II
+II 6,8:l,w:z6	O:8 (C2-C3)	6,8	C2-C3	l,w	z6	C2-C3:l,w:z6	6,8:l,w:z6	II
+II 1,9,12:l,w:e,n,x	O:9 (D1)	1,9,12	D	l,w	e,n,x	D:l,w:e,n,x	1,9,12:l,w:e,n,x	II
+II 13,23:l,w:e,n,x	O:13 (G)	13,23	G	l,w	e,n,x	G:l,w:e,n,x	13,23:l,w:e,n,x	II
+II 16:l,w:z6	O:16 (l)	16	I	l,w	z6	I:l,w:z6	16:l,w:z6	II
+II 1,42:l,w:e,n,x	O:42 (T)	1,42	T	l,w	e,n,x	T:l,w:e,n,x	1,42:l,w:e,n,x	II
+II 50:l,w:e,n,x,z15	O:50 (Z)	50	Z	l,w	e,n,x,z15	Z:l,w:e,n,x,z15	50:l,w:e,n,x,z15	II
+IIIb 48:l,w:1,5,7	O:48 (Y)1	48	Y	l,w	1,5,7	Y:l,w:1,5,7	48:l,w:1,5,7	IIIb
+Keve	O:21 (L)	21	L	l,w	-	L:l,w:-	21:l,w:-	I
+Langeveld	O:7 (C1)	6,7	C1	l,w	e,n,z15	C1:l,w:e,n,z15	6,7:l,w:e,n,z15	I
+Lomnava	O:16 (l)	16	I	l,w	e,n,z15	I:l,w:e,n,z15	16:l,w:e,n,z15	I
+Marsabit	O:52	52	O-52	l,w	1,5	O-52:l,w:1,5	52:l,w:1,5	I
+Mono	O:4 (B)	4,12	B	l,w	1,5	B:l,w:1,5	4,12:l,w:1,5	I
+Overchurch	O:40 (R) 	1,40	R	l,w	-	R:l,w:-	1,40:l,w:-	I
+Overchurch	O:40 (R) 	1,40	R	l,w	1,2	R:l,w:1,2	1,40:l,w:1,2	I
+Parakou	O:42 (T)	1,42	T	l,w	z35	T:l,w:z35	1,42:l,w:z35	I
+Ramsey	O:28 (M)	28	M	l,w	1,6	M:l,w:1,6	28:l,w:1,6	I
+Togo	O:4 (B)	4,12	B	l,w	1,6	B:l,w:1,6	4,12:l,w:1,6	I
+Toulon	O:18 (K)	18	K	l,w	e,n,z15	K:l,w:e,n,z15	18:l,w:e,n,z15	I
+Victoria	O:9 (D1)	1,9,12	D	l,w	1,5	D:l,w:1,5	1,9,12:l,w:1,5	I
+Westeinde	O:16 (l)	16	I	l,w	1,6	I:l,w:1,6	16:l,w:1,6	I
+Zigong	O:16 (l)	16	I	l,w	1,5	I:l,w:1,5	16:l,w:1,5	I
+Freiburg	O:3,10 (E1)	3,10	E	l,z13	1,2	E:l,z13:1,2	3,10:l,z13:1,2	I
+Itami	O:9 (D1)	9,12	D	l,z13	1,5	D:l,z13:1,5	9,12:l,z13:1,5	I
+Kenya	O:7 (C1)	6,7	C1	l,z13	e,n,x	C1:l,z13:e,n,x	6,7:l,z13:e,n,x	I
+Mandera	O:16 (l)	16	I	l,z13	e,n,z15	I:l,z13:e,n,z15	16:l,z13:e,n,z15	I
+Miyazaki	O:9 (D1)	9,12	D	l,z13	1,7	D:l,z13:1,7	9,12:l,z13:1,7	I
+Napoli	O:9 (D1)	1,9,12	D	l,z13	e,n,x	D:l,z13:e,n,x	1,9,12:l,z13:e,n,x	I
+Nessziona	O:7 (C1)	6,7	C1	l,z13	1,5	C1:l,z13:1,5	6,7:l,z13:1,5	I
+Sudan	O:43 (U)	43	U	l,z13	-	U:l,z13:-	43:l,z13:-	I
+Taiping	O:13 (G)	13,22	G	l,z13	e,n,z15	G:l,z13:e,n,z15	13,22:l,z13:e,n,z15	I
+Tours	O:11 (F)	11	F	l,z13	1,2	F:l,z13:1,2	11:l,z13:1,2	I
+Uganda	O:3,10 (E1)	3,{10}{15}	E	l,z13	1,5	E:l,z13:1,5	3,{10}{15}:l,z13:1,5	I
+Westerstede	O:1,3,19 (E4)	1,3,19	E	l,z13	1,2	E:l,z13:1,2	1,3,19:l,z13:1,2	I
+Winterthur	O:1,3,19 (E4)	1,3,19	E	l,z13	1,6	E:l,z13:1,6	1,3,19:l,z13:1,6	I
+Breukelen	O:8 (C2-C3)	6,8	C2-C3	l,z13,[z28]	e,n,z15	C2-C3:l,z13,z28:e,n,z15	6,8:l,z13,[z28]:e,n,z15	I
+Haduna	O:4 (B)	4,12	B	l,z13,[z28]	1,6	B:l,z13,z28:1,6	4,12:l,z13,[z28]:1,6	I
+Neukoelln	O:7 (C1)	6,7	C1	l,z13,[z28]	e,n,z15	C1:l,z13,z28:e,n,z15	6,7:l,z13,[z28]:e,n,z15	I
+Ablogame	O:16 (l)	16	I	l,z13,z28	z6	I:l,z13,z28:z6	16:l,z13,z28:z6	I
+Battle	O:16 (l)	16	I	l,z13,z28	1,6	I:l,z13,z28:1,6	16:l,z13,z28:1,6	I
+Bedford	O:1,3,19 (E4)	1,3,19	E	l,z13,z28	e,n,z15	E:l,z13,z28:e,n,z15	1,3,19:l,z13,z28:e,n,z15	I
+Catalunia	O:28 (M)	28	M	l,z13,z28	1,5	M:l,z13,z28:1,5	28:l,z13,z28:1,5	I
+Connecticut	O:11 (F)	11	F	l,z13,z28	1,5	F:l,z13,z28:1,5	11:l,z13,z28:1,5	I
+Fallowfield	O:3,10 (E1)	3,10	E	l,z13,z28	e,n,z15	E:l,z13,z28:e,n,z15	3,10:l,z13,z28:e,n,z15	I
+Hiduddify	O:8 (C2-C3)	6,8	C2-C3	l,z13,z28	1,5	C2-C3:l,z13,z28:1,5	6,8:l,z13,z28:1,5	I
+Hoghton	O:3,10 (E1)	3,10	E	l,z13,z28	z6	E:l,z13,z28:z6	3,10:l,z13,z28:z6	I
+II 1,9,12,46,27:l,z13,z28:z39	O:9,46,27 (D3)	1,9,12,46,27	D	l,z13,z28	z39	D:l,z13,z28:z39	1,9,12,46,27:l,z13,z28:z39	II
+II 58:l,z13,z28:1,5	O:58	58	O-58	l,z13,z28	1,5	O-58:l,z13,z28:1,5	58:l,z13,z28:1,5	II
+II 58:l,z13,z28:z6	O:58	58	O-58	l,z13,z28	z6	O-58:l,z13,z28:z6	58:l,z13,z28:z6	II
+II 41:l,z13,z28:e,n,x,z15	O:41 (S)	41	S	l,z13,z28	e,n,x,z15	S:l,z13,z28:e,n,x,z15	41:l,z13,z28:e,n,x,z15	II
+II 43:l,z13,z28:1,5	O:43 (U)	43	U	l,z13,z28	1,5	U:l,z13,z28:1,5	43:l,z13,z28:1,5	II
+Kano	O:4 (B)	1,4,12,27	B	l,z13,z28	e,n,x	B:l,z13,z28:e,n,x	1,4,12,27:l,z13,z28:e,n,x	I
+Koblenz	O:16 (l)	16	I	l,z13,z28	e,n,x	I:l,z13,z28:e,n,x	16:l,z13,z28:e,n,x	I
+Kubacha	O:4 (B)	1,4,12,27	B	l,z13,z28	1,7	B:l,z13,z28:1,7	1,4,12,27:l,z13,z28:1,7	I
+Lokstedt	O:1,3,19 (E4)	1,3,19	E	l,z13,z28	1,2	E:l,z13,z28:1,2	1,3,19:l,z13,z28:1,2	I
+Makiso	O:7 (C1)	6,7	C1	l,z13,z28	z6	C1:l,z13,z28:z6	6,7:l,z13,z28:z6	I
+Morocco	O:30 (N)	30	N	l,z13,z28	e,n,z15	N:l,z13,z28:e,n,z15	30:l,z13,z28:e,n,z15	I
+Nordrhein	O:9,46 (D2)	9,46	D	l,z13,z28	e,n,z15	D:l,z13,z28:e,n,z15	9,46:l,z13,z28:e,n,z15	I
+Ockenheim	O:30 (N)	30	N	l,z13,z28	1,6	N:l,z13,z28:1,6	30:l,z13,z28:1,6	I
+Osnabrueck	O:11 (F)	11	F	l,z13,z28	e,n,x	F:l,z13,z28:e,n,x	11:l,z13,z28:e,n,x	I
+Penilla	O:28 (M)	28	M	l,z13,z28	e,n,z15	M:l,z13,z28:e,n,z15	28:l,z13,z28:e,n,z15	I
+Strathcona	O:7 (C1)	6,7	C1	l,z13,z28	1,7	C1:l,z13,z28:1,7	6,7:l,z13,z28:1,7	I
+Teshie	O:47 (X)	1,47	X	l,z13,z28	e,n,z15	X:l,z13,z28:e,n,z15	1,47:l,z13,z28:e,n,z15	I
+Tiko	O:40 (R) 	1,40	R	l,z13,z28	1,2	R:l,z13,z28:1,2	1,40:l,z13,z28:1,2	I
+Vom	O:4 (B)	1,4,12,27	B	l,z13,z28	e,n,z15	B:l,z13,z28:e,n,z15	1,4,12,27:l,z13,z28:e,n,z15	I
+Aflao	O:6,14 (H)	1,6,14,25	H	l,z28	e,n,x	H:l,z28:e,n,x	1,6,14,25:l,z28:e,n,x	I
+Bukavu	O:40 (R) 	1,40	R	l,z28	1,5	R:l,z28:1,5	1,40:l,z28:1,5	I
+Fajara	O:28 (M)	28	M	l,z28	e,n,x	M:l,z28:e,n,x	28:l,z28:e,n,x	I
+Granlo	O:17 (J)	17	J	l,z28	e,n,x	J:l,z28:e,n,x	17:l,z28:e,n,x	I
+II 1,4,12:l,z28:-	O:4 (B)	1,4,12	B	l,z28	-	B:l,z28:-	1,4,12:l,z28:-	II
+II 1,4,12:l,z28:e,n,x	O:4 (B)	1,4,12	B	l,z28	e,n,x	B:l,z28:e,n,x	1,4,12:l,z28:e,n,x	II
+II 6,7:l,z28:1,5	O:7 (C1)	6,7	C1	l,z28	1,5	C1:l,z28:1,5	6,7:l,z28:1,5	II
+II 6,7:l,z28:e,n,x	O:7 (C1)	6,7	C1	l,z28	e,n,x	C1:l,z28:e,n,x	6,7:l,z28:e,n,x	II
+II 6,7:l,z28:z6	O:7 (C1)	6,7	C1	l,z28	z6	C1:l,z28:z6	6,7:l,z28:z6	II
+II 6,8:l,z28:e,n,x	O:8 (C2-C3)	6,8	C2-C3	l,z28	e,n,x	C2-C3:l,z28:e,n,x	6,8:l,z28:e,n,x	II
+II 9,12:l,z28:1,5	O:9 (D1)	9,12	D	l,z28	1,5	D:l,z28:1,5	9,12:l,z28:1,5	II
+II 9,12:l,z28:e,n,x	O:9 (D1)	9,12	D	l,z28	e,n,x	D:l,z28:e,n,x	9,12:l,z28:e,n,x	II
+II 3,10:l,z28:1,5	O:3,10 (E1)	3,10	E	l,z28	1,5	E:l,z28:1,5	3,10:l,z28:1,5	II
+II 3,10:l,z28:e,n,x	O:3,10 (E1)	3,10	E	l,z28	e,n,x	E:l,z28:e,n,x	3,10:l,z28:e,n,x	II
+II 3,10:l,z28:z39	O:3,10 (E1)	3,10	E	l,z28	z39	E:l,z28:z39	3,10:l,z28:z39	II
+II 11:l,z28:e,n,x	O:11 (F)	11	F	l,z28	e,n,x	F:l,z28:e,n,x	11:l,z28:e,n,x	II
+II 13,22:l,z28:1,5	O:13 (G)	13,22	G	l,z28	1,5	G:l,z28:1,5	13,22:l,z28:1,5	II
+II 13,23:l,z28:1,5	O:13 (G)	13,23	G	l,z28	1,5	G:l,z28:1,5	13,23:l,z28:1,5	II
+II 1,13,23:l,z28:z42	O:13 (G)	1,13,23	G	l,z28	z42	G:l,z28:z42	1,13,23:l,z28:z42	II
+II 13,23:l,z28:z6	O:13 (G)	13,23	G	l,z28	z6	G:l,z28:z6	13,23:l,z28:z6	II
+II 16:l,z28:z42	O:16 (l)	16	I	l,z28	z42	I:l,z28:z42	16:l,z28:z42	II
+II 28:l,z28:1,5	O:28 (M)	28	M	l,z28	1,5	M:l,z28:1,5	28:l,z28:1,5	II
+II 28:l,z28:e,n,x	O:28 (M)	28	M	l,z28	e,n,x	M:l,z28:e,n,x	28:l,z28:e,n,x	II
+II 30:l,z28:z6	O:30 (N)	30	N	l,z28	z6	N:l,z28:z6	30:l,z28:z6	II
+II 51:l,z28:z39	O:51	51	O-51	l,z28	z39	O-51:l,z28:z39	51:l,z28:z39	II
+II 51:l,z28:z6	O:51	51	O-51	l,z28	z6	O-51:l,z28:z6	51:l,z28:z6	II
+II 53:l,z28:e,n,x	O:53	53	O-53	l,z28	e,n,x	O-53:l,z28:e,n,x	53:l,z28:e,n,x	II
+II 53:l,z28:z39	O:53	53	O-53	l,z28	z39	O-53:l,z28:z39	53:l,z28:z39	II
+II 53:l,z28:z6	O:53	53	O-53	l,z28	z6	O-53:l,z28:z6	53:l,z28:z6	II
+II 56:l,z28:-	O:56	56	O-56	l,z28	-	O-56:l,z28:-	56:l,z28:-	II
+II 35:l,z28:-	O:35 (O)	35	O	l,z28	-	O:l,z28:-	35:l,z28:-	II
+II 39:l,z28:e,n,x	O:39 (Q)	39	Q	l,z28	e,n,x	Q:l,z28:e,n,x	39:l,z28:e,n,x	II
+II 39:l,z28:z39	O:39 (Q)	39	Q	l,z28	z39	Q:l,z28:z39	39:l,z28:z39	II
+II 1,40:l,z28:1,5	O:40 (R) 	1,40	R	l,z28	1,5	R:l,z28:1,5	1,40:l,z28:1,5	II
+II 40:l,z28:e,n,x	O:40 (R) 	40	R	l,z28	e,n,x	R:l,z28:e,n,x	40:l,z28:e,n,x	II
+II 1,40:l,z28:z39	O:40 (R) 	1,40	R	l,z28	z39	R:l,z28:z39	1,40:l,z28:z39	II
+II 50:l,z28:z42	O:50 (Z)	50	Z	l,z28	z42	Z:l,z28:z42	50:l,z28:z42	II
+Jambur	O:21 (L)	21	L	l,z28	e,n,z15	L:l,z28:e,n,z15	21:l,z28:e,n,z15	I
+Javiana	O:9 (D1)	1,9,12	D	l,z28	1,5	D:l,z28:1,5	1,9,12:l,z28:1,5	I
+Joal	O:3,10 (E1)	3,10	E	l,z28	1,7	E:l,z28:1,7	3,10:l,z28:1,7	I
+Kindia	O:1,3,19 (E4)	1,3,19	E	l,z28	e,n,x	E:l,z28:e,n,x	1,3,19:l,z28:e,n,x	I
+Kotu	O:9 (D1)	9,12	D	l,z28	1,6	D:l,z28:1,6	9,12:l,z28:1,6	I
+Lamin	O:3,10 (E1)	3,10	E	l,z28	e,n,x	E:l,z28:e,n,x	3,10:l,z28:e,n,x	I
+Malika	O:44 (V)	44	V	l,z28	1,5	V:l,z28:1,5	44:l,z28:1,5	I
+Moundou	O:51	51	O-51	l,z28	1,5	O-51:l,z28:1,5	51:l,z28:1,5	I
+Reinickendorf	O:4 (B)	4,12	B	l,z28	e,n,x	B:l,z28:e,n,x	4,12:l,z28:e,n,x	I
+Santhiaba	O:40 (R) 	40	R	l,z28	1,6	R:l,z28:1,6	40:l,z28:1,6	I
+Tomelilla	O:1,3,19 (E4)	1,3,19	E	l,z28	1,7	E:l,z28:1,7	1,3,19:l,z28:1,7	I
+York	O:9 (D1)	9,12	D	l,z28	e,n,z15	D:l,z28:e,n,z15	9,12:l,z28:e,n,z15	I
+Haelsingborg	O:7 (C1)	6,7	C1	m,p,t,[u]	-	C1:m,p,t,[u]:-	6,7:m,p,t,[u]:-	I
+Haelsingborg	O:7 (C1)	6,7	C1	m,p,t	-	C1:m,p,t:-	6,7:m,p,t,[u]:-	I
+Haelsingborg	O:7 (C1)	6,7	C1	m,p,t,u	-	C1:m,p,t,u:-	6,7:m,p,t,[u]:-	I
+Apapa	O:45 (W)	45	W	m,t	-	W:m,t:-	45:m,t:-	I
+Bama	O:17 (J)	17	J	m,t	-	J:m,t:-	17:m,t:-	I
+Banana	O:4 (B)	1,4,[5],12	B	m,t	-	B:m,t:-	1,4,[5],12:m,t:-	I
+Banana	O:4 (B)	1,4,[5],12	B	m,t	1,5	B:m,t:1,5	1,4,[5],12:m,t:1,5	I
+Bassa	O:8 (C2-C3)	6,8	C2-C3	m,t	-	C2-C3:m,t:-	6,8:m,t:-	I
+Cannstatt	O:1,3,19 (E4)	1,3,19	E	m,t	-	E:m,t:-	1,3,19:m,t:-	I
+Dietrichsdorf	O:39 (Q)	39	Q	m,t	-	Q:m,t:-	39:m,t:-	I
+Djinten	O:51	51	O-51	m,t	-	O-51:m,t:-	51:m,t:-	I
+II 6,7:m,t:-	O:7 (C1)	6,7	C1	m,t	-	C1:m,t:-	6,7:m,t:-	II
+II 6,8:m,t:1,5	O:8 (C2-C3)	6,8	C2-C3	m,t	1,5	C2-C3:m,t:1,5	6,8:m,t:1,5	II
+II 6,8:m,t:e,n,x	O:8 (C2-C3)	6,8	C2-C3	m,t	e,n,x	C2-C3:m,t:e,n,x	6,8:m,t:e,n,x	II
+II 1,9,12:m,t:1,5	O:9 (D1)	1,9,12	D	m,t	1,5	D:m,t:1,5	1,9,12:m,t:1,5	II
+II 9,12:m,t:e,n,x	O:9 (D1)	9,12	D	m,t	e,n,x	D:m,t:e,n,x	9,12:m,t:e,n,x	II
+II 9,46:m,t:e,n,x	O:9,46 (D2)	9,46	D	m,t	e,n,x	D:m,t:e,n,x	9,46:m,t:e,n,x	II
+II 1,9,12:m,t:z39	O:9 (D1)	1,9,12	D	m,t	z39	D:m,t:z39	1,9,12:m,t:z39	II
+II 3,10:m,t:1,5	O:3,10 (E1)	3,10	E	m,t	1,5	E:m,t:1,5	3,10:m,t:1,5	II
+II 3,10:m,t:e,n,x	O:3,10 (E1)	3,10	E	m,t	e,n,x	E:m,t:e,n,x	3,10:m,t:e,n,x	II
+II 11:m,t:e,n,x	O:11 (F)	11	F	m,t	e,n,x	F:m,t:e,n,x	11:m,t:e,n,x	II
+II 1,13,23:m,t:1,5	O:13 (G)	1,13,23	G	m,t	1,5	G:m,t:1,5	1,13,23:m,t:1,5	II
+II 1,13,23:m,t:e,n,x	O:13 (G)	1,13,23	G	m,t	e,n,x	G:m,t:e,n,x	1,13,23:m,t:e,n,x	II
+II 13,22:m,t:z42	O:13 (G)	13,22	G	m,t	z42	G:m,t:z42	13,22:m,t:z42	II
+II 1,13,23:m,t:z42	O:13 (G)	1,13,23	G	m,t	z42	G:m,t:z42	1,13,23:m,t:z42	II
+II 1,6,14:m,t:1,5	O:6,14 (H)	1,6,14	H	m,t	1,5	H:m,t:1,5	1,6,14:m,t:1,5	II
+II 6,14:m,t:e,n,x	O:6,14 (H)	6,14	H	m,t	e,n,x	H:m,t:e,n,x	6,14:m,t:e,n,x	II
+II 16:m,t:-	O:16 (l)	16	I	m,t	-	I:m,t:-	16:m,t:-	II
+II 16:m,t:e,n,x	O:16 (l)	16	I	m,t	e,n,x	I:m,t:e,n,x	16:m,t:e,n,x	II
+II 16:m,t:z42	O:16 (l)	16	I	m,t	z42	I:m,t:z42	16:m,t:z42	II
+II 17:m,t:-	O:17 (J)	17	J	m,t	-	J:m,t:-	17:m,t:-	II
+II 18:m,t:1,5	O:18 (K)	18	K	m,t	1,5	K:m,t:1,5	18:m,t:1,5	II
+II 21:m,t:-	O:21 (L)	21	L	m,t	-	L:m,t:-	21:m,t:-	II
+II 28:m,t:-	O:28 (M)	28	M	m,t	-	M:m,t:-	28:m,t:-	II
+II 28:m,t:e,n,x	O:28 (M)	28	M	m,t	e,n,x	M:m,t:e,n,x	28:m,t:e,n,x	II
+II 28:m,t:z39	O:28 (M)	28	M	m,t	z39	M:m,t:z39	28:m,t:z39	II
+II 30:m,t:-	O:30 (N)	30	N	m,t	-	N:m,t:-	30:m,t:-	II
+II 35:m,t:-	O:35 (O)	35	O	m,t	-	O:m,t:-	35:m,t:-	II
+II 39:m,t:-	O:39 (Q)	39	Q	m,t	-	Q:m,t:-	39:m,t:-	II
+II 39:m,t:e,n,x	O:39 (Q)	39	Q	m,t	e,n,x	Q:m,t:e,n,x	39:m,t:e,n,x	II
+II 40:m,t:e,n,x	O:40 (R) 	40	R	m,t	e,n,x	R:m,t:e,n,x	40:m,t:e,n,x	II
+II 40:m,t:z39	O:40 (R) 	40	R	m,t	z39	R:m,t:z39	40:m,t:z39	II
+II 1,40:m,t:z42	O:40 (R) 	1,40	R	m,t	z42	R:m,t:z42	1,40:m,t:z42	II
+II 42:m,t:-	O:42 (T)	42	T	m,t	-	T:m,t:-	42:m,t:-	II
+II 42:m,t:e,n,x,z15	O:42 (T)	42	T	m,t	e,n,x,z15	T:m,t:e,n,x,z15	42:m,t:e,n,x,z15	II
+II 1,44:m,t:z42	O:44 (V)	1,44	V	m,t	z42	V:m,t:z42	1,44:m,t:z42	II
+II 45:m,t:1,5	O:45 (W)	45	W	m,t	1,5	W:m,t:1,5	45:m,t:1,5	II
+II 50:m,t:z6	O:50 (Z)	50	Z	m,t	z6	Z:m,t:z6	50:m,t:z6	II
+IV 21:m,t:-	O:21 (L)	21	L	m,t	-	L:m,t:-	21:m,t:-	IV
+IV 40:m,t:-	O:40 (R) 	40	R	m,t	-	R:m,t:-	40:m,t:-	IV
+Kaitaan	O:6,14 (H)	1,6,14,25	H	m,t	-	H:m,t:-	1,6,14,25:m,t:-	I
+Kintambo	O:13 (G)	1,13,23	G	m,t	-	G:m,t:-	1,13,23:m,t:-	I
+Langenhorn	O:18 (K)	18	K	m,t	-	K:m,t:-	18:m,t:-	I
+Leatherhead	O:41 (S)	41	S	m,t	1,6	S:m,t:1,6	41:m,t:1,6	I
+Madras	O:4 (B)	4,[5],12	B	m,t	e,n,z15	B:m,t:e,n,z15	4,[5],12:m,t:e,n,z15	I
+Mesbit	O:47 (X)	47	X	m,t	e,n,z15	X:m,t:e,n,z15	47:m,t:e,n,z15	I
+Moers	O:11 (F)	11	F	m,t	-	F:m,t:-	11:m,t:-	I
+Monschaui	O:35 (O)	35	O	m,t	-	O:m,t:-	35:m,t:-	I
+Morbihan	O:16 (l)	16	I	m,t	e,n,z15	I:m,t:e,n,z15	16:m,t:e,n,z15	I
+Morillons	O:28 (M)	28	M	m,t	1,6	M:m,t:1,6	28:m,t:1,6	I
+Mpouto	O:16 (l)	16	I	m,t	-	I:m,t:-	16:m,t:-	I
+Muguga	O:44 (V)	44	V	m,t	-	V:m,t:-	44:m,t:-	I
+Newholland	O:54	4,12,54	O-54	m,t	-	O-54:m,t:-	4,12,54:m,t:-	I
+Oakey	O:7 (C1)	6,7	C1	m,t	z64	C1:m,t:z64	6,7:m,t:z64	I
+Oranienburg	O:7 (C1)	6,7,14	C1	m,t	-	C1:m,t:-	6,7,14:m,t:-	I
+Oranienburg	O:7 (C1)	6,7,14	C1	m,t	z57	C1:m,t:z57	6,7,14:m,t:z57	I
+Othmarschen	O:7 (C1)	6,7,14	C1	m,t	-	C1:m,t:-	6,7,14:m,t:-	I
+Othmarschen	O:7 (C1)	6,7,14	C1	m,t	z57	C1:m,t:z57	6,7,14:m,t:z57	I
+Pensacola	O:9 (D1)	1,9,12	D	m,t	-	D:m,t:-	1,9,12:m,t:-	I
+Pensacola	O:9 (D1)	1,9,12	D	m,t	1,2	D:m,t:1,2	1,9,12:m,t:1,2	I
+Rothenburgsort	O:38 (P)	38	P	m,t	-	P:m,t:-	38:m,t:-	I
+Sangalkam	O:9,46 (D2)	9,46	D	m,t	-	D:m,t:-	9,46:m,t:-	I
+Southbank	O:3,10 (E1)	3,{10}{15}{15,34}	E	m,t	-	E:m,t:-	3,{10}{15}{15,34}:m,t:-	I
+Southbank	O:3,10 (E1)	3,{10}{15}{15,34}	E	m,t	1,6	E:m,t:1,6	3,{10}{15}{15,34}:m,t:1,6	I
+Vinohrady	O:28 (M)	28	M	m,t	-	M:m,t:-	28:m,t:-	I
+Vinohrady	O:28 (M)	28	M	m,t	e,n,z15	M:m,t:e,n,z15	28:m,t:e,n,z15	I
+Waral	O:42 (T)	1,42	T	m,t	-	T:m,t:-	1,42:m,t:-	I
+Washington	O:13 (G)	13,22	G	m,t	-	G:m,t:-	13,22:m,t:-	I
+Winston	O:7 (C1)	6,7	C1	m,t	1,6	C1:m,t:1,6	6,7:m,t:1,6	I
+Yokoe	O:8 (C2-C3)	8,20	C2-C3	m,t	-	C2-C3:m,t:-	8,20:m,t:-	I
+Adjame	O:13 (G)	13,23	G	r	1,6	G:r:1,6	13,23:r:1,6	I
+Akanji	O:8 (C2-C3)	6,8	C2-C3	r	1,7	C2-C3:r:1,7	6,8:r:1,7	I
+Albertbanjul	O:44 (V)	44	V	r	1,5	V:r:1,5	44:r:1,5	I
+Bassadji	O:28 (M)	28	M	r	1,6	M:r:1,6	28:r:1,6	I
+Bochum	O:4 (B)	1,4,[5],12	B	r	l,w	B:r:l,w	1,4,[5],12:r:l,w	I
+Bradford	O:4 (B)	4,12,[27]	B	r	1,5	B:r:1,5	4,12,[27]:r:1,5	I
+Brefet	O:44 (V)	44	V	r	e,n,z15	V:r:e,n,z15	44:r:e,n,z15	I
+Brive	O:42 (T)	1,42	T	r	l,w	T:r:l,w	1,42:r:l,w	I
+Brunflo	O:16 (l)	16	I	r	1,7	I:r:1,7	16:r:1,7	I
+Bsilla	O:8 (C2-C3)	6,8	C2-C3	r	1,2	C2-C3:r:1,2	6,8:r:1,2	I
+Camberwell	O:9 (D1)	9,12	D	r	1,7	D:r:1,7	9,12:r:1,7	I
+Campinense	O:9 (D1)	9,12	D	r	e,n,z15	D:r:e,n,z15	9,12:r:e,n,z15	I
+Clanvillian	O:11 (F)	11	F	r	e,n,z15	F:r:e,n,z15	11:r:e,n,z15	I
+Colindale	O:7 (C1)	6,7	C1	r	1,7	C1:r:1,7	6,7:r:1,7	I
+Crossness	O:67	67	O-67	r	1,2	O-67:r:1,2	67:r:1,2	I
+Czernyring	O:54	54	O-54	r	1,5	O-54:r:1,5	54:r:1,5	I
+Dapango	O:47 (X)	47	X	r	1,2	X:r:1,2	47:r:1,2	I
+Deckstein	O:9,46 (D2)	9,46	D	r	1,7	D:r:1,7	9,46:r:1,7	I
+Elisabethville	O:3,10 (E1)	3,{10}{15}	E	r	1,7	E:r:1,7	3,{10}{15}:r:1,7	I
+Emmastad	O:38 (P)	38	P	r	1,6	P:r:1,6	38:r:1,6	I
+Fairfield	O:28 (M)	28	M	r	l,w	M:r:l,w	28:r:l,w	I
+Gege	O:30 (N)	30	N	r	1,5	N:r:1,5	30:r:1,5	I
+Goldcoast	O:8 (C2-C3)	6,8	C2-C3	r	l,w	C2-C3:r:l,w	6,8:r:l,w	I
+Grampian	O:7 (C1)	6,7	C1	r	l,w	C1:r:l,w	6,7:r:l,w	I
+Grandhaven	O:30 (N)	30	N	r	1,2	N:r:1,2	30:r:1,2	I
+Heidelberg	O:4 (B)	1,4,[5],12	B	r	1,2	B:r:1,2	1,4,[5],12:r:1,2	I
+Hindmarsh	O:8 (C2-C3)	8,20	C2-C3	r	1,5	C2-C3:r:1,5	8,20:r:1,5	I
+II 28:r:e,n,z15	O:28 (M)	28	M	r	e,n,z15	M:r:e,n,z15	28:r:e,n,z15	II
+II 42:r:-	O:42 (T)	42	T	r	-	T:r:-	42:r:-	II
+IIIb 8:r:z	O:8 (C2-C3)	8	C2-C3	r	z	C2-C3:r:z	8:r:z	IIIb
+IIIb (6),14:r:z	O:6,14 (H)	(6),14	H	r	z	H:r:z	(6),14:r:z	IIIb
+IIIb 17:r:z	O:17 (J)	17	J	r	z	J:r:z	17:r:z	IIIb
+IIIb 18:r:z	O:18 (K)	18	K	r	z	K:r:z	18:r:z	IIIb
+IIIb 21:r:z	O:21 (L)	21	L	r	z	L:r:z	21:r:z	IIIb
+IIIb 53:r:z	O:53	53	O-53	r	z	O-53:r:z	53:r:z	IIIb
+IIIb 53:r:z35	O:53	53	O-53	r	z35	O-53:r:z35	53:r:z35	IIIb
+IIIb 53:r:z68	O:53	53	O-53	r	z68	O-53:r:z68	53:r:z68	IIIb
+IIIb 58:r:e,n,x,z15	O:58	58	O-58	r	e,n,x,z15	O-58:r:e,n,x,z15	58:r:e,n,x,z15	IIIb
+IIIb 58:r:z	O:58	58	O-58	r	z	O-58:r:z	58:r:z	IIIb
+IIIb 58:r:z53	O:58	58	O-58	r	z53	O-58:r:z53	58:r:z53	IIIb
+IIIb 59:r:z35	O:59	59	O-59	r	z35	O-59:r:z35	59:r:z35	IIIb
+IIIb 60:r:e,n,x,z15	O:60	60	O-60	r	e,n,x,z15	O-60:r:e,n,x,z15	60:r:e,n,x,z15	IIIb
+IIIb 60:r:z	O:60	60	O-60	r	z	O-60:r:z	60:r:z	IIIb
+IIIb 60:r:z35	O:60	60	O-60	r	z35	O-60:r:z35	60:r:z35	IIIb
+IIIb 60:r:z53	O:60	60	O-60	r	z53	O-60:r:z53	60:r:z53	IIIb
+IIIb 61:r:1,5,7	O:61	61	O-61	r	1,5,7	O-61:r:1,5,7	61:r:1,5,7	IIIb
+IIIb 61:r:z	O:61	61	O-61	r	z	O-61:r:z	61:r:z	IIIb
+IIIb 61:r:z35	O:61	61	O-61	r	z35	O-61:r:z35	61:r:z35	IIIb
+IIIb 61:r:z53	O:61	61	O-61	r	z53	O-61:r:z53	61:r:z53	IIIb
+IIIb 65:r:z35	O:65	65	O-65	r	z35	O-65:r:z35	65:r:z35	IIIb
+IIIb 35:r:e,n,x,z15	O:35 (O)	35	O	r	e,n,x,z15	O:r:e,n,x,z15	35:r:e,n,x,z15	IIIb
+IIIb 35:r:z	O:35 (O)	35	O	r	z	O:r:z	35:r:z	IIIb
+IIIb 35:r:z35	O:35 (O)	35	O	r	z35	O:r:z35	35:r:z35	IIIb
+IIIb 35:r:z61	O:35 (O)	35	O	r	z61	O:r:z61	35:r:z61	IIIb
+IIIb 38:r:1,5,7	O:38 (P)	38	P	r	1,5,7	P:r:1,5,7	38:r:1,5,7	IIIb
+IIIb 38:r:e,n,x,z15	O:38 (P)	38	P	r	e,n,x,z15	P:r:e,n,x,z15	38:r:e,n,x,z15	IIIb
+IIIb 38:r:z	O:38 (P)	38	P	r	z	P:r:z	38:r:z	IIIb
+IIIb 38:r:z35	O:38 (P)	38	P	r	z35	P:r:z35	38:r:z35	IIIb
+IIIb 40:r:z53	O:40 (R) 	40	R	r	z53	R:r:z53	40:r:z53	IIIb
+IIIb 42:r:-	O:42 (T)	42	T	r	-	T:r:-	42:r:-	IIIb
+IIIb 42:r:z	O:42 (T)	42	T	r	z	T:r:z	42:r:z	IIIb
+IIIb 42:r:z53	O:42 (T)	42	T	r	z53	T:r:z53	42:r:z53	IIIb
+IIIb 43:r:e,n,x,z15	O:43 (U)	43	U	r	e,n,x,z15	U:r:e,n,x,z15	43:r:e,n,x,z15	IIIb
+IIIb 43:r:z	O:43 (U)	43	U	r	z	U:r:z	43:r:z	IIIb
+IIIb 43:r:z53	O:43 (U)	43	U	r	z53	U:r:z53	43:r:z53	IIIb
+IIIb 47:r:1,5,7	O:47 (X)	47	X	r	1,5,7	X:r:1,5,7	47:r:1,5,7	IIIb
+IIIb 47:r:e,n,x,z15	O:47 (X)	47	X	r	e,n,x,z15	X:r:e,n,x,z15	47:r:e,n,x,z15	IIIb
+IIIb 47:r:z	O:47 (X)	47	X	r	z	X:r:z	47:r:z	IIIb
+IIIb 47:r:z53	O:47 (X)	47	X	r	z53	X:r:z53	47:r:z53	IIIb
+IIIb 48:r:e,n,x,z15	O:48 (Y)1	48	Y	r	e,n,x,z15	Y:r:e,n,x,z15	48:r:e,n,x,z15	IIIb
+IIIb 48:r:z	O:48 (Y)1	48	Y	r	z	Y:r:z	48:r:z	IIIb
+IIIb 50:r:1,5,(7)	O:50 (Z)	50	Z	r	1,5,(7)	Z:r:1,5,(7)	50:r:1,5,(7)	IIIb
+IIIb 50:r:e,n,x,z15	O:50 (Z)	50	Z	r	e,n,x,z15	Z:r:e,n,x,z15	50:r:e,n,x,z15	IIIb
+IIIb 50:r:z	O:50 (Z)	50	Z	r	z	Z:r:z	50:r:z	IIIb
+IIIb 50:r:z35	O:50 (Z)	50	Z	r	z35	Z:r:z35	50:r:z35	IIIb
+IIIb 50:r:z53	O:50 (Z)	50	Z	r	z53	Z:r:z53	50:r:z53	IIIb
+Infantis	O:7 (C1)	6,7,14	C1	r	1,5	C1:r:1,5	6,7,14:r:1,5	I
+Ivory	O:16 (l)	16	I	r	1,6	I:r:1,6	16:r:1,6	I
+Jamaica	O:9 (D1)	9,12	D	r	1,5	D:r:1,5	9,12:r:1,5	I
+Kibusi	O:28 (M)	28	M	r	e,n,x	M:r:e,n,x	28:r:e,n,x	I
+Kofandoka	O:45 (W)	45	W	r	e,n,z15	W:r:e,n,z15	45:r:e,n,z15	I
+Konongo	O:41 (S)	41	S	r	1,7	S:r:1,7	41:r:1,7	I
+Lehrte	O:16 (l)	16	I	r	z6	I:r:z6	16:r:z6	I
+Lindi	O:38 (P)	38	P	r	1,5	P:r:1,5	38:r:1,5	I
+Linton	O:13 (G)	13,23	G	r	e,n,z15	G:r:e,n,z15	13,23:r:e,n,z15	I
+Lode	O:17 (J)	17	J	r	1,2	J:r:1,2	17:r:1,2	I
+Lome	O:9 (D1)	9,12	D	r	z6	D:r:z6	9,12:r:z6	I
+Lubumbashi	O:41 (S)	41	S	r	1,5	S:r:1,5	41:r:1,5	I
+Massakory	O:35 (O)	35	O	r	l,w	O:r:l,w	35:r:l,w	I
+Mountmagnet	O:21 (L)	21	L	r	-	L:r:-	21:r:-	I
+Nigeria	O:7 (C1)	6,7	C1	r	1,6	C1:r:1,6	6,7:r:1,6	I
+Noya	O:8 (C2-C3)	8	C2-C3	r	1,7	C2-C3:r:1,7	8:r:1,7	I
+Papuana	O:7 (C1)	6,7	C1	r	e,n,z15	C1:r:e,n,z15	6,7:r:e,n,z15	I
+Quincy	O:30 (N)	30	N	r	1,6	N:r:1,6	30:r:1,6	I
+Remo	O:4 (B)	1,4,12,27	B	r	1,7	B:r:1,7	1,4,12,27:r:1,7	I
+Rubislaw	O:11 (F)	11	F	r	e,n,x	F:r:e,n,x	11:r:e,n,x	I
+Senegal	O:11 (F)	11	F	r	1,5	F:r:1,5	11:r:1,5	I
+Shoreditch	O:9,46 (D2)	9,46	D	r	e,n,z15	D:r:e,n,z15	9,46:r:e,n,z15	I
+Simi	O:3,10 (E1)	3,10	E	r	e,n,z15	E:r:e,n,z15	3,10:r:e,n,z15	I
+Sipane	O:42 (T)	1,42	T	r	e,n,z15	T:r:e,n,z15	1,42:r:e,n,z15	I
+Sokode	O:9,46 (D2)	9,46	D	r	z6	D:r:z6	9,46:r:z6	I
+Southampton	O:4 (B)	4,12,27	B	r	z6	B:r:z6	4,12,27:r:z6	I
+Tennenlohe	O:18 (K)	18	K	r	1,5	K:r:1,5	18:r:1,5	I
+Ughelli	O:3,10 (E1)	3,10	E	r	1,5	E:r:1,5	3,10:r:1,5	I
+V 13,22:r:-	O:13 (G)	13,22	G	r	-	G:r:-	13,22:r:-	V
+V 44:r:-	O:44 (V)	44	V	r	-	V:r:-	44:r:-	V
+Virchow	O:7 (C1)	6,7,14	C1	r	1,2	C1:r:1,2	6,7,14:r:1,2	I
+Volta	O:11 (F)	11	F	r	l,z13,z28	F:r:l,z13,z28	11:r:l,z13,z28	I
+Weltevreden	O:3,10 (E1)	3,{10}{15}	E	r	z6	E:r:z6	3,{10}{15}:r:z6	I
+Winneba	O:4 (B)	4,12	B	r	1,6	B:r:1,6	4,12:r:1,6	I
+Yalding	O:1,3,19 (E4)	1,3,19	E	r	e,n,z15	E:r:e,n,z15	1,3,19:r:e,n,z15	I
+Yellowknife	O:9 (D1)	9,12	D	r	e,n,x	D:r:e,n,x	9,12:r:e,n,x	I
+Altona	O:8 (C2-C3)	8,20	C2-C3	r	z6	C2-C3:r,[i]:z6	8,20:r,[i]:z6	I
+Altona	O:8 (C2-C3)	8,20	C2-C3	r,[i]	z6	C2-C3:r,[i]:z6	8,20:r,[i]:z6	I
+Bovismorbificans	O:8 (C2-C3)	6,8,20	C2-C3	r	1,5	C2-C3:r:1,5	6,8,20:r,[i]:1,5	I
+Bovismorbificans	O:8 (C2-C3)	6,8,20	C2-C3	r,[i]	1,5	C2-C3:r,[i]:1,5	6,8,20:r,[i]:1,5	I
+Brikama	O:8 (C2-C3)	8,20	C2-C3	r,[i]	l,w	C2-C3:r,[i]:l,w	8,20:r,[i]:l,w	I
+Chicago	O:28 (M)	28	M	r,[i]	1,5	M:r,[i]:1,5	28:r,[i]:1,5	I
+Chicago	O:28 (M)	28	M	r	1,5	M:r,[i]:1,5	28:r,[i]:1,5	I
+Drogana	O:4 (B)	1,4,12,27	B	r,[i]	e,n,z15	B:r,[i]:e,n,z15	1,4,12,27:r,[i]:e,n,z15	I
+Hidalgo	O:8 (C2-C3)	6,8	C2-C3	r,[i]	e,n,z15	C2-C3:r,[i]:e,n,z15	6,8:r,[i]:e,n,z15	I
+IIIb 47:r,[i]:z35	O:47 (X)	47	X	r,[i]	z35	X:r,[i]:z35	47:r,[i]:z35	IIIb
+Sanktgeorg	O:28 (M)	28	M	r,[i]	e,n,z15	M:r,[i]:e,n,z15	28:r,[i]:e,n,z15	I
+Surat	O:6,14 (H)	[1],6,14,[25]	H	r,[i]	e,n,z15	H:r,[i]:e,n,z15	[1],6,14,[25]:r,[i]:e,n,z15	I
+Africana	O:4 (B)	4,12	B	r,i	l,w	B:r,i:l,w	4,12:r,i:l,w	I
+Annedal	O:16 (l)	16	I	r,i	e,n,x	I:r,i:e,n,x	16:r,i:e,n,x	I
+Banco	O:28 (M)	28	M	r,i	1,7	M:r,i:1,7	28:r,i:1,7	I
+Cocody	O:8 (C2-C3)	8,20	C2-C3	r,i	e,n,z15	C2-C3:r,i:e,n,z15	8,20:r,i:e,n,z15	I
+Dumfries	O:3,10 (E1)	3,10	E	r,i	1,6	E:r,i:1,6	3,10:r,i:1,6	I
+Euston	O:11 (F)	11	F	r,i	e,n,x,z15	F:r,i:e,n,x,z15	11:r,i:e,n,x,z15	I
+Fareham	O:1,3,19 (E4)	1,3,19	E	r,i	l,w	E:r,i:l,w	1,3,19:r,i:l,w	I
+Istoria	O:6,14 (H)	1,6,14,25	H	r,i	1,5	H:r,i:1,5	1,6,14,25:r,i:1,5	I
+Lutetia	O:51	51	O-51	r,i	l,z13,z28	O-51:r,i:l,z13,z28	51:r,i:l,z13,z28	I
+Rovaniemi	O:16 (l)	16	I	r,i	1,5	I:r,i:1,5	16:r,i:1,5	I
+Seegefeld	O:3,10 (E1)	3,10	E	r,i	1,2	E:r,i:1,2	3,10:r,i:1,2	I
+Zwickau	O:16 (l)	16	I	r,i	e,n,z15	I:r,i:e,n,z15	16:r,i:e,n,z15	I
+Akuafo	O:16 (l)	16	I	y	1,6	I:y:1,6	16:y:1,6	I
+Alagbon	O:8 (C2-C3)	8,20	C2-C3	y	1,7	C2-C3:y:1,7	8,20:y:1,7	I
+Amager	O:3,10 (E1)	3,{10}{15}	E	y	1,2	E:y:1,2	3,{10}{15}:y:1,2	I
+Anfo	O:39 (Q)	39	Q	y	1,2	Q:y:1,2	39:y:1,2	I
+Avignon	O:16 (l)	16	I	y	e,n,z15	I:y:e,n,z15	16:y:e,n,z15	I
+Baguirmi	O:30 (N)	30	N	y	e,n,x	N:y:e,n,x	30:y:e,n,x	I
+Ball	O:4 (B)	1,4,[5],12,[27]	B	y	e,n,x	B:y:e,n,x	1,4,[5],12,[27]:y:e,n,x	I
+Bareilly	O:7 (C1)	6,7,14	C1	y	1,5	C1:y:1,5	6,7,14:y:1,5	I
+Benin	O:9,46 (D2)	9,46	D	y	1,7	D:y:1,7	9,46:y:1,7	I
+Benue	O:8 (C2-C3)	6,8	C2-C3	y	l,w	C2-C3:y:l,w	6,8:y:l,w	I
+Bietri	O:30 (N)	30	N	y	1,5	N:y:1,5	30:y:1,5	I
+Blitta	O:47 (X)	47	X	y	e,n,x	X:y:e,n,x	47:y:e,n,x	I
+Bolton	O:3,10 (E1)	3,10	E	y	e,n,z15	E:y:e,n,z15	3,10:y:e,n,z15	I
+Brunei	O:8 (C2-C3)	8,20	C2-C3	y	1,5	C2-C3:y:1,5	8,20:y:1,5	I
+Bulgaria	O:8 (C2-C3)	6,8	C2-C3	y	1,6	C2-C3:y:1,6	6,8:y:1,6	I
+Cannonhill	O:1,3,19 (E4)	1,3,{10}{15},19	E	y	e,n,x	E:y:e,n,x	1,3,{10}{15},19:y:e,n,x	I
+Carrau	O:6,14 (H)	6,14,[24]	H	y	1,7	H:y:1,7	6,14,[24]:y:1,7	I
+Coeln	O:4 (B)	1,4,[5],12	B	y	1,2	B:y:1,2	1,4,[5],12:y:1,2	I
+Colombo	O:38 (P)	38	P	y	1,6	P:y:1,6	38:y:1,6	I
+Daarle	O:8 (C2-C3)	6,8	C2-C3	y	e,n,x	C2-C3:y:e,n,x	6,8:y:e,n,x	I
+Delan	O:39 (Q)	39	Q	y	e,n,z15	Q:y:e,n,z15	39:y:e,n,z15	I
+Dougi	O:50 (Z)	50	Z	y	1,6	Z:y:1,6	50:y:1,6	I
+Farcha	O:43 (U)	43	U	y	1,2	U:y:1,2	43:y:1,2	I
+Finaghy	O:4 (B)	4,12	B	y	1,6	B:y:1,6	4,12:y:1,6	I
+Fischerkietz	O:6,14 (H)	1,6,14,25	H	y	e,n,x	H:y:e,n,x	1,6,14,25:y:e,n,x	I
+Freetown	O:38 (P)	38	P	y	1,5	P:y:1,5	38:y:1,5	I
+Gatineau	O:1,3,19 (E4)	1,3,19	E	y	1,5	E:y:1,5	1,3,19:y:1,5	I
+Gatow	O:7 (C1)	6,7	C1	y	1,7	C1:y:1,7	6,7:y:1,7	I
+Giza	O:8 (C2-C3)	8,20	C2-C3	y	1,2	C2-C3:y:1,2	8,20:y:1,2	I
+Hadejia	O:17 (J)	17	J	y	e,n,z15	J:y:e,n,z15	17:y:e,n,z15	I
+Hartford	O:7 (C1)	6,7	C1	y	e,n,x	C1:y:e,n,x	6,7:y:e,n,x	I
+Harvestehude	O:42 (T)	1,42	T	y	z6	T:y:z6	1,42:y:z6	I
+Herzliya	O:11 (F)	11	F	y	e,n,x	F:y:e,n,x	11:y:e,n,x	I
+Ibaragi	O:21 (L)	21	L	y	1,2	L:y:1,2	21:y:1,2	I
+II 6,8:y:1,6	O:8 (C2-C3)	6,8	C2-C3	y	1,6	C2-C3:y:1,6	6,8:y:1,6	II
+II 1,9,12:y:z39	O:9 (D1)	1,9,12	D	y	z39	D:y:z39	1,9,12:y:z39	II
+II 1,9,12,46,27:y:z39	O:9,46,27 (D3)	1,9,12,46,27	D	y	z39	D:y:z39	1,9,12,46,27:y:z39	II
+II 17:y:-	O:17 (J)	17	J	y	-	J:y:-	17:y:-	II
+II 18:y:e,n,x,z15	O:18 (K)	18	K	y	e,n,x,z15	K:y:e,n,x,z15	18:y:e,n,x,z15	II
+Inchpark	O:8 (C2-C3)	6,8	C2-C3	y	1,7	C2-C3:y:1,7	6,8:y:1,7	I
+Irchel	O:9,46 (D2)	9,46	D	y	e,n,x	D:y:e,n,x	9,46:y:e,n,x	I
+Jalisco	O:11 (F)	11	F	y	1,7	F:y:1,7	11:y:1,7	I
+Jos	O:4 (B)	1,4,12,27	B	y	e,n,z15	B:y:e,n,z15	1,4,12,27:y:e,n,z15	I
+Kamoru	O:4 (B)	1,4,12,27	B	y	z6	B:y:z6	1,4,12,27:y:z6	I
+Kikoma	O:16 (l)	16	I	y	e,n,x	I:y:e,n,x	16:y:e,n,x	I
+Kingabwa	O:43 (U)	43	U	y	1,5	U:y:1,5	43:y:1,5	I
+Kinson	O:1,3,19 (E4)	1,3,19	E	y	e,n,x	E:y:e,n,x	1,3,19:y:e,n,x	I
+Kitenge	O:28 (M)	28	M	y	e,n,x	M:y:e,n,x	28:y:e,n,x	I
+Kralingen	O:8 (C2-C3)	8,20	C2-C3	y	z6	C2-C3:y:z6	8,20:y:z6	I
+Krefeld	O:1,3,19 (E4)	1,3,19	E	y	l,w	E:y:l,w	1,3,19:y:l,w	I
+Lamphun	O:8 (C2-C3)	6,8	C2-C3	y	1,2	C2-C3:y:1,2	6,8:y:1,2	I
+Langensalza	O:3,10 (E1)	3,10	E	y	l,w	E:y:l,w	3,10:y:l,w	I
+Lokomo	O:17 (J)	17	J	y	l,w	J:y:l,w	17:y:l,w	I
+Madelia	O:6,14 (H)	1,6,14,25	H	y	1,7	H:y:1,7	1,6,14,25:y:1,7	I
+Matopeni	O:30 (N)	30	N	y	1,2	N:y:1,2	30:y:1,2	I
+Mayday	O:9,46 (D2)	9,46	D	y	z6	D:y:z6	9,46:y:z6	I
+Mikawasima	O:7 (C1)	6,7,14	C1	y	e,n,z15	C1:y:e,n,z15	6,7,14:y:e,n,z15	I
+Mokola	O:3,10 (E1)	3,10	E	y	1,7	E:y:1,7	3,10:y:1,7	I
+Mornington	O:6,14 (H)	1,6,14,25	H	y	e,n,z15	H:y:e,n,z15	1,6,14,25:y:e,n,z15	I
+Moualine	O:47 (X)	47	X	y	1,6	X:y:1,6	47:y:1,6	I
+Nantes	O:9,46 (D2)	9,46	D	y	l,w	D:y:l,w	9,46:y:l,w	I
+Nijmegen	O:30 (N)	30	N	y	e,n,z15	N:y:e,n,z15	30:y:e,n,z15	I
+Nima	O:28 (M)	28	M	y	1,5	M:y:1,5	28:y:1,5	I
+Odienne	O:40 (R) 	40	R	y	1,5	R:y:1,5	40:y:1,5	I
+Ohlstedt	O:3,10 (E1)	3,{10}{15}	E	y	e,n,x	E:y:e,n,x	3,{10}{15}:y:e,n,x	I
+Ordonez	O:13 (G)	1,13,23	G	y	l,w	G:y:l,w	1,13,23:y:l,w	I
+Orion	O:3,10 (E1)	3,{10}{15}{15,34}	E	y	1,5	E:y:1,5	3,{10}{15}{15,34}:y:1,5	I
+Oskarshamn	O:28 (M)	28	M	y	1,2	M:y:1,2	28:y:1,2	I
+Oyonnax	O:7 (C1)	6,7	C1	y	1,6	C1:y:1,6	6,7:y:1,6	I
+Perth	O:38 (P)	38	P	y	e,n,x	P:y:e,n,x	38:y:e,n,x	I
+Pomona	O:28 (M)	28	M	y	1,7	M:y:1,7	28:y:1,7	I
+Powell	O:9 (D1)	9,12	D	y	1,7	D:y:1,7	9,12:y:1,7	I
+Praha	O:8 (C2-C3)	6,8	C2-C3	y	e,n,z15	C2-C3:y:e,n,z15	6,8:y:e,n,z15	I
+Richmond	O:7 (C1)	6,7	C1	y	1,2	C1:y:1,2	6,7:y:1,2	I
+Ruiru	O:21 (L)	21	L	y	e,n,x	L:y:e,n,x	21:y:e,n,x	I
+Saphra	O:16 (l)	16	I	y	1,5	I:y:1,5	16:y:1,5	I
+Selby	O:28 (M)	28	M	y	z6	M:y:z6	28:y:z6	I
+Shomolu	O:28 (M)	28	M	y	l,w	M:y:l,w	28:y:l,w	I
+Sindelfingen	O:8 (C2-C3)	8,20	C2-C3	y	l,w	C2-C3:y:l,w	8,20:y:l,w	I
+Slade	O:1,3,19 (E4)	1,3,19	E	y	e,n,z15	E:y:e,n,z15	1,3,19:y:e,n,z15	I
+Solt	O:11 (F)	11	F	y	1,5	F:y:1,5	11:y:1,5	I
+Spalentor	O:42 (T)	1,42	T	y	e,n,z15	T:y:e,n,z15	1,42:y:e,n,z15	I
+Steinplatz	O:30 (N)	30	N	y	1,6	N:y:1,6	30:y:1,6	I
+Steinwerder	O:54	3,15,54	O-54	y	1,5	O-54:y:1,5	3,15,54:y:1,5	I
+Stockholm	O:3,10 (E1)	3,{10}{15}	E	y	z6	E:y:z6	3,{10}{15}:y:z6	I
+Sunnycove	O:8 (C2-C3)	8	C2-C3	y	e,n,x	C2-C3:y:e,n,x	8:y:e,n,x	I
+Tananarive	O:8 (C2-C3)	6,8	C2-C3	y	1,5	C2-C3:y:1,5	6,8:y:1,5	I
+Tanger	O:13 (G)	1,13,22	G	y	1,6	G:y:1,6	1,13,22:y:1,6	I
+Teddington	O:4 (B)	1,4,12,27	B	y	1,7	B:y:1,7	1,4,12,27:y:1,7	I
+Telaviv	O:28 (M)	28	M	y	e,n,z15	M:y:e,n,z15	28:y:e,n,z15	I
+Tendeba	O:17 (J)	17	J	y	e,n,x	J:y:e,n,x	17:y:e,n,x	I
+Thies	O:1,3,19 (E4)	1,3,19	E	y	1,7	E:y:1,7	1,3,19:y:1,7	I
+Trachau	O:4 (B)	4,12,27	B	y	1,5	B:y:1,5	4,12,27:y:1,5	I
+Troy	O:18 (K)	18	K	y	1,7	K:y:1,7	18:y:1,7	I
+Tunis	O:13 (G)	1,13,23	G	y	z6	G:y:z6	1,13,23:y:z6	I
+Windermere	O:39 (Q)	39	Q	y	1,5	Q:y:1,5	39:y:1,5	I
+Woumbou	O:11 (F)	11	F	y	e,n,x,z15	F:y:e,n,x,z15	11:y:e,n,x,z15	I
+Yarrabah	O:13 (G)	13,23	G	y	1,7	G:y:1,7	13,23:y:1,7	I
+Antsalova	O:51	51	O-51	z	1,5	O-51:z:1,5	51:z:1,5	I
+Arusha	O:43 (U)	43	U	z	e,n,z15	U:z:e,n,z15	43:z:e,n,z15	I
+Aurelianis	O:9 (D1)	9,12	D	z	e,n,z15	D:z:e,n,z15	9,12:z:e,n,z15	I
+Bambylor	O:9,46 (D2)	9,46	D	z	e,n,z15	D:z:e,n,z15	9,46:z:e,n,z15	I
+Bolama	O:44 (V)	44	V	z	e,n,x	V:z:e,n,x	44:z:e,n,x	I
+Bouake	O:16 (l)	16	I	z	z6	I:z:z6	16:z:z6	I
+Brackenridge	O:44 (V)	44	V	z	1,5	V:z:1,5	44:z:1,5	I
+Brevik	O:16 (l)	16	I	z	e,n,[x],z15	I:z:e,n,[x],z15	16:z:e,n,[x],z15	I
+Brisbane	O:28 (M)	28	M	z	e,n,z15	M:z:e,n,z15	28:z:e,n,z15	I
+Bristol	O:13 (G)	13,22	G	z	1,7	G:z:1,7	13,22:z:1,7	I
+Bruck	O:7 (C1)	6,7	C1	z	l,w	C1:z:l,w	6,7:z:l,w	I
+Businga	O:7 (C1)	6,7	C1	z	e,n,z15	C1:z:e,n,z15	6,7:z:e,n,z15	I
+Carno	O:1,3,19 (E4)	1,3,19	E	z	l,w	E:z:l,w	1,3,19:z:l,w	I
+Casamance	O:40 (R) 	40	R	z	e,n,x	R:z:e,n,x	40:z:e,n,x	I
+Cayar	O:7 (C1)	6,7	C1	z	e,n,x	C1:z:e,n,x	6,7:z:e,n,x	I
+Chile	O:7 (C1)	6,7	C1	z	1,2	C1:z:1,2	6,7:z:1,2	I
+Clerkenwell	O:3,10 (E1)	3,10	E	z	l,w	E:z:l,w	3,10:z:l,w	I
+Crewe	O:11 (F)	11	F	z	1,5	F:z:1,5	11:z:1,5	I
+Daula	O:8 (C2-C3)	8,20	C2-C3	z	z6	C2-C3:z:z6	8,20:z:z6	I
+Dingiri	O:17 (J)	17	J	z	1,6	J:z:1,6	17:z:1,6	I
+Doel	O:28 (M)	28	M	z	1,6	M:z:1,6	28:z:1,6	I
+Entebbe	O:4 (B)	1,4,12,27	B	z	z6	B:z:z6	1,4,12,27:z:z6	I
+Ezra	O:28 (M)	28	M	z	1,7	M:z:1,7	28:z:1,7	I
+Farmsen	O:13 (G)	13,23	G	z	1,6	G:z:1,6	13,23:z:1,6	I
+Fortlamy	O:16 (l)	16	I	z	1,6	I:z:1,6	16:z:1,6	I
+Fufu	O:3,10 (E1)	3,10	E	z	1,5	E:z:1,5	3,10:z:1,5	I
+Gerland	O:16 (l)	16	I	z	1,5	I:z:1,5	16:z:1,5	I
+Gori	O:17 (J)	17	J	z	1,2	J:z:1,2	17:z:1,2	I
+Harleystreet	O:3,10 (E1)	3,10	E	z	1,6	E:z:1,6	3,10:z:1,6	I
+Hohentwiel	O:30 (N)	30	N	z	e,n,x,z15	N:z:e,n,x,z15	30:z:e,n,x,z15	I
+Homosassa	O:6,14 (H)	1,6,14,25	H	z	1,5	H:z:1,5	1,6,14,25:z:1,5	I
+Hongkong	O:1,3,19 (E4)	1,3,19	E	z	z6	E:z:z6	1,3,19:z:z6	I
+Huddinge	O:3,10 (E1)	3,10	E	z	1,7	E:z:1,7	3,10:z:1,7	I
+II 1,4,12,27:z:1,5	O:4 (B)	1,4,12,27	B	z	1,5	B:z:1,5	1,4,12,27:z:1,5	II
+II 4,12:z:1,7	O:4 (B)	4,12	B	z	1,7	B:z:1,7	4,12:z:1,7	II
+II 1,4,12,27:z:e,n,x	O:4 (B)	1,4,12,27	B	z	e,n,x	B:z:e,n,x	1,4,12,27:z:e,n,x	II
+II 4,12:z:z39	O:4 (B)	4,12	B	z	z39	B:z:z39	4,12:z:z39	II
+II 6,7:z:1,5	O:7 (C1)	6,7	C1	z	1,5	C1:z:1,5	6,7:z:1,5	II
+II 6,7:z:e,n,x	O:7 (C1)	6,7	C1	z	e,n,x	C1:z:e,n,x	6,7:z:e,n,x	II
+II 6,7:z:z39	O:7 (C1)	6,7	C1	z	z39	C1:z:z39	6,7:z:z39	II
+II 6,7:z:z42	O:7 (C1)	6,7	C1	z	z42	C1:z:z42	6,7:z:z42	II
+II 6,7:z:z6	O:7 (C1)	6,7	C1	z	z6	C1:z:z6	6,7:z:z6	II
+II 6,8:z:1,5	O:8 (C2-C3)	6,8	C2-C3	z	1,5	C2-C3:z:1,5	6,8:z:1,5	II
+II 9,46:z:1,5	O:9,46 (D2)	9,46	D	z	1,5	D:z:1,5	9,46:z:1,5	II
+II 1,9,12:z:1,7	O:9 (D1)	1,9,12	D	z	1,7	D:z:1,7	1,9,12:z:1,7	II
+II 9,46:z:e,n,x	O:9,46 (D2)	9,46	D	z	e,n,x	D:z:e,n,x	9,46:z:e,n,x	II
+II 9,12:z:z39	O:9 (D1)	9,12	D	z	z39	D:z:z39	9,12:z:z39	II
+II 9,46:z:z39	O:9,46 (D2)	9,46	D	z	z39	D:z:z39	9,46:z:z39	II
+II 1,9,12:z:z6	O:9 (D1)	1,9,12	D	z	z6	D:z:z6	1,9,12:z:z6	II
+II 3,10:z:1,5	O:3,10 (E1)	3,10	E	z	1,5	E:z:1,5	3,10:z:1,5	II
+II 3,10:z:e,n,x	O:3,10 (E1)	3,10	E	z	e,n,x	E:z:e,n,x	3,10:z:e,n,x	II
+II 3,10:z:z39	O:3,10 (E1)	3,10	E	z	z39	E:z:z39	3,10:z:z39	II
+II 11:z:e,n,x	O:11 (F)	11	F	z	e,n,x	F:z:e,n,x	11:z:e,n,x	II
+II 11:z:z39	O:11 (F)	11	F	z	z39	F:z:z39	11:z:z39	II
+II 13,22:z:-	O:13 (G)	13,22	G	z	-	G:z:-	13,22:z:-	II
+II 1,13,23:z:1,5	O:13 (G)	1,13,23	G	z	1,5	G:z:1,5	1,13,23:z:1,5	II
+II 1,13,23:z:z42	O:13 (G)	1,13,23	G	z	z42	G:z:z42	1,13,23:z:z42	II
+II 16:z:e,n,x	O:16 (l)	16	I	z	e,n,x	I:z:e,n,x	16:z:e,n,x	II
+II 16:z:z42	O:16 (l)	16	I	z	z42	I:z:z42	16:z:z42	II
+II 17:z:1,7	O:17 (J)	17	J	z	1,7	J:z:1,7	17:z:1,7	II
+II 17:z:l,w	O:17 (J)	17	J	z	l,w	J:z:l,w	17:z:l,w	II
+II 21:z:-	O:21 (L)	21	L	z	-	L:z:-	21:z:-	II
+II 28:z:1,5	O:28 (M)	28	M	z	1,5	M:z:1,5	28:z:1,5	II
+II 28:z:z39	O:28 (M)	28	M	z	z39	M:z:z39	28:z:z39	II
+II 52:z:z39	O:52	52	O-52	z	z39	O-52:z:z39	52:z:z39	II
+II 53:z:1,5	O:53	53	O-53	z	1,5	O-53:z:1,5	53:z:1,5	II
+II 53:z:z6	O:53	53	O-53	z	z6	O-53:z:z6	53:z:z6	II
+II 56:z:z6	O:56	56	O-56	z	z6	O-56:z:z6	56:z:z6	II
+II 1,59:z:z6	O:59	1,59	O-59	z	z6	O-59:z:z6	1,59:z:z6	II
+II 60:z:e,n,x	O:60	60	O-60	z	e,n,x	O-60:z:e,n,x	60:z:e,n,x	II
+II 1,40:z:1,5	O:40 (R) 	1,40	R	z	1,5	R:z:1,5	1,40:z:1,5	II
+II 1,40:z:z39	O:40 (R) 	1,40	R	z	z39	R:z:z39	1,40:z:z39	II
+II 40:z:z42	O:40 (R) 	40	R	z	z42	R:z:z42	40:z:z42	II
+II 1,40:z:z6	O:40 (R) 	1,40	R	z	z6	R:z:z6	1,40:z:z6	II
+II 41:z:1,5	O:41 (S)	41	S	z	1,5	S:z:1,5	41:z:1,5	II
+II 42:z:1,5	O:42 (T)	42	T	z	1,5	T:z:1,5	42:z:1,5	II
+II 42:z:e,n,x,z15	O:42 (T)	42	T	z	e,n,x,z15	T:z:e,n,x,z15	42:z:e,n,x,z15	II
+II 42:z:z6	O:42 (T)	42	T	z	z6	T:z:z6	42:z:z6	II
+II 43:z:1,5	O:43 (U)	43	U	z	1,5	U:z:1,5	43:z:1,5	II
+II 45:z:1,5	O:45 (W)	45	W	z	1,5	W:z:1,5	45:z:1,5	II
+II 45:z:z39	O:45 (W)	45	W	z	z39	W:z:z39	45:z:z39	II
+II 47:z:e,n,x,z15	O:47 (X)	47	X	z	e,n,x,z15	X:z:e,n,x,z15	47:z:e,n,x,z15	II
+II 47:z:z6	O:47 (X)	47	X	z	z6	X:z:z6	47:z:z6	II
+II 48:z:1,5	O:48 (Y)1	48	Y	z	1,5	Y:z:1,5	48:z:1,5	II
+II 50:z:e,n,x	O:50 (Z)	50	Z	z	e,n,x	Z:z:e,n,x	50:z:e,n,x	II
+IIIb 13,23:z:1,5	O:13 (G)	13,23	G	z	1,5	G:z:1,5	13,23:z:1,5	IIIb
+IIIb 52:z:z52	O:52	52	O-52	z	z52	O-52:z:z52	52:z:z52	IIIb
+IIIb 53:z:1,5,(7)	O:53	53	O-53	z	1,5,(7)	O-53:z:1,5,(7)	53:z:1,5,(7)	IIIb
+IIIb 48:z:1,5,7	O:48 (Y)1	48	Y	z	1,5,7	Y:z:1,5,7	48:z:1,5,7	IIIb
+IIIb 50:z:z52	O:50 (Z)	50	Z	z	z52	Z:z:z52	50:z:z52	IIIb
+Indiana	O:4 (B)	1,4,12	B	z	1,7	B:z:1,7	1,4,12:z:1,7	I
+Ivrysurseine	O:13 (G)	1,13,23	G	z	z6	G:z:z6	1,13,23:z:z6	I
+Kainji	O:1,3,19 (E4)	1,3,19	E	z	1,6	E:z:1,6	1,3,19:z:1,6	I
+Kalumburu	O:8 (C2-C3)	6,8	C2-C3	z	e,n,z15	C2-C3:z:e,n,z15	6,8:z:e,n,z15	I
+Kanifing	O:6,14 (H)	1,6,14,25	H	z	1,6	H:z:1,6	1,6,14,25:z:1,6	I
+Kaolack	O:47 (X)	47	X	z	1,6	X:z:1,6	47:z:1,6	I
+Kassel	O:16 (l)	16	I	z	e,n,x	I:z:e,n,x	16:z:e,n,x	I
+Kiambu	O:4 (B)	1,4,12	B	z	1,5	B:z:1,5	1,4,12:z:1,5	I
+Kimpese	O:9 (D1)	9,12	D	z	1,6	D:z:1,6	9,12:z:1,6	I
+Koenigstuhl	O:4 (B)	1,4,[5],12	B	z	e,n,z15	B:z:e,n,z15	1,4,[5],12:z:e,n,z15	I
+Korlebu	O:1,3,19 (E4)	1,3,19	E	z	1,5	E:z:1,5	1,3,19:z:1,5	I
+Kuru	O:8 (C2-C3)	6,8	C2-C3	z	l,w	C2-C3:z:l,w	6,8:z:l,w	I
+Landwasser	O:3,10 (E1)	3,10	E	z	z6	E:z:z6	3,10:z:z6	I
+Lawndale	O:9 (D1)	1,9,12	D	z	1,5	D:z:1,5	1,9,12:z:1,5	I
+Lechler	O:51	51	O-51	z	e,n,z15	O-51:z:e,n,z15	51:z:e,n,z15	I
+Lerum	O:1,3,19 (E4)	1,3,19	E	z	1,7	E:z:1,7	1,3,19:z:1,7	I
+Lingwala	O:16 (l)	16	I	z	1,7	I:z:1,7	16:z:1,7	I
+Loubomo	O:4 (B)	4,12	B	z	1,6	B:z:1,6	4,12:z:1,6	I
+Marmande	O:8 (C2-C3)	6,8	C2-C3	z	1,7	C2-C3:z:1,7	6,8:z:1,7	I
+Maroua	O:11 (F)	11	F	z	1,7	F:z:1,7	11:z:1,7	I
+Melbourne	O:42 (T)	42	T	z	e,n,z15	T:z:e,n,z15	42:z:e,n,z15	I
+Mountpleasant	O:47 (X)	47	X	z	1,5	X:z:1,5	47:z:1,5	I
+Mowanjum	O:8 (C2-C3)	6,8	C2-C3	z	1,5	C2-C3:z:1,5	6,8:z:1,5	I
+Mulhouse	O:9 (D1)	1,9,12	D	z	1,2	D:z:1,2	1,9,12:z:1,2	I
+Neftenbach	O:4 (B)	4,12	B	z	e,n,x	B:z:e,n,x	4,12:z:e,n,x	I
+Nowawes	O:40 (R) 	40	R	z	z6	R:z:z6	40:z:z6	I
+Nyanza	O:11 (F)	11	F	z	z6	F:z:z6	11:z:z6	I
+Oakland	O:7 (C1)	6,7	C1	z	1,6,[7]	C1:z:1,6,[7]	6,7:z:1,6,[7]	I
+Ogbete	O:43 (U)	43	U	z	1,5	U:z:1,5	43:z:1,5	I
+Phaliron	O:8 (C2-C3)	8	C2-C3	z	e,n,z15	C2-C3:z:e,n,z15	8:z:e,n,z15	I
+Poano	O:6,14 (H)	[1],6,14,[25]	H	z	l,z13,z28	H:z:l,z13,z28	[1],6,14,[25]:z:l,z13,z28	I
+Poitiers	O:7 (C1)	6,7	C1	z	1,5	C1:z:1,5	6,7:z:1,5	I
+Poona	O:13 (G)	1,13,22	G	z	1,6	G:z:1,6	1,13,22:z:1,6	I
+Potengi	O:18 (K)	18	K	z	-	K:z:-	18:z:-	I
+Preston	O:4 (B)	1,4,12	B	z	l,w	B:z:l,w	1,4,12:z:l,w	I
+Royan	O:6,14 (H)	1,6,14,25	H	z	e,n,z15	H:z:e,n,z15	1,6,14,25:z:e,n,z15	I
+Sally	O:41 (S)	41	S	z	1,6	S:z:1,6	41:z:1,6	I
+Schoeneberg	O:1,3,19 (E4)	1,3,19	E	z	e,n,z15	E:z:e,n,z15	1,3,19:z:e,n,z15	I
+Shubra	O:4 (B)	4,[5],12	B	z	1,2	B:z:1,2	4,[5],12:z:1,2	I
+Soahanina	O:6,14 (H)	6,14,24	H	z	e,n,x	H:z:e,n,x	6,14,24:z:e,n,x	I
+Stachus	O:38 (P)	38	P	z	-	P:z:-	38:z:-	I
+Sundsvall	O:6,14 (H)	[1],6,14,[25]	H	z	e,n,x	H:z:e,n,x	[1],6,14,[25]:z:e,n,x	I
+Tanzania	O:13 (G)	1,13,22	G	z	e,n,z15	G:z:e,n,z15	1,13,22:z:e,n,z15	I
+Tchamba	O:17 (J)	17	J	z	e,n,z15	J:z:e,n,z15	17:z:e,n,z15	I
+Toucra	O:48 (Y)1	48	Y	z	1,5	Y:z:1,5	48:z:1,5	I
+Treforest	O:51	1,51	O-51	z	1,6	O-51:z:1,6	1,51:z:1,6	I
+Uhlenhorst	O:44 (V)	44	V	z	l,w	V:z:l,w	44:z:l,w	I
+Ursenbach	O:42 (T)	1,42	T	z	1,6	T:z:1,6	1,42:z:1,6	I
+Vanier	O:28 (M)	28	M	z	1,5	M:z:1,5	28:z:1,5	I
+Warengo	O:17 (J)	17	J	z	1,5	J:z:1,5	17:z:1,5	I
+Winslow	O:13 (G)	13,22	G	z	1,5	G:z:1,5	13,22:z:1,5	I
+Worthington	O:13 (G)	1,13,23	G	z	l,w	G:z:l,w	1,13,23:z:l,w	I
+Yopougon	O:45 (W)	45	W	z	e,n,z15	W:z:e,n,z15	45:z:e,n,z15	I
+Adana	O:43 (U)	43	U	z10	1,5	U:z10:1,5	43:z10:1,5	I
+Albert	O:4 (B)	4,12	B	z10	e,n,x	B:z10:e,n,x	4,12:z10:e,n,x	I
+Angouleme	O:16 (l)	16	I	z10	z6	I:z10:z6	16:z10:z6	I
+Aprad	O:45 (W)	45	W	z10	-	W:z10:-	45:z10:-	I
+Badagry	O:16 (l)	16	I	z10	1,5	I:z10:1,5	16:z10:1,5	I
+Barry	O:54	54	O-54	z10	e,n,z15	O-54:z10:e,n,z15	54:z10:e,n,z15	I
+Bazenheid	O:8 (C2-C3)	8,20	C2-C3	z10	1,2	C2-C3:z10:1,2	8,20:z10:1,2	I
+Bergues	O:51	51	O-51	z10	1,5	O-51:z10:1,5	51:z10:1,5	I
+Biafra	O:3,10 (E1)	3,10	E	z10	z6	E:z10:z6	3,10:z10:z6	I
+Camberene	O:35 (O)	35	O	z10	1,5	O:z10:1,5	35:z10:1,5	I
+Canton	O:54	54	O-54	z10	e,n,x	O-54:z10:e,n,x	54:z10:e,n,x	I
+Carnac	O:18 (K)	18	K	z10	z6	K:z10:z6	18:z10:z6	I
+Chomedey	O:8 (C2-C3)	8,20	C2-C3	z10	e,n,z15	C2-C3:z10:e,n,z15	8,20:z10:e,n,z15	I
+Cleveland	O:8 (C2-C3)	6,8	C2-C3	z10	1,7	C2-C3:z10:1,7	6,8:z10:1,7	I
+Coquilhatville	O:3,10 (E1)	3,10	E	z10	1,7	E:z10:1,7	3,10:z10:1,7	I
+Dallgow	O:1,3,19 (E4)	1,3,19	E	z10	e,n,z15	E:z10:e,n,z15	1,3,19:z10:e,n,z15	I
+Demerara	O:13 (G)	13,23	G	z10	l,w	G:z10:l,w	13,23:z10:l,w	I
+Djibouti	O:17 (J)	17	J	z10	e,n,x	J:z10:e,n,x	17:z10:e,n,x	I
+Djugu	O:7 (C1)	6,7	C1	z10	e,n,x	C1:z10:e,n,x	6,7:z10:e,n,x	I
+Enschede	O:35 (O)	35	O	z10	l,w	O:z10:l,w	35:z10:l,w	I
+Eschweiler	O:7 (C1)	6,7	C1	z10	1,6	C1:z10:1,6	6,7:z10:1,6	I
+Farakan	O:28 (M)	28	M	z10	1,5	M:z10:1,5	28:z10:1,5	I
+Fortune	O:4 (B)	1,4,12,[27]	B	z10	z6	B:z10:z6	1,4,12,[27]:z10:z6	I
+Glostrup	O:8 (C2-C3)	6,8	C2-C3	z10	e,n,z15	C2-C3:z10:e,n,z15	6,8:z10:e,n,z15	I
+Guinea	O:44 (V)	1,44	V	z10	1,7	V:z10:1,7	1,44:z10:1,7	I
+Hadar	O:8 (C2-C3)	6,8	C2-C3	z10	e,n,x	C2-C3:z10:e,n,x	6,8:z10:e,n,x	I
+Haifa	O:4 (B)	1,4,[5],12	B	z10	1,2	B:z10:1,2	1,4,[5],12:z10:1,2	I
+Harrisonburg	O:3,10 (E1)	3,{10}{15}{15,34}	E	z10	1,6	E:z10:1,6	3,{10}{15}{15,34}:z10:1,6	I
+Hegau	O:39 (Q)	39	Q	z10	-	Q:z10:-	39:z10:-	I
+II 1,9,12,46,27:z10:1,5	O:9,46,27 (D3)	1,9,12,46,27	D	z10	1,5	D:z10:1,5	1,9,12,46,27:z10:1,5	II
+II 1,9,12,46,27:z10:e,n,x	O:9,46,27 (D3)	1,9,12,46,27	D	z10	e,n,x	D:z10:e,n,x	1,9,12,46,27:z10:e,n,x	II
+II 9,46:z10:z39	O:9,46 (D2)	9,46	D	z10	z39	D:z10:z39	9,46:z10:z39	II
+II 1,9,12,46,27:z10:z39	O:9,46,27 (D3)	1,9,12,46,27	D	z10	z39	D:z10:z39	1,9,12,46,27:z10:z39	II
+II 9,46:z10:z6	O:9,46 (D2)	9,46	D	z10	z6	D:z10:z6	9,46:z10:z6	II
+II 1,13,22:z10:z6	O:13 (G)	1,13,22	G	z10	z6	G:z10:z6	1,13,22:z10:z6	II
+II 1,6,14:z10:1,5	O:6,14 (H)	1,6,14	H	z10	1,5	H:z10:1,5	1,6,14:z10:1,5	II
+II 1,6,14:z10:z6	O:6,14 (H)	1,6,14	H	z10	z6	H:z10:z6	1,6,14:z10:z6	II
+II 17:z10:-	O:17 (J)	17	J	z10	-	J:z10:-	17:z10:-	II
+II 18:z10:z6	O:18 (K)	18	K	z10	z6	K:z10:z6	18:z10:z6	II
+II 21:z10:-	O:21 (L)	21	L	z10	-	L:z10:-	21:z10:-	II
+II 21:z10:z6	O:21 (L)	21	L	z10	z6	L:z10:z6	21:z10:z6	II
+II 30:z10:e,n,x,z15	O:30 (N)	30	N	z10	e,n,x,z15	N:z10:e,n,x,z15	30:z10:e,n,x,z15	II
+II 56:z10:e,n,x	O:56	56	O-56	z10	e,n,x	O-56:z10:e,n,x	56:z10:e,n,x	II
+II 58:z10:1,6	O:58	58	O-58	z10	1,6	O-58:z10:1,6	58:z10:1,6	II
+II 58:z10:z6	O:58	58	O-58	z10	z6	O-58:z10:z6	58:z10:z6	II
+II 39:z10:z6	O:39 (Q)	39	Q	z10	z6	Q:z10:z6	39:z10:z6	II
+II 40:z10:e,n,x	O:40 (R) 	40	R	z10	e,n,x	R:z10:e,n,x	40:z10:e,n,x	II
+II 41:z10:1,2	O:41 (S)	41	S	z10	1,2	S:z10:1,2	41:z10:1,2	II
+II 41:z10:e,n,x,z15	O:41 (S)	41	S	z10	e,n,x,z15	S:z10:e,n,x,z15	41:z10:e,n,x,z15	II
+II 41:z10:z6	O:41 (S)	41	S	z10	z6	S:z10:z6	41:z10:z6	II
+II 42:z10:1,2	O:42 (T)	42	T	z10	1,2	T:z10:1,2	42:z10:1,2	II
+II 42:z10:e,n,x,z15	O:42 (T)	42	T	z10	e,n,x,z15	T:z10:e,n,x,z15	42:z10:e,n,x,z15	II
+II 42:z10:z6	O:42 (T)	42	T	z10	z6	T:z10:z6	42:z10:z6	II
+II 48:z10:-	O:48 (Y)1	48	Y	z10	-	Y:z10:-	48:z10:-	II
+II 48:z10:1,5	O:48 (Y)1	48	Y	z10	1,5	Y:z10:1,5	48:z10:1,5	II
+II 48:z10:1,6	O:48 (Y)1	48	Y	z10	1,6	Y:z10:1,6	48:z10:1,6	II
+II 50:z10:z6	O:50 (Z)	50	Z	z10	z6	Z:z10:z6	50:z10:z6	II
+IIIb (6),14:z10:e,n,x,z15	O:6,14 (H)	(6),14	H	z10	e,n,x,z15	H:z10:e,n,x,z15	(6),14:z10:e,n,x,z15	IIIb
+IIIb (6),14:z10:z	O:6,14 (H)	(6),14	H	z10	z	H:z10:z	(6),14:z10:z	IIIb
+IIIb 6,14:z10:z53	O:6,14 (H)	6,14	H	z10	z53	H:z10:z53	6,14:z10:z53	IIIb
+IIIb 16:z10:1,7	O:16 (l)	16	I	z10	1,7	I:z10:1,7	16:z10:1,7	IIIb
+IIIb 16:z10:e,n,x,z15	O:16 (l)	16	I	z10	e,n,x,z15	I:z10:e,n,x,z15	16:z10:e,n,x,z15	IIIb
+IIIb 17:z10:e,n,x,z15	O:17 (J)	17	J	z10	e,n,x,z15	J:z10:e,n,x,z15	17:z10:e,n,x,z15	IIIb
+IIIb 17:z10:z	O:17 (J)	17	J	z10	z	J:z10:z	17:z10:z	IIIb
+IIIb 18:z10:e,n,x,z15	O:18 (K)	18	K	z10	e,n,x,z15	K:z10:e,n,x,z15	18:z10:e,n,x,z15	IIIb
+IIIb 21:z10:e,n,x,z15	O:21 (L)	21	L	z10	e,n,x,z15	L:z10:e,n,x,z15	21:z10:e,n,x,z15	IIIb
+IIIb 21:z10:z	O:21 (L)	21	L	z10	z	L:z10:z	21:z10:z	IIIb
+IIIb 21:z10:z53	O:21 (L)	21	L	z10	z53	L:z10:z53	21:z10:z53	IIIb
+IIIb 28:z10:z	O:28 (M)	28	M	z10	z	M:z10:z	28:z10:z	IIIb
+IIIb 53:z10:z	O:53	53	O-53	z10	z	O-53:z10:z	53:z10:z	IIIb
+IIIb 53:z10:z35	O:53	53	O-53	z10	z35	O-53:z10:z35	53:z10:z35	IIIb
+IIIb 57:z10:z	O:57	57	O-57	z10	z	O-57:z10:z	57:z10:z	IIIb
+IIIb 58:z10:e,n,x,z15	O:58	58	O-58	z10	e,n,x,z15	O-58:z10:e,n,x,z15	58:z10:e,n,x,z15	IIIb
+IIIb 58:z10:z53	O:58	58	O-58	z10	z53	O-58:z10:z53	58:z10:z53	IIIb
+IIIb 59:z10:z53	O:59	59	O-59	z10	z53	O-59:z10:z53	59:z10:z53	IIIb
+IIIb 59:z10:z57	O:59	59	O-59	z10	z57	O-59:z10:z57	59:z10:z57	IIIb
+IIIb 60:z10:z	O:60	60	O-60	z10	z	O-60:z10:z	60:z10:z	IIIb
+IIIb 60:z10:z35	O:60	60	O-60	z10	z35	O-60:z10:z35	60:z10:z35	IIIb
+IIIb 60:z10:z53	O:60	60	O-60	z10	z53	O-60:z10:z53	60:z10:z53	IIIb
+IIIb 61:z10:z35	O:61	61	O-61	z10	z35	O-61:z10:z35	61:z10:z35	IIIb
+IIIb 65:z10:e,n,x,z15	O:65	65	O-65	z10	e,n,x,z15	O-65:z10:e,n,x,z15	65:z10:e,n,x,z15	IIIb
+IIIb 65:z10:z	O:65	65	O-65	z10	z	O-65:z10:z	65:z10:z	IIIb
+IIIb 35:z10:z35	O:35 (O)	35	O	z10	z35	O:z10:z35	35:z10:z35	IIIb
+IIIb 38:z10:z	O:38 (P)	38	P	z10	z	P:z10:z	38:z10:z	IIIb
+IIIb 38:z10:z53	O:38 (P)	38	P	z10	z53	P:z10:z53	38:z10:z53	IIIb
+IIIb 40:z10:z35	O:40 (R) 	40	R	z10	z35	R:z10:z35	40:z10:z35	IIIb
+IIIb 42:z10:e,n,x,z15	O:42 (T)	42	T	z10	e,n,x,z15	T:z10:e,n,x,z15	42:z10:e,n,x,z15	IIIb
+IIIb 42:z10:z	O:42 (T)	42	T	z10	z	T:z10:z	42:z10:z	IIIb
+IIIb 42:z10:z35	O:42 (T)	42	T	z10	z35	T:z10:z35	42:z10:z35	IIIb
+IIIb 42:z10:z67	O:42 (T)	42	T	z10	z67	T:z10:z67	42:z10:z67	IIIb
+IIIb 47:z10:1,5,7	O:47 (X)	47	X	z10	1,5,7	X:z10:1,5,7	47:z10:1,5,7	IIIb
+IIIb 47:z10:z	O:47 (X)	47	X	z10	z	X:z10:z	47:z10:z	IIIb
+IIIb 47:z10:z35	O:47 (X)	47	X	z10	z35	X:z10:z35	47:z10:z35	IIIb
+IIIb 48:z10:e,n,x,z15	O:48 (Y)1	48	Y	z10	e,n,x,z15	Y:z10:e,n,x,z15	48:z10:e,n,x,z15	IIIb
+IIIb 48:z10:z	O:48 (Y)1	48	Y	z10	z	Y:z10:z	48:z10:z	IIIb
+IIIb 50:z10:z	O:50 (Z)	50	Z	z10	z	Z:z10:z	50:z10:z	IIIb
+IIIb 50:z10:z53	O:50 (Z)	50	Z	z10	z53	Z:z10:z53	50:z10:z53	IIIb
+Inganda	O:7 (C1)	6,7	C1	z10	1,5	C1:z10:1,5	6,7:z10:1,5	I
+Inglis	O:9,46 (D2)	9,46	D	z10	e,n,x	D:z10:e,n,x	9,46:z10:e,n,x	I
+Inpraw	O:41 (S)	41	S	z10	e,n,x	S:z10:e,n,x	41:z10:e,n,x	I
+Isaszeg	O:48 (Y)1	48	Y	z10	e,n,x	Y:z10:e,n,x	48:z10:e,n,x	I
+Istanbul	O:8 (C2-C3)	8	C2-C3	z10	e,n,x	C2-C3:z10:e,n,x	8:z10:e,n,x	I
+Ituri	O:4 (B)	1,4,12	B	z10	1,5	B:z10:1,5	1,4,12:z10:1,5	I
+Jerusalem	O:7 (C1)	6,7,14	C1	z10	l,w	C1:z10:l,w	6,7,14:z10:l,w	I
+Kristianstad	O:3,10 (E1)	3,10	E	z10	e,n,z15	E:z10:e,n,z15	3,10:z10:e,n,z15	I
+Kumasi	O:30 (N)	30	N	z10	e,n,z15	N:z10:e,n,z15	30:z10:e,n,z15	I
+Landala	O:41 (S)	41	S	z10	1,6	S:z10:1,6	41:z10:1,6	I
+Laredo	O:6,14 (H)	1,6,14,25	H	z10	1,6	H:z10:1,6	1,6,14,25:z10:1,6	I
+Leer	O:18 (K)	18	K	z10	1,5	K:z10:1,5	18:z10:1,5	I
+Leipzig	O:41 (S)	41	S	z10	1,5	S:z10:1,5	41:z10:1,5	I
+Lexington	O:3,10 (E1)	3,{10}{15}{15,34}	E	z10	1,5	E:z10:1,5	3,{10}{15}{15,34}:z10:1,5	I
+Libreville	O:28 (M)	28	M	z10	1,6	M:z10:1,6	28:z10:1,6	I
+Ligna	O:35 (O)	35	O	z10	z6	O:z10:z6	35:z10:z6	I
+Lisboa	O:16 (l)	16	I	z10	1,6	I:z10:1,6	16:z10:1,6	I
+Lishabi	O:9,46 (D2)	9,46	D	z10	1,7	D:z10:1,7	9,46:z10:1,7	I
+Llobregat	O:44 (V)	1,44	V	z10	e,n,x	V:z10:e,n,x	1,44:z10:e,n,x	I
+Loenga	O:42 (T)	1,42	T	z10	z6	T:z10:z6	1,42:z10:z6	I
+Louisiana	O:9,46 (D2)	9,46	D	z10	z6	D:z10:z6	9,46:z10:z6	I
+Luckenwalde	O:28 (M)	28	M	z10	e,n,z15	M:z10:e,n,z15	28:z10:e,n,z15	I
+Mahina	O:9,46 (D2)	9,46	D	z10	e,n,z15	D:z10:e,n,z15	9,46:z10:e,n,z15	I
+Malaysia	O:28 (M)	28	M	z10	1,7	M:z10:1,7	28:z10:1,7	I
+Mapo	O:8 (C2-C3)	6,8	C2-C3	z10	1,5	C2-C3:z10:1,5	6,8:z10:1,5	I
+Mbandaka	O:7 (C1)	6,7,14	C1	z10	e,n,z15	C1:z10:e,n,z15	6,7,14:z10:e,n,z15	I
+Menden	O:7 (C1)	6,7	C1	z10	1,2	C1:z10:1,2	6,7:z10:1,2	I
+Molade	O:8 (C2-C3)	8,20	C2-C3	z10	z6	C2-C3:z10:z6	8,20:z10:z6	I
+Moroto	O:28 (M)	28	M	z10	l,w	M:z10:l,w	28:z10:l,w	I
+Mura	O:4 (B)	1,4,12	B	z10	l,w	B:z10:l,w	1,4,12:z10:l,w	I
+Namoda	O:47 (X)	47	X	z10	e,n,z15	X:z10:e,n,z15	47:z10:e,n,z15	I
+Nessa	O:6,14 (H)	1,6,14,25	H	z10	1,2	H:z10:1,2	1,6,14,25:z10:1,2	I
+Neunkirchen	O:38 (P)	38	P	z10	-	P:z10:-	38:z10:-	I
+Neunkirchen	O:38 (P)	38	P	z10	1,5	P:z10:1,5	38:z10:1,5	I
+Ngili	O:7 (C1)	6,7	C1	z10	1,7	C1:z10:1,7	6,7:z10:1,7	I
+Okerara	O:3,10 (E1)	3,10	E	z10	1,2	E:z10:1,2	3,10:z10:1,2	I
+Omuna	O:7 (C1)	6,7	C1	z10	z35	C1:z10:z35	6,7:z10:z35	I
+Paris	O:8 (C2-C3)	8,20	C2-C3	z10	1,5	C2-C3:z10:1,5	8,20:z10:1,5	I
+Podiensis	O:3,10 (E1)	3,10	E	z10	e,n,x	E:z10:e,n,x	3,10:z10:e,n,x	I
+Portland	O:9 (D1)	9,12	D	z10	1,5	D:z10:1,5	9,12:z10:1,5	I
+Redba	O:7 (C1)	6,7	C1	z10	z6	C1:z10:z6	6,7:z10:z6	I
+Redlands	O:16 (l)	16	I	z10	e,n,z15	I:z10:e,n,z15	16:z10:e,n,z15	I
+Remiremont	O:8 (C2-C3)	8,20	C2-C3	z10	l,w	C2-C3:z10:l,w	8,20:z10:l,w	I
+Rogy	O:28 (M)	28	M	z10	1,2	M:z10:1,2	28:z10:1,2	I
+Roodepoort	O:13 (G)	1,13,22	G	z10	1,5	G:z10:1,5	1,13,22:z10:1,5	I
+Ruanda	O:9 (D1)	9,12	D	z10	e,n,z15	D:z10:e,n,z15	9,12:z10:e,n,z15	I
+Sada	O:30 (N)	30	N	z10	1,2	N:z10:1,2	30:z10:1,2	I
+Sapele	O:13 (G)	13,23	G	z10	e,n,z15	G:z10:e,n,z15	13,23:z10:e,n,z15	I
+Senneville	O:30 (N)	30	N	z10	1,5	N:z10:1,5	30:z10:1,5	I
+Straengnaes	O:11 (F)	11	F	z10	1,5	F:z10:1,5	11:z10:1,5	I
+Telhashomer	O:11 (F)	11	F	z10	e,n,x	F:z10:e,n,x	11:z10:e,n,x	I
+Tokoin	O:4 (B)	4,12	B	z10	e,n,z15	B:z10:e,n,z15	4,12:z10:e,n,z15	I
+Treguier	O:9 (D1)	9,12	D	z10	z6	D:z10:z6	9,12:z10:z6	I
+Trotha	O:40 (R) 	40	R	z10	z6	R:z10:z6	40:z10:z6	I
+Tudu	O:4 (B)	4,12	B	z10	1,6	B:z10:1,6	4,12:z10:1,6	I
+Umbilo	O:28 (M)	28	M	z10	e,n,x	M:z10:e,n,x	28:z10:e,n,x	I
+Vellore	O:4 (B)	1,4,12,27	B	z10	z35	B:z10:z35	1,4,12,27:z10:z35	I
+VI 1,6,14,25:z10:1,(2),7	O:6,14 (H)	1,6,14,25	H	z10	1,(2),7	H:z10:1,(2),7	1,6,14,25:z10:1,(2),7	VI
+VI 48:z10:1,5	O:48 (Y)1	48	Y	z10	1,5	Y:z10:1,5	48:z10:1,5	VI
+Wentworth	O:11 (F)	11	F	z10	1,2	F:z10:1,2	11:z10:1,2	I
+Wippra	O:8 (C2-C3)	6,8	C2-C3	z10	z6	C2-C3:z10:z6	6,8:z10:z6	I
+Yenne	O:1,3,19 (E4)	1,3,19	E	z10	1,5	E:z10:1,5	1,3,19:z10:1,5	I
+Zerifin	O:8 (C2-C3)	6,8	C2-C3	z10	1,2	C2-C3:z10:1,2	6,8:z10:1,2	I
+Agoueve	O:13 (G)	13,22	G	z29	-	G:z29:-	13,22:z29:-	I
+Aragua	O:30 (N)	30	N	z29	-	N:z29:-	30:z29:-	I
+Brancaster	O:4 (B)	1,4,12,27	B	z29	-	B:z29:-	1,4,12,27:z29:-	I
+Cubana	O:13 (G)	1,13,23	G	z29	-	G:z29:-	1,13,23:z29:-	I
+Djama	O:42 (T)	1,42	T	z29	-	T:z29:-	1,42:z29:-	I
+Djama	O:42 (T)	1,42	T	z29	1,5	T:z29:1,5	1,42:z29:1,5	I
+Djermaia	O:28 (M)	28	M	z29	-	M:z29:-	28:z29:-	I
+Ekpoui	O:47 (X)	47	X	z29	-	X:z29:-	47:z29:-	I
+Everleigh	O:3,10 (E1)	3,10	E	z29	e,n,x	E:z29:e,n,x	3,10:z29:e,n,x	I
+II 1,4,12:z29:e,n,x	O:4 (B)	1,4,12	B	z29	e,n,x	B:z29:e,n,x	1,4,12:z29:e,n,x	II
+II 6,7:z29:-	O:7 (C1)	6,7	C1	z29	-	C1:z29:-	6,7:z29:-	II
+II 6,7:z29:z42	O:7 (C1)	6,7	C1	z29	z42	C1:z29:z42	6,7:z29:z42	II
+II 6,8:z29:1,5	O:8 (C2-C3)	6,8	C2-C3	z29	1,5	C2-C3:z29:1,5	6,8:z29:1,5	II
+II 6,8:z29:e,n,x	O:8 (C2-C3)	6,8	C2-C3	z29	e,n,x	C2-C3:z29:e,n,x	6,8:z29:e,n,x	II
+II 6,8:z29:e,n,x	O:8 (C2-C3)	6,8	C2-C3	z29	e,n,x	C2-C3:z29:e,n,x	6,8:z29:e,n,x	II
+II 9,12:z29:1,5	O:9 (D1)	9,12	D	z29	1,5	D:z29:1,5	9,12:z29:1,5	II
+II 1,9,12:z29:e,n,x	O:9 (D1)	1,9,12	D	z29	e,n,x	D:z29:e,n,x	1,9,12:z29:e,n,x	II
+II 3,10:z29:-	O:3,10 (E1)	3,10	E	z29	-	E:z29:-	3,10:z29:-	II
+II 3,10:z29:e,n,x	O:3,10 (E1)	3,10	E	z29	e,n,x	E:z29:e,n,x	3,10:z29:e,n,x	II
+II 13,22:z29:1,5	O:13 (G)	13,22	G	z29	1,5	G:z29:1,5	13,22:z29:1,5	II
+II 1,13,23:z29:1,5	O:13 (G)	1,13,23	G	z29	1,5	G:z29:1,5	1,13,23:z29:1,5	II
+II 13,22:z29:e,n,x	O:13 (G)	13,22	G	z29	e,n,x	G:z29:e,n,x	13,22:z29:e,n,x	II
+II 1,13,23:z29:e,n,x	O:13 (G)	1,13,23	G	z29	e,n,x	G:z29:e,n,x	1,13,23:z29:e,n,x	II
+II 16:z29:1,5	O:16 (l)	16	I	z29	1,5	I:z29:1,5	16:z29:1,5	II
+II 16:z29:e,n,x	O:16 (l)	16	I	z29	e,n,x	I:z29:e,n,x	16:z29:e,n,x	II
+II 28:z29:1,5	O:28 (M)	28	M	z29	1,5	M:z29:1,5	28:z29:1,5	II
+II 28:z29:e,n,x	O:28 (M)	28	M	z29	e,n,x	M:z29:e,n,x	28:z29:e,n,x	II
+II 51:z29:e,n,x,z15	O:51	51	O-51	z29	e,n,x,z15	O-51:z29:e,n,x,z15	51:z29:e,n,x,z15	II
+II 57:z29:z42	O:57	57	O-57	z29	z42	O-57:z29:z42	57:z29:z42	II
+II 60:z29:e,n,x	O:60	60	O-60	z29	e,n,x	O-60:z29:e,n,x	60:z29:e,n,x	II
+II 35:z29:e,n,x	O:35 (O)	35	O	z29	e,n,x	O:z29:e,n,x	35:z29:e,n,x	II
+II 42:z29:-	O:42 (T)	42	T	z29	-	T:z29:-	42:z29:-	II
+II 43:z29:e,n,x	O:43 (U)	43	U	z29	e,n,x	U:z29:e,n,x	43:z29:e,n,x	II
+II 43:z29:z42	O:43 (U)	43	U	z29	z42	U:z29:z42	43:z29:z42	II
+II 44:z29:e,n,x	O:44 (V)	44	V	z29	e,n,x	V:z29:e,n,x	44:z29:e,n,x	II
+II 45:z29:1,5	O:45 (W)	45	W	z29	1,5	W:z29:1,5	45:z29:1,5	II
+II 45:z29:e,n,x	O:45 (W)	45	W	z29	e,n,x	W:z29:e,n,x	45:z29:e,n,x	II
+II 45:z29:z42	O:45 (W)	45	W	z29	z42	W:z29:z42	45:z29:z42	II
+II 47:z29:e,n,x,z15	O:47 (X)	47	X	z29	e,n,x,z15	X:z29:e,n,x,z15	47:z29:e,n,x,z15	II
+II 48:z29:-	O:48 (Y)1	48	Y	z29	-	Y:z29:-	48:z29:-	II
+IIIa 17:z29:-	O:17 (J)	17	J	z29	-	J:z29:-	17:z29:-	IIIa
+IIIa 21:z29:-	O:21 (L)	21	L	z29	-	L:z29:-	21:z29:-	IIIa
+IIIa 53:z29:-	O:53	53	O-53	z29	-	O-53:z29:-	53:z29:-	IIIa
+IIIa 56:z29:-	O:56	56	O-56	z29	-	O-56:z29:-	56:z29:-	IIIa
+IIIa 59:z29:-	O:59	59	O-59	z29	-	O-59:z29:-	59:z29:-	IIIa
+IIIa 62:z29:-	O:62	62	O-62	z29	-	O-62:z29:-	62:z29:-	IIIa
+IIIa 35:z29:-	O:35 (O)	35	O	z29	-	O:z29:-	35:z29:-	IIIa
+IIIa 40:z29:-	O:40 (R) 	40	R	z29	-	R:z29:-	40:z29:-	IIIa
+IIIa 41:z29:-	O:41 (S)	41	S	z29	-	S:z29:-	41:z29:-	IIIa
+IIIa 43:z29:-	O:43 (U)	43	U	z29	-	U:z29:-	43:z29:-	IIIa
+IIIa 45:z29:-	O:45 (W)	45	W	z29	-	W:z29:-	45:z29:-	IIIa
+IIIa 47:z29:-	O:47 (X)	47	X	z29	-	X:z29:-	47:z29:-	IIIa
+IIIa 48:z29:-	O:48 (Y)1	48	Y	z29	-	Y:z29:-	48:z29:-	IIIa
+IIIa 50:z29:-	O:50 (Z)	50	Z	z29	-	Z:z29:-	50:z29:-	IIIa
+IV 17:z29:-	O:17 (J)	17	J	z29	-	J:z29:-	17:z29:-	IV
+IV 41:z29:-	O:41 (S)	41	S	z29	-	S:z29:-	41:z29:-	IV
+IV 43:z29:-	O:43 (U)	43	U	z29	-	U:z29:-	43:z29:-	IV
+IV 44:z29:-	O:44 (V)	44	V	z29	-	V:z29:-	44:z29:-	IV
+IV 48:z29:-	O:48 (Y)1	48	Y	z29	-	Y:z29:-	48:z29:-	IV
+Ivorycoast	O:50 (Z)	50	Z	z29	-	Z:z29:-	50:z29:-	I
+Jedburgh	O:3,10 (E1)	3,{10}{15}	E	z29	-	E:z29:-	3,{10}{15}:z29:-	I
+Jodhpur	O:45 (W)	45	W	z29	-	W:z29:-	45:z29:-	I
+Kandla	O:17 (J)	17	J	z29	-	J:z29:-	17:z29:-	I
+Llandoff	O:1,3,19 (E4)	1,3,19	E	z29	-	E:z29:-	1,3,19:z29:-	I
+Llandoff	O:1,3,19 (E4)	1,3,19	E	z29	z6	E:z29:z6	1,3,19:z29:z6	I
+Lodz	O:41 (S)	41	S	z29	-	S:z29:-	41:z29:-	I
+Makiling	O:43 (U)	43	U	z29	-	U:z29:-	43:z29:-	I
+Mundubbera	O:54	54	O-54	z29	-	O-54:z29:-	54:z29:-	I
+Omifisan	O:40 (R) 	1,40	R	z29	-	R:z29:-	1,40:z29:-	I
+Ouakam	O:9,46 (D2)	9,46	D	z29	-	D:z29:-	9,46:z29:-	I
+Saloniki	O:16 (l)	16	I	z29	-	I:z29:-	16:z29:-	I
+Tamale	O:8 (C2-C3)	8,20	C2-C3	z29	-	C2-C3:z29:-	8,20:z29:-	I
+Tamale	O:8 (C2-C3)	8,20	C2-C3	z29	e,n,z15	C2-C3:z29:e,n,z15	8,20:z29:e,n,z15	I
+Tennessee	O:7 (C1)	6,7,14	C1	z29	-	C1:z29:-	6,7,14:z29:-	I
+Tennessee	O:7 (C1)	6,7,14	C1	z29	1,2	C1:z29:1,2,7	6,7,14:z29:1,2,7	I
+Uno	O:8 (C2-C3)	6,8	C2-C3	z29	-	C2-C3:z29:-	6,8:z29:-	I
+Uno	O:8 (C2-C3)	6,8	C2-C3	z29	e,n,z15	C2-C3:z29:e,n,z15	6,8:z29:e,n,z15	I
+Widemarsh	O:35 (O)	35	O	z29	-	O:z29:-	35:z29:-	I
+Zinder	O:44 (V)	44	V	z29	-	V:z29:-	44:z29:-	I
+Aachen	O:17 (J)	17	J	z35	1,6	J:z35:1,6	17:z35:1,6	I
+Ahepe	O:43 (U)	43	U	z35	1,6	U:z35:1,6	43:z35:1,6	I
+Ahoutoue	O:41 (S)	41	S	z35	1,6	S:z35:1,6	41:z35:1,6	I
+Angers	O:8 (C2-C3)	8,20	C2-C3	z35	z6	C2-C3:z35:z6	8,20:z35:z6	I
+Anna	O:13 (G)	13,23	G	z35	e,n,z15	G:z35:e,n,z15	13,23:z35:e,n,z15	I
+Babili	O:28 (M)	28	M	z35	1,7	M:z35:1,7	28:z35:1,7	I
+Basingstoke	O:9,46 (D2)	9,46	D	z35	e,n,z15	D:z35:e,n,z15	9,46:z35:e,n,z15	I
+Bingerville	O:47 (X)	47	X	z35	e,n,z15	X:z35:e,n,z15	47:z35:e,n,z15	I
+Cairina	O:3,10 (E1)	3,10	E	z35	z6	E:z35:z6	3,10:z35:z6	I
+Carpentras	O:38 (P)	38	P	z35	e,n,z15	P:z35:e,n,z15	38:z35:e,n,z15	I
+Catumagos	O:1,3,19 (E4)	1,3,19	E	z35	1,5	E:z35:1,5	1,3,19:z35:1,5	I
+Dakota	O:16 (l)	16	I	z35	e,n,z15	I:z35:e,n,z15	16:z35:e,n,z15	I
+Gambaga	O:21 (L)	21	L	z35	e,n,z15	L:z35:e,n,z15	21:z35:e,n,z15	I
+Hennekamp	O:42 (T)	42	T	z35	e,n,z15	T:z35:e,n,z15	42:z35:e,n,z15	I
+Hillegersberg	O:9,46 (D2)	9,46	D	z35	1,5	D:z35:1,5	9,46:z35:1,5	I
+II 3,10:z35:e,n,x,z15	O:3,10 (E1)	3,10	E	z35	e,n,x,z15	E:z35:e,n,x,z15	3,10:z35:e,n,x,z15	II
+II 16:z35:e,n,x	O:16 (l)	16	I	z35	e,n,x	I:z35:e,n,x	16:z35:e,n,x	II
+II 1,40:z35:e,n,x,z15	O:40 (R) 	1,40	R	z35	e,n,x,z15	R:z35:e,n,x,z15	1,40:z35:e,n,x,z15	II
+IIIb 48:z35:z52	O:48 (Y)1	48	Y	z35	z52	Y:z35:z52	48:z35:z52	IIIb
+Kahla	O:42 (T)	1,42	T	z35	1,6	T:z35:1,6	1,42:z35:1,6	I
+Kokoli	O:30 (N)	30	N	z35	1,6	N:z35:1,6	30:z35:1,6	I
+Kolda	O:8 (C2-C3)	8,20	C2-C3	z35	1,2	C2-C3:z35:1,2	8,20:z35:1,2	I
+Konolfingen	O:28 (M)	28	M	z35	1,6	M:z35:1,6	28:z35:1,6	I
+Lattenkamp	O:45 (W)	45	W	z35	1,5	W:z35:1,5	45:z35:1,5	I
+Mampong	O:13 (G)	13,22	G	z35	1,6	G:z35:1,6	13,22:z35:1,6	I
+Nimes	O:13 (G)	13,22	G	z35	e,n,z15	G:z35:e,n,z15	13,22:z35:e,n,z15	I
+Palime	O:7 (C1)	6,7	C1	z35	e,n,z15	C1:z35:e,n,z15	6,7:z35:e,n,z15	I
+Pasing	O:4 (B)	4,12	B	z35	1,5	B:z35:1,5	4,12:z35:1,5	I
+Penarth	O:9 (D1)	9,12	D	z35	z6	D:z35:z6	9,12:z35:z6	I
+Picpus	O:13 (G)	13,23	G	z35	1,6	G:z35:1,6	13,23:z35:1,6	I
+Ratchaburi	O:3,10 (E1)	3,10	E	z35	1,6	E:z35:1,6	3,10:z35:1,6	I
+Santander	O:28 (M)	28	M	z35	e,n,z15	M:z35:e,n,z15	28:z35:e,n,z15	I
+Shannon	O:3,10 (E1)	3,10	E	z35	l,w	E:z35:l,w	3,10:z35:l,w	I
+Sloterdijk	O:4 (B)	1,4,12,27	B	z35	z6	B:z35:z6	1,4,12,27:z35:z6	I
+Tafo	O:4 (B)	1,4,12,27	B	z35	1,7	B:z35:1,7	1,4,12,27:z35:1,7	I
+Tema	O:42 (T)	1,42	T	z35	z6	T:z35:z6	1,42:z35:z6	I
+Tienba	O:7 (C1)	6,7	C1	z35	1,6	C1:z35:1,6	6,7:z35:1,6	I
+Trier	O:16 (l)	16	I	z35	1,6	I:z35:1,6	16:z35:1,6	I
+Trimdon	O:9,46 (D2)	9,46	D	z35	z6	D:z35:z6	9,46:z35:z6	I
+V 61:z35:-	O:61	61	O-61	z35	-	O-61:z35:-	61:z35:-	V
+V 66:z35:-	O:66	66	O-66	z35	-	O-66:z35:-	66:z35:-	V
+V 1,40:z35:-	O:40 (R) 	1,40	R	z35	-	R:z35:-	1,40:z35:-	V
+V 48:z35:-	O:48 (Y)1	48	Y	z35	-	Y:z35:-	48:z35:-	V
+Wuiti	O:30 (N)	30	N	z35	e,n,z15	N:z35:e,n,z15	30:z35:e,n,z15	I
+Yaounde	O:4 (B)	1,4,12,27	B	z35	e,n,z15	B:z35:e,n,z15	1,4,12,27:z35:e,n,z15	I
+Yarm	O:8 (C2-C3)	6,8	C2-C3	z35	1,2	C2-C3:z35:1,2	6,8:z35:1,2	I
+Yekepa	O:40 (R) 	1,40	R	z35	e,n,z15	R:z35:e,n,z15	1,40:z35:e,n,z15	I
+Yombesali	O:47 (X)	47	X	z35	z6	X:z35:z6	47:z35:z6	I
+Zongo	O:3,10 (E1)	3,10	E	z35	1,7	E:z35:1,7	3,10:z35:1,7	I
+Balcones	O:45 (W)	45	W	z36	-	W:z36:-	45:z36:-	I
+II 6,7:z36:z42	O:7 (C1)	6,7	C1	z36	z42	C1:z36:z42	6,7:z36:z42	II
+II 6,14:z36:-	O:6,14 (H)	6,14	H	z36	-	H:z36:-	6,14:z36:-	II
+II 16:z36:e,n,z15	O:16 (l)	16	I	z36	e,n,z15	I:z36:e,n,z15	16:z36:e,n,z15	II
+II 18:z36:-	O:18 (K)	18	K	z36	-	K:z36:-	18:z36:-	II
+IIIa 17:z36:-	O:17 (J)	17	J	z36	-	J:z36:-	17:z36:-	IIIa
+IIIa 21:z36:-	O:21 (L)	21	L	z36	-	L:z36:-	21:z36:-	IIIa
+IIIa 59:z36:-	O:59	59	O-59	z36	-	O-59:z36:-	59:z36:-	IIIa
+IIIa 62:z36:-	O:62	62	O-62	z36	-	O-62:z36:-	62:z36:-	IIIa
+IIIa 63:z36:-	O:63	63	O-63	z36	-	O-63:z36:-	63:z36:-	IIIa
+IIIa 35:z36:-	O:35 (O)	35	O	z36	-	O:z36:-	35:z36:-	IIIa
+IIIa 40:z36:-	O:40 (R) 	40	R	z36	-	R:z36:-	40:z36:-	IIIa
+IIIa 41:z36:-	O:41 (S)	41	S	z36	-	S:z36:-	41:z36:-	IIIa
+IIIa 43:z36:-	O:43 (U)	43	U	z36	-	U:z36:-	43:z36:-	IIIa
+IIIa 45:z36:-	O:45 (W)	45	W	z36	-	W:z36:-	45:z36:-	IIIa
+IIIa 48:z36:-	O:48 (Y)1	48	Y	z36	-	Y:z36:-	48:z36:-	IIIa
+IIIa 50:z36:-	O:50 (Z)	50	Z	z36	-	Z:z36:-	50:z36:-	IIIa
+IV 6,7:z36:-	O:7 (C1)	6,7	C1	z36	-	C1:z36:-	6,7:z36:-	IV
+IV 16:z36:-	O:16 (l)	16	I	z36	-	I:z36:-	16:z36:-	IV
+IV 17:z36:-	O:17 (J)	17	J	z36	-	J:z36:-	17:z36:-	IV
+IV 21:z36:-	O:21 (L)	21	L	z36	-	L:z36:-	21:z36:-	IV
+IV 41:z36:-	O:41 (S)	41	S	z36	-	S:z36:-	41:z36:-	IV
+IV 42:z36:-	O:42 (T)	42	T	z36	-	T:z36:-	42:z36:-	IV
+IV 47:z36:-	O:47 (X)	47	X	z36	-	X:z36:-	47:z36:-	IV
+Macallen	O:3,10 (E1)	3,10	E	z36	-	E:z36:-	3,10:z36:-	I
+Potosi	O:6,14 (H)	6,14	H	z36	1,5	H:z36:1,5	6,14:z36:1,5	I
+Tampico	O:7 (C1)	6,7	C1	z36	e,n,z15	C1:z36:e,n,z15	6,7:z36:e,n,z15	I
+Tejas	O:4 (B)	4,12	B	z36	-	B:z36:-	4,12:z36:-	I
+VI 59:z36:-	O:59	59	O-59	z36	-	O-59:z36:-	59:z36:-	VI
+Weslaco	O:42 (T)	42	T	z36	-	T:z36:-	42:z36:-	I
+IV 44:z36,[z38]:-	O:44 (V)	44	V	z36,[z38]	-	V:z36,[z38]:-	44:z36,[z38]:-	IV
+IV 48:z36,[z38]:-	O:48 (Y)1	48	Y	z36,[z38]	-	Y:z36,[z38]:-	48:z36,[z38]:-	IV
+IV 18:z36,z38:-	O:18 (K)	18	K	z36,z38	-	K:z36,z38:-	18:z36,z38:-	IV
+IV 1,53:z36,z38:-	O:53	1,53	O-53	z36,z38	-	O-53:z36,z38:-	1,53:z36,z38:-	IV
+IV 43:z36,z38:-	O:43 (U)	43	U	z36,z38	-	U:z36,z38:-	43:z36,z38:-	IV
+IV 45:z36,z38:-	O:45 (W)	45	W	z36,z38	-	W:z36,z38:-	45:z36,z38:-	IV
+Aderike	O:28 (M)	28	M	z38	e,n,z15	M:z38:e,n,z15	28:z38:e,n,z15	I
+Ago	O:30 (N)	30	N	z38	-	N:z38:-	30:z38:-	I
+Albertslund	O:3,10 (E1)	3,10	E	z38	1,6	E:z38:1,6	3,10:z38:1,6	I
+Alexanderplatz	O:47 (X)	47	X	z38	-	X:z38:-	47:z38:-	I
+Apeyeme	O:8 (C2-C3)	8,20	C2-C3	z38	-	C2-C3:z38:-	8,20:z38:-	I
+Bolombo	O:3,10 (E1)	3,10	E	z38	-	E:z38:-	3,10:z38:-	I
+Bolombo	O:3,10 (E1)	3,10	E	z38	z6	E:z38:z6	3,10:z38:z6	I
+Elomrane	O:9 (D1)	1,9,12	D	z38	-	D:z38:-	1,9,12:z38:-	I
+Fanti	O:13 (G)	13,23	G	z38	-	G:z38:-	13,23:z38:-	I
+Fresno	O:9,46 (D2)	9,46	D	z38	-	D:z38:-	9,46:z38:-	I
+Haga	O:35 (O)	35	O	z38	-	O:z38:-	35:z38:-	I
+II 3,10:z38:z42	O:3,10 (E1)	3,10	E	z38	z42	E:z38:z42	3,10:z38:z42	II
+Irigny	O:43 (U)	43	U	z38	-	U:z38:-	43:z38:-	I
+Klouto	O:38 (P)	38	P	z38	-	P:z38:-	38:z38:-	I
+Koketime	O:44 (V)	44	V	z38	-	V:z38:-	44:z38:-	I
+Leiden	O:13 (G)	13,22	G	z38	-	G:z38:-	13,22:z38:-	I
+Lene	O:11 (F)	11	F	z38	-	F:z38:-	11:z38:-	I
+Lille	O:7 (C1)	6,7,14	C1	z38	-	C1:z38:-	6,7,14:z38:-	I
+Naware	O:16 (l)	16	I	z38	-	I:z38:-	16:z38:-	I
+Ochiogu	O:1,3,19 (E4)	1,3,19	E	z38	-	E:z38:-	1,3,19:z38:-	I
+Ochiogu	O:1,3,19 (E4)	1,3,19	E	z38	e,n,z15	E:z38:e,n,z15	1,3,19:z38:e,n,z15	I
+Offa	O:41 (S)	41	S	z38	-	S:z38:-	41:z38:-	I
+Rumford	O:7 (C1)	6,7	C1	z38	1,2	C1:z38:1,2	6,7:z38:1,2	I
+Sandaga	O:3,10 (E1)	3,10	E	z38	1,2	E:z38:1,2	3,10:z38:1,2	I
+Sara	O:6,14 (H)	1,6,14,25	H	z38	-	H:z38:-	1,6,14,25:z38:-	I
+Sara	O:6,14 (H)	1,6,14,25	H	z38	e,n,x	H:z38:e,n,x	1,6,14,25:z38:e,n,x	I
+Sinthia	O:18 (K)	18	K	z38	-	K:z38:-	18:z38:-	I
+Vogan	O:42 (T)	1,42	T	z38	z6	T:z38:z6	1,42:z38:z6	I
+Wilhelmsburg	O:4 (B)	1,4,[5],12,[27]	B	z38	-	B:z38:-	1,4,[5],12,[27]:z38:-	I
+Wilhelmsburg	O:4 (B)	1,4,[5],12,[27]	B	z38	e,n,z15	B:z38:e,n,z15	1,4,[5],12,[27]:z38:e,n,z15	I
+Grancanaria	O:16 (l)	16	I	z39	-	I:z39:-	16:z39:-	I
+Grancanaria	O:16 (l)	16	I	z39	1,6	I:z39:1,6	16:z39:1,6	I
+II 1,4,12,[27]:z39:1,[5],7	O:4 (B)	1,4,12,[27]	B	z39	1,[5],7	B:z39:1,[5],7	1,4,12,[27]:z39:1,[5],7	II
+II 6,7:z39:1,5,7	O:7 (C1)	6,7	C1	z39	1,5,7	C1:z39:1,5,7	6,7:z39:1,5,7	II
+II 1,9,12:z39:1,7	O:9 (D1)	1,9,12	D	z39	1,7	D:z39:1,7	1,9,12:z39:1,7	II
+II 9,46:z39:1,7	O:9,46 (D2)	9,46	D	z39	1,7	D:z39:1,7	9,46:z39:1,7	II
+II 3,10:z39:1,[5],7	O:3,10 (E1)	3,10	E	z39	1,[5],7	E:z39:1,[5],7	3,10:z39:1,[5],7	II
+II 1,13,23:z39:1,5,7	O:13 (G)	1,13,23	G	z39	1,5,7	G:z39:1,5,7	1,13,23:z39:1,5,7	II
+II 13,22:z39:1,7	O:13 (G)	13,22	G	z39	1,7	G:z39:1,7	13,22:z39:1,7	II
+II 30:z39:1,7	O:30 (N)	30	N	z39	1,7	N:z39:1,7	30:z39:1,7	II
+II 52:z39:1,5,7	O:52	52	O-52	z39	1,5,7	O-52:z39:1,5,7	52:z39:1,5,7	II
+II 57:z39:e,n,x,z15	O:57	57	O-57	z39	e,n,x,z15	O-57:z39:e,n,x,z15	57:z39:e,n,x,z15	II
+II 58:z39:e,n,x,z15	O:58	58	O-58	z39	e,n,x,z15	O-58:z39:e,n,x,z15	58:z39:e,n,x,z15	II
+II 1,40:z39:1,5	O:40 (R) 	1,40	R	z39	1,5	R:z39:1,5	1,40:z39:1,5	II
+II 1,40:z39:1,6	O:40 (R) 	1,40	R	z39	1,6	R:z39:1,6	1,40:z39:1,6	II
+II 40:z39:1,7	O:40 (R) 	40	R	z39	1,7	R:z39:1,7	40:z39:1,7	II
+II 1,44:z39:e,n,x,z15	O:44 (V)	1,44	V	z39	e,n,x,z15	V:z39:e,n,x,z15	1,44:z39:e,n,x,z15	II
+II 48:z39:z81	O:48 (Y)1	48	Y	z39	z81	Y:z39:z81	48:z39:z81	II
+IIIb 6,7,14:z39:1,2	O:7 (C1)	6,7,14	C1	z39	1,2	C1:z39:1,2	6,7,14:z39:1,2	IIIb
+IIIb 40:z39:1,6	O:40 (R) 	40	R	z39	1,6	R:z39:1,6	40:z39:1,6	IIIb
+V 13,22:z39:-	O:13 (G)	13,22	G	z39	-	G:z39:-	13,22:z39:-	V
+V 66:z39:-	O:66	66	O-66	z39	-	O-66:z39:-	66:z39:-	V
+V 44:z39:-	O:44 (V)	44	V	z39	-	V:z39:-	44:z39:-	V
+V 48:z39:-	O:48 (Y)1	48	Y	z39	-	Y:z39:-	48:z39:-	V
+Aarhus	O:18 (K)	18	K	z4,z23	-	K:z4,z23:-	18:z4,z23:-	I
+Aarhus	O:18 (K)	18	K	z4,z23	z64	K:z4,z23:z64	18:z4,z23:z64	I
+Adabraka	O:3,10 (E1)	3,10	E	z4,z23	-	E:z4,z23:-	3,10:z4,z23:-	I
+Adabraka	O:3,10 (E1)	3,10	E	z4,z23	1,7	E:z4,z23:1,7	3,10:z4,z23:1,7	I
+Aequatoria	O:7 (C1)	6,7	C1	z4,z23	e,n,z15	C1:z4,z23:e,n,z15	6,7:z4,z23:e,n,z15	I
+Ajiobo	O:13 (G)	13,23	G	z4,z23	-	G:z4,z23:-	13,23:z4,z23:-	I
+Alachua	O:35 (O)	35	O	z4,z23	-	O:z4,z23:-	35:z4,z23:-	I
+Arapahoe	O:6,14 (H)	6,14	H	z4,z23	1,5	H:z4,z23:1,5	6,14:z4,z23:1,5	I
+Axim	O:16 (l)	16	I	z4,z23	z6	I:z4,z23:z6	16:z4,z23:z6	I
+Babelsberg	O:28 (M)	28	M	z4,z23	-	M:z4,z23:-	28:z4,z23:-	I
+Babelsberg	O:28 (M)	28	M	z4,z23	e,n,z15	M:z4,z23:e,n,z15	28:z4,z23:e,n,z15	I
+Baguida	O:21 (L)	21	L	z4,z23	-	L:z4,z23:-	21:z4,z23:-	I
+Bellevue	O:8 (C2-C3)	8	C2-C3	z4,z23	1,7	C2-C3:z4,z23:1,7	8:z4,z23:1,7	I
+Bere	O:47 (X)	47	X	z4,z23	z6	X:z4,z23:z6	47:z4,z23:z6	I
+Binche	O:47 (X)	47	X	z4,z23	l,w	X:z4,z23:l,w	47:z4,z23:l,w	I
+Bofflens	O:41 (S)	41	S	z4,z23	1,7	S:z4,z23:1,7	41:z4,z23:1,7	I
+Bousso	O:6,14 (H)	1,6,14,25	H	z4,z23	-	H:z4,z23:-	1,6,14,25:z4,z23:-	I
+Bousso	O:6,14 (H)	1,6,14,25	H	z4,z23	e,n,z15	H:z4,z23:e,n,z15	1,6,14,25:z4,z23:e,n,z15	I
+Breda	O:8 (C2-C3)	6,8	C2-C3	z4,z23	e,n,x	C2-C3:z4,z23:e,n,x	6,8:z4,z23:e,n,x	I
+Broc	O:42 (T)	42	T	z4,z23	e,n,z15	T:z4,z23:e,n,z15	42:z4,z23:e,n,z15	I
+Cannobio	O:28 (M)	28	M	z4,z23	1,5	M:z4,z23:1,5	28:z4,z23:1,5	I
+Cerro	O:18 (K)	6,14,18	K	z4,z23	-	K:z4,z23:-	6,14,18:z4,z23:-	I
+Cerro	O:18 (K)	6,14,18	K	z4,z23	1,5	K:z4,z23:1,5	6,14,18:z4,z23:1,5	I
+Chailey	O:8 (C2-C3)	6,8	C2-C3	z4,z23	-	C2-C3:z4,z23:-	6,8:z4,z23:-	I
+Chailey	O:8 (C2-C3)	6,8	C2-C3	z4,z23	e,n,z15	C2-C3:z4,z23:e,n,z15	6,8:z4,z23:e,n,z15	I
+Corvallis	O:8 (C2-C3)	8,20	C2-C3	z4,z23	-	C2-C3:z4,z23:-	8,20:z4,z23:-	I
+Corvallis	O:8 (C2-C3)	8,20	C2-C3	z4,z23	z6	C2-C3:z4,z23:z6	8,20:z4,z23:z6	I
+Dabou	O:8 (C2-C3)	8,20	C2-C3	z4,z23	l,w	C2-C3:z4,z23:l,w	8,20:z4,z23:l,w	I
+Ekotedo	O:9,46 (D2)	9,46	D	z4,z23	-	D:z4,z23:-	9,46:z4,z23:-	I
+Etterbeek	O:11 (F)	11	F	z4,z23	e,n,z15	F:z4,z23:e,n,z15	11:z4,z23:e,n,z15	I
+Farmingdale	O:43 (U)	43	U	z4,z23	-	U:z4,z23:-	43:z4,z23:-	I
+Farmingdale	O:43 (U)	43	U	z4,z23	1,2	U:z4,z23:1,2	43:z4,z23:1,2	I
+Fehrbellin	O:47 (X)	47	X	z4,z23	1,6	X:z4,z23:1,6	47:z4,z23:1,6	I
+Gera	O:42 (T)	1,42	T	z4,z23	1,6	T:z4,z23:1,6	1,42:z4,z23:1,6	I
+Goma	O:7 (C1)	6,7	C1	z4,z23	z6	C1:z4,z23:z6	6,7:z4,z23:z6	I
+II 6,7:z4,z23:-	O:7 (C1)	6,7	C1	z4,z23	-	C1:z4,z23:-	6,7:z4,z23:-	II
+II 16:z4,z23:-	O:16 (l)	16	I	z4,z23	-	I:z4,z23:-	16:z4,z23:-	II
+II 18:z4,z23:-	O:18 (K)	18	K	z4,z23	-	K:z4,z23:-	18:z4,z23:-	II
+II 43:z4,z23:-	O:43 (U)	43	U	z4,z23	-	U:z4,z23:-	43:z4,z23:-	II
+II 44:z4,z23:-	O:44 (V)	44	V	z4,z23	-	V:z4,z23:-	44:z4,z23:-	II
+IIIa 11:z4,z23:-	O:11 (F)	11	F	z4,z23	-	F:z4,z23:-	11:z4,z23:-	IIIa
+IIIa 13,22:z4,z23:-	O:13 (G)	13,22	G	z4,z23	-	G:z4,z23:-	13,22:z4,z23:-	IIIa
+IIIa 17:z4,z23:-	O:17 (J)	17	J	z4,z23	-	J:z4,z23:-	17:z4,z23:-	IIIa
+IIIa 18:z4,z23:-	O:18 (K)	18	K	z4,z23	-	K:z4,z23:-	18:z4,z23:-	IIIa
+IIIa 21:z4,z23:-	O:21 (L)	21	L	z4,z23	-	L:z4,z23:-	21:z4,z23:-	IIIa
+IIIa 51:z4,z23:-	O:51	51	O-51	z4,z23	-	O-51:z4,z23:-	51:z4,z23:-	IIIa
+IIIa 53:z4,z23:-	O:53	53	O-53	z4,z23	-	O-53:z4,z23:-	53:z4,z23:-	IIIa
+IIIa 56:z4,z23:-	O:56	56	O-56	z4,z23	-	O-56:z4,z23:-	56:z4,z23:-	IIIa
+IIIa 59:z4,z23:-	O:59	59	O-59	z4,z23	-	O-59:z4,z23:-	59:z4,z23:-	IIIa
+IIIa 62:z4,z23:-	O:62	62	O-62	z4,z23	-	O-62:z4,z23:-	62:z4,z23:-	IIIa
+IIIa 63:z4,z23:-	O:63	63	O-63	z4,z23	-	O-63:z4,z23:-	63:z4,z23:-	IIIa
+IIIa 35:z4,z23:-	O:35 (O)	35	O	z4,z23	-	O:z4,z23:-	35:z4,z23:-	IIIa
+IIIa 38:z4,z23:-	O:38 (P)	38	P	z4,z23	-	P:z4,z23:-	38:z4,z23:-	IIIa
+IIIa 40:z4,z23:-	O:40 (R) 	40	R	z4,z23	-	R:z4,z23:-	40:z4,z23:-	IIIa
+IIIa 41:z4,z23:-	O:41 (S)	41	S	z4,z23	-	S:z4,z23:-	41:z4,z23:-	IIIa
+IIIa 42:z4,z23:-	O:42 (T)	42	T	z4,z23	-	T:z4,z23:-	42:z4,z23:-	IIIa
+IIIa 43:z4,z23:-	O:43 (U)	43	U	z4,z23	-	U:z4,z23:-	43:z4,z23:-	IIIa
+IIIa 44:z4,z23:-	O:44 (V)	44	V	z4,z23	-	V:z4,z23:-	44:z4,z23:-	IIIa
+IIIa 45:z4,z23:-	O:45 (W)	45	W	z4,z23	-	W:z4,z23:-	45:z4,z23:-	IIIa
+IIIa 47:z4,z23:-	O:47 (X)	47	X	z4,z23	-	X:z4,z23:-	47:z4,z23:-	IIIa
+IIIa 48:z4,z23:-	O:48 (Y)1	48	Y	z4,z23	-	Y:z4,z23:-	48:z4,z23:-	IIIa
+IIIa 50:z4,z23:-	O:50 (Z)	50	Z	z4,z23	-	Z:z4,z23:-	50:z4,z23:-	IIIa
+Ilugun	O:1,3,19 (E4)	1,3,10,19	E	z4,z23	z6	E:z4,z23:z6	1,3,10,19:z4,z23:z6	I
+IV 6,7:z4,z23:-	O:7 (C1)	6,7	C1	z4,z23	-	C1:z4,z23:-	6,7:z4,z23:-	IV
+IV 11:z4,z23:-	O:11 (F)	11	F	z4,z23	-	F:z4,z23:-	11:z4,z23:-	IV
+IV 6,14:z4,z23:-	O:6,14 (H)	6,14	H	z4,z23	-	H:z4,z23:-	6,14:z4,z23:-	IV
+IV 16:z4,z23:-	O:16 (l)	16	I	z4,z23	-	I:z4,z23:-	16:z4,z23:-	IV
+IV 21:z4,z23:-	O:21 (L)	21	L	z4,z23	-	L:z4,z23:-	21:z4,z23:-	IV
+IV 51:z4,z23:-	O:51	51	O-51	z4,z23	-	O-51:z4,z23:-	51:z4,z23:-	IV
+IV 53:z4,z23:-	O:53	53	O-53	z4,z23	-	O-53:z4,z23:-	53:z4,z23:-	IV
+IV 57:z4,z23:-	O:57	57	O-57	z4,z23	-	O-57:z4,z23:-	57:z4,z23:-	IV
+IV 38:z4,z23:-	O:38 (P)	38	P	z4,z23	-	P:z4,z23:-	38:z4,z23:-	IV
+IV 1,40:z4,z23:-	O:40 (R) 	1,40	R	z4,z23	-	R:z4,z23:-	1,40:z4,z23:-	IV
+IV 41:z4,z23:-	O:41 (S)	41	S	z4,z23	-	S:z4,z23:-	41:z4,z23:-	IV
+IV 43:z4,z23:-	O:43 (U)	43	U	z4,z23	-	U:z4,z23:-	43:z4,z23:-	IV
+IV 44:z4,z23:-	O:44 (V)	44	V	z4,z23	-	V:z4,z23:-	44:z4,z23:-	IV
+IV 45:z4,z23:-	O:45 (W)	45	W	z4,z23	-	W:z4,z23:-	45:z4,z23:-	IV
+IV 48:z4,z23:-	O:48 (Y)1	48	Y	z4,z23	-	Y:z4,z23:-	48:z4,z23:-	IV
+IV 50:z4,z23:-	O:50 (Z)	50	Z	z4,z23	-	Z:z4,z23:-	50:z4,z23:-	IV
+Kibi	O:16 (l)	16	I	z4,z23	-	I:z4,z23:-	16:z4,z23:-	I
+Kibi	O:16 (l)	16	I	z4,z23	1,6	I:z4,z23:1,6	16:z4,z23:1,6	I
+Kua	O:44 (V)	44	V	z4,z23	-	V:z4,z23:-	44:z4,z23:-	I
+Lezennes	O:8 (C2-C3)	6,8	C2-C3	z4,z23	1,7	C2-C3:z4,z23:1,7	6,8:z4,z23:1,7	I
+Namur	O:39 (Q)	39	Q	z4,z23	-	Q:z4,z23:-	39:z4,z23:-	I
+Obogu	O:7 (C1)	6,7	C1	z4,z23	1,5	C1:z4,z23:1,5	6,7:z4,z23:1,5	I
+Planckendael	O:7 (C1)	6,7	C1	z4,z23	1,6	C1:z4,z23:1,6	6,7:z4,z23:1,6	I
+Ploufragan	O:44 (V)	1,44	V	z4,z23	e,n,z15	V:z4,z23:e,n,z15	1,44:z4,z23:e,n,z15	I
+Remete	O:11 (F)	11	F	z4,z23	1,6	F:z4,z23:1,6	11:z4,z23:1,6	I
+Ried	O:13 (G)	1,13,22	G	z4,z23	-	G:z4,z23:-	1,13,22:z4,z23:-	I
+Ried	O:13 (G)	1,13,22	G	z4,z23	e,n,z15	G:z4,z23:e,n,z15	1,13,22:z4,z23:e,n,z15	I
+Stanleyville	O:4 (B)	1,4,[5],12,[27]	B	z4,z23	-	B:z4,z23:-	1,4,[5],12,[27]:z4,z23:-	I
+Stanleyville	O:4 (B)	1,4,[5],12,[27]	B	z4,z23	1,2	B:z4,z23:1,2	1,4,[5],12,[27]:z4,z23:1,2	I
+Stoneferry	O:30 (N)	30	N	z4,z23	-	N:z4,z23:-	30:z4,z23:-	I
+Tabligbo	O:47 (X)	47	X	z4,z23	e,n,z15	X:z4,z23:e,n,z15	47:z4,z23:e,n,z15	I
+Teltow	O:28 (M)	28	M	z4,z23	1,6	M:z4,z23:1,6	28:z4,z23:1,6	I
+Vuadens	O:4 (B)	4,12,27	B	z4,z23	z6	B:z4,z23:z6	4,12,27:z4,z23:z6	I
+Wagadugu	O:3,10 (E1)	3,10	E	z4,z23	z6	E:z4,z23:z6	3,10:z4,z23:z6	I
+Wangata	O:9 (D1)	1,9,12	D	z4,z23	-	D:z4,z23:-	1,9,12:z4,z23:-	I
+Wangata	O:9 (D1)	1,9,12	D	z4,z23	1,7	D:z4,z23:1,7	1,9,12:z4,z23:1,7	I
+Waycross	O:41 (S)	41	S	z4,z23	-	S:z4,z23:-	41:z4,z23:-	I
+Waycross	O:41 (S)	41	S	z4,z23	e,n,z15	S:z4,z23:e,n,z15	41:z4,z23:e,n,z15	I
+Yerba	O:54	54	O-54	z4,z23	-	O-54:z4,z23:-	54:z4,z23:-	I
+Yoff	O:38 (P)	38	P	z4,z23	1,2	P:z4,z23:1,2	38:z4,z23:1,2	I
+IIIa 13,23:z4,z23,[z32]:-	O:13 (G)	13,23	G	z4,z23,[z32]	-	G:z4,z23:-	13,23:z4,z23,[z32]:-	IIIa
+IIIa 13,23:z4,z23,[z32]:-	O:13 (G)	13,23	G	z4,z23,[z32]	-	G:z4,z23,z32:-	13,23:z4,z23,[z32]:-	IIIa
+IIIa 17:z4,z23,z32:-	O:17 (J)	17	J	z4,z23,z32	-	J:z4,z23,z32:-	17:z4,z23,z32:-	IIIa
+IIIa 53:z4,z23,z32:-	O:53	53	O-53	z4,z23,z32	-	O-53:z4,z23,z32:-	53:z4,z23,z32:-	IIIa
+IIIa 56:z4,z23,z32:-	O:56	56	O-56	z4,z23,z32	-	O-56:z4,z23,z32:-	56:z4,z23,z32:-	IIIa
+IIIa 41:z4,z23,z32:-	O:41 (S)	41	S	z4,z23,z32	-	S:z4,z23,z32:-	41:z4,z23,z32:-	IIIa
+IIIa 44:z4,z23,z32:-	O:44 (V)	44	V	z4,z23,z32	-	V:z4,z23,z32:-	44:z4,z23,z32:-	IIIa
+IIIa 48:z4,z23,z32:-	O:48 (Y)1	48	Y	z4,z23,z32	-	Y:z4,z23,z32:-	48:z4,z23,z32:-	IIIa
+IIIa 50:z4,z23,z32:-	O:50 (Z)	50	Z	z4,z23,z32	-	Z:z4,z23,z32:-	50:z4,z23,z32:-	IIIa
+Albany	O:8 (C2-C3)	8,20	C2-C3	z4,z24	-	C2-C3:z4,z24:-	8,20:z4,z24:-	I
+Bangkok	O:38 (P)	38	P	z4,z24	-	P:z4,z24:-	38:z4,z24:-	I
+Blukwa	O:18 (K)	6,14,18	K	z4,z24	-	K:z4,z24:-	6,14,18:z4,z24:-	I
+Bodjonegoro	O:30 (N)	30	N	z4,z24	-	N:z4,z24:-	30:z4,z24:-	I
+Chichiri	O:6,14 (H)	6,14,24	H	z4,z24	-	H:z4,z24:-	6,14,24:z4,z24:-	I
+Christiansborg	O:44 (V)	44	V	z4,z24	-	V:z4,z24:-	44:z4,z24:-	I
+Djakarta	O:48 (Y)1	48	Y	z4,z24	-	Y:z4,z24:-	48:z4,z24:-	I
+Duesseldorf	O:8 (C2-C3)	6,8	C2-C3	z4,z24	-	C2-C3:z4,z24:-	6,8:z4,z24:-	I
+Florian	O:3,10 (E1)	3,{10}{15}	E	z4,z24	-	E:z4,z24:-	3,{10}{15}:z4,z24:-	I
+II 6,7:z4,z24:z42	O:7 (C1)	6,7	C1	z4,z24	z42	C1:z4,z24:z42	6,7:z4,z24:z42	II
+II 1,9,12,46,27:z4,z24:1,5	O:9,46,27 (D3)	1,9,12,46,27	D	z4,z24	1,5	D:z4,z24:1,5	1,9,12,46,27:z4,z24:1,5	II
+II 9,46:z4,z24:z39	O:9,46 (D2)	9,46	D	z4,z24	z39	D:z4,z24:z39	9,46:z4,z24:z39	II
+II 3,10:z4,z24:-	O:3,10 (E1)	3,10	E	z4,z24	-	E:z4,z24:-	3,10:z4,z24:-	II
+II 16:z4,z24:-	O:16 (l)	16	I	z4,z24	-	I:z4,z24:-	16:z4,z24:-	II
+II 18:z4,z24:-	O:18 (K)	18	K	z4,z24	-	K:z4,z24:-	18:z4,z24:-	II
+II 21:z4,z24:-	O:21 (L)	21	L	z4,z24	-	L:z4,z24:-	21:z4,z24:-	II
+II 53:z4,z24:-	O:53	53	O-53	z4,z24	-	O-53:z4,z24:-	53:z4,z24:-	II
+II 40:z4,z24:z39	O:40 (R) 	40	R	z4,z24	z39	R:z4,z24:z39	40:z4,z24:z39	II
+IIIa 13,23:z4,z24:-	O:13 (G)	13,23	G	z4,z24	-	G:z4,z24:-	13,23:z4,z24:-	IIIa
+IIIa 17:z4,z24:-	O:17 (J)	17	J	z4,z24	-	J:z4,z24:-	17:z4,z24:-	IIIa
+IIIa 21:z4,z24:-	O:21 (L)	21	L	z4,z24	-	L:z4,z24:-	21:z4,z24:-	IIIa
+IIIa 51:z4,z24:-	O:51	51	O-51	z4,z24	-	O-51:z4,z24:-	51:z4,z24:-	IIIa
+IIIa 53:z4,z24:-	O:53	53	O-53	z4,z24	-	O-53:z4,z24:-	53:z4,z24:-	IIIa
+IIIa 35:z4,z24:-	O:35 (O)	35	O	z4,z24	-	O:z4,z24:-	35:z4,z24:-	IIIa
+IIIa 40:z4,z24:-	O:40 (R) 	40	R	z4,z24	-	R:z4,z24:-	40:z4,z24:-	IIIa
+IIIa 41:z4,z24:-	O:41 (S)	41	S	z4,z24	-	S:z4,z24:-	41:z4,z24:-	IIIa
+IIIa 42:z4,z24:-	O:42 (T)	42	T	z4,z24	-	T:z4,z24:-	42:z4,z24:-	IIIa
+IIIa 43:z4,z24:-	O:43 (U)	43	U	z4,z24	-	U:z4,z24:-	43:z4,z24:-	IIIa
+IIIa 44:z4,z24:-	O:44 (V)	44	V	z4,z24	-	V:z4,z24:-	44:z4,z24:-	IIIa
+IIIa 45:z4,z24:-	O:45 (W)	45	W	z4,z24	-	W:z4,z24:-	45:z4,z24:-	IIIa
+IIIa 48:z4,z24:-	O:48 (Y)1	48	Y	z4,z24	-	Y:z4,z24:-	48:z4,z24:-	IIIa
+IIIa 50:z4,z24:-	O:50 (Z)	50	Z	z4,z24	-	Z:z4,z24:-	50:z4,z24:-	IIIa
+IIIb 48:z4,z24:-	O:48 (Y)1	48	Y	z4,z24	-	Y:z4,z24:-	48:z4,z24:-	IIIb
+Ipswich	O:41 (S)	41	S	z4,z24	1,5	S:z4,z24:1,5	41:z4,z24:1,5	I
+IV 6,7:z4,z24:-	O:7 (C1)	6,7	C1	z4,z24	-	C1:z4,z24:-	6,7:z4,z24:-	IV
+IV 16:z4,z24:-	O:16 (l)	16	I	z4,z24	-	I:z4,z24:-	16:z4,z24:-	IV
+IV 1,40:z4,z24:-	O:40 (R) 	1,40	R	z4,z24	-	R:z4,z24:-	1,40:z4,z24:-	IV
+IV 1,42:z4,z24:-	O:42 (T)	1,42	T	z4,z24	-	T:z4,z24:-	1,42:z4,z24:-	IV
+IV 43:z4,z24:-	O:43 (U)	43	U	z4,z24	-	U:z4,z24:-	43:z4,z24:-	IV
+IV 44:z4,z24:-	O:44 (V)	44	V	z4,z24	-	V:z4,z24:-	44:z4,z24:-	IV
+IV 50:z4,z24:-	O:50 (Z)	50	Z	z4,z24	-	Z:z4,z24:-	50:z4,z24:-	IV
+Kaevlinge	O:16 (l)	16	I	z4,z24	-	I:z4,z24:-	16:z4,z24:-	I
+Kalamu	O:4 (B)	1,4,[5],12	B	z4,z24	-	B:z4,z24:-	1,4,[5],12:z4,z24:-	I
+Kalamu	O:4 (B)	1,4,[5],12	B	z4,z24	1,5	B:z4,z24:1,5	1,4,[5],12:z4,z24:1,5	I
+Kethiabarny	O:28 (M)	28	M	z4,z24	-	M:z4,z24:-	28:z4,z24:-	I
+Natal	O:9 (D1)	9,12	D	z4,z24	-	D:z4,z24:-	9,12:z4,z24:-	I
+Ngaparou	O:9,46 (D2)	9,46	D	z4,z24	-	D:z4,z24:-	9,46:z4,z24:-	I
+Romanby	O:13 (G)	1,13,23	G	z4,z24	-	G:z4,z24:-	1,13,23:z4,z24:-	I
+Sambre	O:1,3,19 (E4)	1,3,19	E	z4,z24	-	E:z4,z24:-	1,3,19:z4,z24:-	I
+Somone	O:7 (C1)	6,7	C1	z4,z24	-	C1:z4,z24:-	6,7:z4,z24:-	I
+Tamberma	O:47 (X)	47	X	z4,z24	-	X:z4,z24:-	47:z4,z24:-	I
+Toricada	O:42 (T)	1,42	T	z4,z24	-	T:z4,z24:-	1,42:z4,z24:-	I
+Transvaal	O:45 (W)	45	W	z4,z24	-	W:z4,z24:-	45:z4,z24:-	I
+Uzaramo	O:6,14 (H)	1,6,14,25	H	z4,z24	-	H:z4,z24:-	1,6,14,25:z4,z24:-	I
+Westphalia	O:35 (O)	35	O	z4,z24	-	O:z4,z24:-	35:z4,z24:-	I
+Yehuda	O:11 (F)	11	F	z4,z24	-	F:z4,z24:-	11:z4,z24:-	I
+IIIa 17:z4,z32:-	O:17 (J)	17	J	z4,z32	-	J:z4,z32:-	17:z4,z32:-	IIIa
+IIIa 18:z4,z32:-	O:18 (K)	18	K	z4,z32	-	K:z4,z32:-	18:z4,z32:-	IIIa
+IIIa 51:z4,z32:-	O:51	51	O-51	z4,z32	-	O-51:z4,z32:-	51:z4,z32:-	IIIa
+IIIa 62:z4,z32:-	O:62	62	O-62	z4,z32	-	O-62:z4,z32:-	62:z4,z32:-	IIIa
+IIIa 63:z4,z32:-	O:63	63	O-63	z4,z32	-	O-63:z4,z32:-	63:z4,z32:-	IIIa
+IIIa 35:z4,z32:-	O:35 (O)	35	O	z4,z32	-	O:z4,z32:-	35:z4,z32:-	IIIa
+IIIa 40:z4,z32:-	O:40 (R) 	40	R	z4,z32	-	R:z4,z32:-	40:z4,z32:-	IIIa
+IIIa 41:z4,z32:-	O:41 (S)	41	S	z4,z32	-	S:z4,z32:-	41:z4,z32:-	IIIa
+IIIa 44:z4,z32:-	O:44 (V)	44	V	z4,z32	-	V:z4,z32:-	44:z4,z32:-	IIIa
+IIIa 45:z4,z32:-	O:45 (W)	45	W	z4,z32	-	W:z4,z32:-	45:z4,z32:-	IIIa
+IIIa 48:z4,z32:-	O:48 (Y)1	48	Y	z4,z32	-	Y:z4,z32:-	48:z4,z32:-	IIIa
+IIIa 50:z4,z32:-	O:50 (Z)	50	Z	z4,z32	-	Z:z4,z32:-	50:z4,z32:-	IIIa
+IV 11:z4,z32:-	O:11 (F)	11	F	z4,z32	-	F:z4,z32:-	11:z4,z32:-	IV
+IV 16:z4,z32:-	O:16 (l)	16	I	z4,z32	-	I:z4,z32:-	16:z4,z32:-	IV
+IV 21:z4,z32:-	O:21 (L)	21	L	z4,z32	-	L:z4,z32:-	21:z4,z32:-	IV
+IV 1,40:z4,z32:-	O:40 (R) 	1,40	R	z4,z32	-	R:z4,z32:-	1,40:z4,z32:-	IV
+IV 43:z4,z32:-	O:43 (U)	43	U	z4,z32	-	U:z4,z32:-	43:z4,z32:-	IV
+IV 1,44:z4,z32:-	O:44 (V)	1,44	V	z4,z32	-	V:z4,z32:-	1,44:z4,z32:-	IV
+IV 48:z4,z32:-	O:48 (Y)1	48	Y	z4,z32	-	Y:z4,z32:-	48:z4,z32:-	IV
+IV 50:z4,z32:-	O:50 (Z)	50	Z	z4,z32	-	Z:z4,z32:-	50:z4,z32:-	IV
+Tallahassee	O:8 (C2-C3)	6,8	C2-C3	z4,z32	-	C2-C3:z4,z32:-	6,8:z4,z32:-	I
+Diogoye	O:8 (C2-C3)	8,20	C2-C3	z41	z6	C2-C3:z41:z6	8,20:z41:z6	I
+Dortmund	O:3,10 (E1)	3,10	E	z41	1,[2],5	E:z41:1,[2],5	3,10:z41:1,[2],5	I
+Hillsborough	O:7 (C1)	6,7	C1	z41	l,w	C1:z41:l,w	6,7:z41:l,w	I
+Karamoja	O:40 (R) 	1,40	R	z41	1,2	R:z41:1,2	1,40:z41:1,2	I
+Maastricht	O:11 (F)	11	F	z41	1,2	F:z41:1,2	11:z41:1,2	I
+Maska	O:4 (B)	1,4,12,27	B	z41	e,n,z15	B:z41:e,n,z15	1,4,12,27:z41:e,n,z15	I
+Ottawa	O:9 (D1)	1,9,12	D	z41	1,5	D:z41:1,5	1,9,12:z41:1,5	I
+Tamilnadu	O:7 (C1)	6,7	C1	z41	z35	C1:z41:z35	6,7:z41:z35	I
+Taset	O:42 (T)	1,42	T	z41	-	T:z41:-	1,42:z41:-	I
+Thayngen	O:4 (B)	1,4,12,27	B	z41	1,(2),5	B:z41:1,(2),5	1,4,12,27:z41:1,(2),5	I
+V 60:z41:-	O:60	60	O-60	z41	-	O-60:z41:-	60:z41:-	V
+V 66:z41:-	O:66	66	O-66	z41	-	O-66:z41:-	66:z41:-	V
+V 48:z41:-	O:48 (Y)1	48	Y	z41	-	Y:z41:-	48:z41:-	V
+VI 6,7:z41:1,7	O:7 (C1)	6,7	C1	z41	1,7	C1:z41:1,7	6,7:z41:1,7	VI
+Wuppertal	O:9,46 (D2)	9,46	D	z41	-	D:z41:-	9,46:z41:-	I
+II 6,7:z42:1,[5],7	O:7 (C1)	6,7	C1	z42	1,[5],7	C1:z42:1,[5],7	6,7:z42:1,[5],7	II
+II 1,9,12:z42:1,[5],7	O:9 (D1)	1,9,12	D	z42	1,[5],7	D:z42:1,[5],7	1,9,12:z42:1,[5],7	II
+II 1,6,14:z42:1,6	O:6,14 (H)	1,6,14	H	z42	1,6	H:z42:1,6	1,6,14:z42:1,6	II
+II 16:z42:1,(5),7	O:16 (l)	16	I	z42	1,(5),7	I:z42:1,(5),7	16:z42:1,(5),7	II
+II 16:z42:1,6	O:16 (l)	16	I	z42	1,6	I:z42:1,6	16:z42:1,6	II
+II 57:z42:1,6	O:57	57	O-57	z42	1,6	O-57:z42:1,6	57:z42:1,6	II
+II 1,40:z42:1,(5),7	O:40 (R) 	1,40	R	z42	1,(5),7	R:z42:1,(5),7	1,40:z42:1,(5),7	II
+II 1,40:z42:1,6	O:40 (R) 	1,40	R	z42	1,6	R:z42:1,6	1,40:z42:1,6	II
+II 43:z42:-	O:43 (U)	43	U	z42	-	U:z42:-	43:z42:-	II
+II 43:z42:1,5,7	O:43 (U)	43	U	z42	1,5,7	U:z42:1,5,7	43:z42:1,5,7	II
+II 50:z42:1,7	O:50 (Z)	50	Z	z42	1,7	Z:z42:1,7	50:z42:1,7	II
+Bulovka	O:7 (C1)	6,7	C1	z44	-	C1:z44:-	6,7:z44:-	I
+II 52:z44:1,5,7	O:52	52	O-52	z44	1,5,7	O-52:z44:1,5,7	52:z44:1,5,7	II
+Quinhon	O:47 (X)	47	X	z44	-	X:z44:-	47:z44:-	I
+IIIb 6,14:z52:e,n,x,z15	O:6,14 (H)	6,14	H	z52	e,n,x,z15	H:z52:e,n,x,z15	6,14:z52:e,n,x,z15	IIIb
+IIIb [1],6,14,[25]:z52:z35	O:6,14 (H)	[1],6,14,[25]	H	z52	z35	H:z52:z35	[1],6,14,[25]:z52:z35	IIIb
+IIIb 16:z52:z35	O:16 (l)	16	I	z52	z35	I:z52:z35	16:z52:z35	IIIb
+IIIb 53:z52:z35	O:53	53	O-53	z52	z35	O-53:z52:z35	53:z52:z35	IIIb
+IIIb 53:z52:z53	O:53	53	O-53	z52	z53	O-53:z52:z53	53:z52:z53	IIIb
+IIIb 58:z52:z	O:58	58	O-58	z52	z	O-58:z52:z	58:z52:z	IIIb
+IIIb 58:z52:z35	O:58	58	O-58	z52	z35	O-58:z52:z35	58:z52:z35	IIIb
+IIIb 59:z52:z53	O:59	59	O-59	z52	z53	O-59:z52:z53	59:z52:z53	IIIb
+IIIb 60:z52:1,5,[7]	O:60	60	O-60	z52	1,5,[7]	O-60:z52:1,5,7	60:z52:1,5,[7]	IIIb
+IIIb 60:z52:z	O:60	60	O-60	z52	z	O-60:z52:z	60:z52:z	IIIb
+IIIb 60:z52:z35	O:60	60	O-60	z52	z35	O-60:z52:z35	60:z52:z35	IIIb
+IIIb 60:z52:z53	O:60	60	O-60	z52	z53	O-60:z52:z53	60:z52:z53	IIIb
+IIIb 61:z52:1,5,7	O:61	61	O-61	z52	1,5,7	O-61:z52:1,5,7	61:z52:1,5,7	IIIb
+IIIb 61:z52:z	O:61	61	O-61	z52	z	O-61:z52:z	61:z52:z	IIIb
+IIIb 61:z52:z35	O:61	61	O-61	z52	z35	O-61:z52:z35	61:z52:z35	IIIb
+IIIb 61:z52:z53	O:61	61	O-61	z52	z53	O-61:z52:z53	61:z52:z53	IIIb
+IIIb 65:z52:e,n,x,z15	O:65	65	O-65	z52	e,n,x,z15	O-65:z52:e,n,x,z15	65:z52:e,n,x,z15	IIIb
+IIIb 65:z52:z	O:65	65	O-65	z52	z	O-65:z52:z	65:z52:z	IIIb
+IIIb 65:z52:z35	O:65	65	O-65	z52	z35	O-65:z52:z35	65:z52:z35	IIIb
+IIIb 65:z52:z53	O:65	65	O-65	z52	z53	O-65:z52:z53	65:z52:z53	IIIb
+IIIb 35:z52:1,5,7	O:35 (O)	35	O	z52	1,5,7	O:z52:1,5,7	35:z52:1,5,7	IIIb
+IIIb 35:z52:e,n,x,z15	O:35 (O)	35	O	z52	e,n,x,z15	O:z52:e,n,x,z15	35:z52:e,n,x,z15	IIIb
+IIIb 35:z52:z	O:35 (O)	35	O	z52	z	O:z52:z	35:z52:z	IIIb
+IIIb 35:z52:z35	O:35 (O)	35	O	z52	z35	O:z52:z35	35:z52:z35	IIIb
+IIIb 38:z52:z35	O:38 (P)	38	P	z52	z35	P:z52:z35	38:z52:z35	IIIb
+IIIb 38:z52:z53	O:38 (P)	38	P	z52	z53	P:z52:z53	38:z52:z53	IIIb
+IIIb 42:z52:z	O:42 (T)	42	T	z52	z	T:z52:z	42:z52:z	IIIb
+IIIb 43:z52:z53	O:43 (U)	43	U	z52	z53	U:z52:z53	43:z52:z53	IIIb
+IIIb 47:z52:1,5	O:47 (X)	47	X	z52	1,5	X:z52:1,5	47:z52:1,5	IIIb
+IIIb 47:z52:1,5,7	O:47 (X)	47	X	z52	1,5,7	X:z52:1,5,7	47:z52:1,5,7	IIIb
+IIIb 47:z52:e,n,x,z15	O:47 (X)	47	X	z52	e,n,x,z15	X:z52:e,n,x,z15	47:z52:e,n,x,z15	IIIb
+IIIb 47:z52:z	O:47 (X)	47	X	z52	z	X:z52:z	47:z52:z	IIIb
+IIIb 47:z52:z35	O:47 (X)	47	X	z52	z35	X:z52:z35	47:z52:z35	IIIb
+IIIb 48:z52:e,n,x,z15	O:48 (Y)1	48	Y	z52	e,n,x,z15	Y:z52:e,n,x,z15	48:z52:e,n,x,z15	IIIb
+IIIb 48:z52:z	O:48 (Y)1	48	Y	z52	z	Y:z52:z	48:z52:z	IIIb
+IIIb 50:z52:1,5,7	O:50 (Z)	50	Z	z52	1,5,7	Z:z52:1,5,7	50:z52:1,5,7	IIIb
+IIIb 50:z52:z35	O:50 (Z)	50	Z	z52	z35	Z:z52:z35	50:z52:z35	IIIb
+IIIb 50:z52:z53	O:50 (Z)	50	Z	z52	z53	Z:z52:z53	50:z52:z53	IIIb
+IV 41:z52:-	O:41 (S)	41	S	z52	-	S:z52:-	41:z52:-	IV
+IIIb 38:z53:-	O:38 (P)	38	P	z53	-	P:z53:-	38:z53:-	IIIb
+IIIb 47:z53:-	O:47 (X)	47	X	z53	-	X:z53:-	47:z53:-	IIIb
+IIIb 42:z57:1,5	O:42 (T)	42	T	z57	1,5	T:z57:1,5	42:z57:1,5	IIIb
+Franken	O:9 (D1)	9,12	D	z6	z67	D:z6:z67	9,12:z6:z67	I
+II 6,7:z6:1,7	O:7 (C1)	6,7	C1	z6	1,7	C1:z6:1,7	6,7:z6:1,7	II
+II 16:z6:1,6	O:16 (l)	16	I	z6	1,6	I:z6:1,6	16:z6:1,6	II
+II 30:z6:1,6	O:30 (N)	30	N	z6	1,6	N:z6:1,6	30:z6:1,6	II
+II 58:z6:1,6	O:58	58	O-58	z6	1,6	O-58:z6:1,6	58:z6:1,6	II
+II 1,40:z6:1,5	O:40 (R) 	1,40	R	z6	1,5	R:z6:1,5	1,40:z6:1,5	II
+II 42:z6:1,6	O:42 (T)	42	T	z6	1,6	T:z6:1,6	42:z6:1,6	II
+II 47:z6:1,6	O:47 (X)	47	X	z6	1,6	X:z6:1,6	47:z6:1,6	II
+Aesch	O:8 (C2-C3)	6,8	C2-C3	z60	1,2	C2-C3:z60:1,2	6,8:z60:1,2	I
+IIIb 38:z61:-	O:38 (P)	38	P	z61	-	P:z61:-	38:z61:-	IIIb
+IIIb 38:z61:z53	O:38 (P)	38	P	z61	z53	P:z61:z53	38:z61:z53	IIIb
+IIIb 21:z65:e,n,x,z15	O:21 (L)	21	L	z65	e,n,x,z15	L:z65:e,n,x,z15	21:z65:e,n,x,z15	IIIb
+V 66:z65:-	O:66	66	O-66	z65	-	O-66:z65:-	66:z65:-	V
+V 48:z65:-	O:48 (Y)1	48	Y	z65	-	Y:z65:-	48:z65:-	V
+Pietersburg	O:3,10 (E1)	3,{10}{15,34}	E	z69	1,7	E:z69:1,7	3,{10}{15,34}:z69:1,7	I
+Delmenhorst	O:18 (K)	18	K	z71	-	K:z71:-	18:z71:-	I
+II 1,40:z81:z6	O:40 (R) 	1,40	R	z81	z6	R:z81:z6	1,40:z81:z6	II
+V 66:z81:-	O:66	66	O-66	z81	-	O-66:z81:-	66:z81:-	V
+V 1,40:z81:-	O:40 (R) 	1,40	R	z81	-	R:z81:-	1,40:z81:-	V
+V 48:z81:-	O:48 (Y)1	48	Y	z81	-	Y:z81:-	48:z81:-	V
+Mygdal	O:4 (B)	4,12	B	z91	-	B:z91:-	4,12:z91:-	I
